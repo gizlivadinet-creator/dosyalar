@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Xiaomi ROM RSS Feed</title>
+  <title>Apple IPSW Firmware RSS Feed</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -64,30 +64,30 @@
 </head>
 <body>
   <div class="container">
-    <h1>Xiaomi MIUI / HyperOS ROM Feed</h1>
-    <p class="subtitle">Latest official Fastboot ROM downloads for Xiaomi devices, auto-updated every 12 hours.</p>
+    <h1>Apple IPSW Firmware Feed</h1>
+    <p class="subtitle">Latest official Apple firmware (iOS, iPadOS, watchOS, tvOS, audioOS, visionOS, macOS) direct-download links, auto-updated every 12 hours. Data via ipsw.me API.</p>
 
     <div class="card">
       <p><strong>RSS Feed URL:</strong></p>
       <div class="feed-url" id="feedUrl">loading...</div>
       <button class="btn" onclick="copyUrl()">Copy RSS URL</button>
       <a class="btn btn-secondary" href="rss.xml">View RSS</a>
-      <a class="btn btn-secondary" href="roms.json">View JSON</a>
+      <a class="btn btn-secondary" href="ipsw.json">View JSON</a>
     </div>
 
     <div class="card">
       <div class="stats">
         <div class="stat">
-          <div class="stat-num" id="romCount">--</div>
-          <div class="stat-label">ROMs</div>
+          <div class="stat-num" id="fwCount">--</div>
+          <div class="stat-label">Firmwares</div>
         </div>
         <div class="stat">
           <div class="stat-num" id="deviceCount">--</div>
           <div class="stat-label">Devices</div>
         </div>
         <div class="stat">
-          <div class="stat-num" id="regionCount">--</div>
-          <div class="stat-label">Regions</div>
+          <div class="stat-num" id="platformCount">--</div>
+          <div class="stat-label">Platforms</div>
         </div>
       </div>
       <p class="updated" id="updated">Last updated: loading...</p>
@@ -97,7 +97,10 @@
       <p><strong>How to use:</strong></p>
       <p style="margin-top:8px;color:#9aa0ac;font-size:0.9rem">
         Copy the RSS URL above and paste it into your favorite RSS reader
-        (Feedly, Inoreader, etc.) to get notified when new ROM versions are released.
+        (Feedly, Inoreader, etc.) to get notified when new firmware versions
+        are released. Every item links directly to Apple's CDN &mdash; clicking
+        the download link (or the enclosure) starts the .ipsw download
+        immediately, no landing page in between.
       </p>
     </div>
   </div>
@@ -116,18 +119,18 @@
       });
     }
 
-    fetch(baseUrl + 'roms.json')
+    fetch(baseUrl + 'ipsw.json')
       .then(r => r.json())
       .then(data => {
-        document.getElementById('romCount').textContent = data.length;
-        const devices = new Set(data.map(r => r.base_codename));
-        const regions = new Set(data.map(r => r.region));
+        document.getElementById('fwCount').textContent = data.length;
+        const devices = new Set(data.map(r => r.identifier));
+        const platforms = new Set(data.map(r => r.platform));
         document.getElementById('deviceCount').textContent = devices.size;
-        document.getElementById('regionCount').textContent = regions.size;
+        document.getElementById('platformCount').textContent = platforms.size;
         document.getElementById('updated').textContent = 'Last updated: ' + new Date().toLocaleString();
       })
       .catch(() => {
-        document.getElementById('romCount').textContent = 'N/A';
+        document.getElementById('fwCount').textContent = 'N/A';
       });
   </script>
 </body>
