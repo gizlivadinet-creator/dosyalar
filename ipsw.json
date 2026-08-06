@@ -1,18 +1,18 @@
 [
   {
-    "name": "iPhone 4 (GSM)",
-    "identifier": "iPhone3,1",
+    "name": "iPhone 4s",
+    "identifier": "iPhone4,1",
     "platform": "iOS",
-    "version": "7.1.2",
-    "buildid": "11D257",
-    "filesize": 1204958925,
-    "filesize_human": "1.12 GB",
-    "sha1sum": "81da17b3e893a61508fe203849b7e1f60e2127b1",
-    "md5sum": "6ed6cb1c2eac7177f96c9fbcf04a4f34",
+    "version": "9.3.6",
+    "buildid": "13G37",
+    "filesize": 1613420044,
+    "filesize_human": "1.50 GB",
+    "sha1sum": "6ccddbfdf4a0d6747924252d379ad6d52f7d4ea8",
+    "md5sum": "26f4c6077e5f9beda57f100cda21e464",
     "signed": true,
-    "releasedate": "2014-06-30T18:29:05Z",
-    "uploaddate": "2014-06-20T20:44:55Z",
-    "download_url": "https://secure-appldnld.apple.com/iOS7.1/031-4812.20140627.cq6y8/iPhone3,1_7.1.2_11D257_Restore.ipsw"
+    "releasedate": "2019-07-22T17:04:57Z",
+    "uploaddate": "2019-07-01T17:02:41Z",
+    "download_url": "https://updates.cdn-apple.com/2019/ios/041-80043-20190722-6C65AD27-69D8-499C-BC15-DE7AC74DE2BD/iPhone4,1_9.3.6_13G37_Restore.ipsw"
   },
   {
     "name": "iPhone 3GS",
@@ -30,49 +30,34 @@
     "download_url": "https://secure-appldnld.apple.com/iOS6.1/091-3457.20140221.Btt3e/iPhone2,1_6.1.6_10B500_Restore.ipsw"
   },
   {
-    "name": "iPhone 4s",
-    "identifier": "iPhone4,1",
+    "name": "iPhone 4 (GSM)",
+    "identifier": "iPhone3,1",
     "platform": "iOS",
-    "version": "9.3.6",
-    "buildid": "13G37",
-    "filesize": 1613420044,
-    "filesize_human": "1.50 GB",
-    "sha1sum": "6ccddbfdf4a0d6747924252d379ad6d52f7d4ea8",
-    "md5sum": "26f4c6077e5f9beda57f100cda21e464",
+    "version": "7.1.2",
+    "buildid": "11D257",
+    "filesize": 1204958925,
+    "filesize_human": "1.12 GB",
+    "sha1sum": "81da17b3e893a61508fe203849b7e1f60e2127b1",
+    "md5sum": "6ed6cb1c2eac7177f96c9fbcf04a4f34",
     "signed": true,
-    "releasedate": "2019-07-22T17:04:57Z",
-    "uploaddate": "2019-07-01T17:02:41Z",
-    "download_url": "https://updates.cdn-apple.com/2019/ios/041-80043-20190722-6C65AD27-69D8-499C-BC15-DE7AC74DE2BD/iPhone4,1_9.3.6_13G37_Restore.ipsw"
+    "releasedate": "2014-06-30T18:29:05Z",
+    "uploaddate": "2014-06-20T20:44:55Z",
+    "download_url": "https://secure-appldnld.apple.com/iOS7.1/031-4812.20140627.cq6y8/iPhone3,1_7.1.2_11D257_Restore.ipsw"
   },
   {
-    "name": "iPod touch 2G",
-    "identifier": "iPod2,1",
+    "name": "iPhone 4 (CDMA)",
+    "identifier": "iPhone3,3",
     "platform": "iOS",
-    "version": "4.2.1",
-    "buildid": "8C148",
-    "filesize": 363553480,
-    "filesize_human": "346.71 MB",
-    "sha1sum": "b9efddc7bb4350c237a8d3846af61bbfc8a2f647",
-    "md5sum": "0045e3543647e23470b84c2c1de96ab1",
+    "version": "7.1.2",
+    "buildid": "11D257",
+    "filesize": 1203218495,
+    "filesize_human": "1.12 GB",
+    "sha1sum": "aaeda3c8e1979189faa153cdf43e817a3f81f74c",
+    "md5sum": "f3206fb96ccfbf66174b26778eae1caa",
     "signed": true,
-    "releasedate": null,
-    "uploaddate": "2010-11-18T17:30:56Z",
-    "download_url": "https://secure-appldnld.apple.com/iPhone4/061-9855.20101122.Lrft6/iPod2,1_4.2.1_8C148_Restore.ipsw"
-  },
-  {
-    "name": "iPod touch 3",
-    "identifier": "iPod3,1",
-    "platform": "iOS",
-    "version": "5.1.1",
-    "buildid": "9B206",
-    "filesize": 687617414,
-    "filesize_human": "655.76 MB",
-    "sha1sum": "a0be8559d32c2553a5ec66c6f745214fdc686fec",
-    "md5sum": "5dfa8310e4a62ce0ce57259b55cabb07",
-    "signed": true,
-    "releasedate": null,
-    "uploaddate": "2012-04-27T21:44:07Z",
-    "download_url": "https://secure-appldnld.apple.com/iOS5.1.1/041-4300.20120427.WvgGq/iPod3,1_5.1.1_9B206_Restore.ipsw"
+    "releasedate": "2014-06-30T18:29:06Z",
+    "uploaddate": "2014-06-20T05:48:14Z",
+    "download_url": "https://secure-appldnld.apple.com/iOS7.1/031-4768.20140627.DXmmp/iPhone3,3_7.1.2_11D257_Restore.ipsw"
   },
   {
     "name": "iPhone 2G",
@@ -105,6 +90,21 @@
     "download_url": "https://secure-appldnld.apple.com/iPhone4/061-9853.20101122.Vfgt5/iPhone1,2_4.2.1_8C148_Restore.ipsw"
   },
   {
+    "name": "iPod touch 2G",
+    "identifier": "iPod2,1",
+    "platform": "iOS",
+    "version": "4.2.1",
+    "buildid": "8C148",
+    "filesize": 363553480,
+    "filesize_human": "346.71 MB",
+    "sha1sum": "b9efddc7bb4350c237a8d3846af61bbfc8a2f647",
+    "md5sum": "0045e3543647e23470b84c2c1de96ab1",
+    "signed": true,
+    "releasedate": null,
+    "uploaddate": "2010-11-18T17:30:56Z",
+    "download_url": "https://secure-appldnld.apple.com/iPhone4/061-9855.20101122.Lrft6/iPod2,1_4.2.1_8C148_Restore.ipsw"
+  },
+  {
     "name": "iPod touch 1G",
     "identifier": "iPod1,1",
     "platform": "iOS",
@@ -120,19 +120,19 @@
     "download_url": "https://secure-appldnld.apple.com/iPod/SBML/osx/bundles/061-4841.20080714.bgy8O/iPod1,1_1.1.5_4B1_Restore.ipsw"
   },
   {
-    "name": "iPhone 4 (CDMA)",
-    "identifier": "iPhone3,3",
+    "name": "iPod touch 3",
+    "identifier": "iPod3,1",
     "platform": "iOS",
-    "version": "7.1.2",
-    "buildid": "11D257",
-    "filesize": 1203218495,
-    "filesize_human": "1.12 GB",
-    "sha1sum": "aaeda3c8e1979189faa153cdf43e817a3f81f74c",
-    "md5sum": "f3206fb96ccfbf66174b26778eae1caa",
+    "version": "5.1.1",
+    "buildid": "9B206",
+    "filesize": 687617414,
+    "filesize_human": "655.76 MB",
+    "sha1sum": "a0be8559d32c2553a5ec66c6f745214fdc686fec",
+    "md5sum": "5dfa8310e4a62ce0ce57259b55cabb07",
     "signed": true,
-    "releasedate": "2014-06-30T18:29:06Z",
-    "uploaddate": "2014-06-20T05:48:14Z",
-    "download_url": "https://secure-appldnld.apple.com/iOS7.1/031-4768.20140627.DXmmp/iPhone3,3_7.1.2_11D257_Restore.ipsw"
+    "releasedate": null,
+    "uploaddate": "2012-04-27T21:44:07Z",
+    "download_url": "https://secure-appldnld.apple.com/iOS5.1.1/041-4300.20120427.WvgGq/iPod3,1_5.1.1_9B206_Restore.ipsw"
   },
   {
     "name": "iPad 1",
@@ -148,6 +148,21 @@
     "releasedate": null,
     "uploaddate": "2012-04-27T21:16:02Z",
     "download_url": "https://secure-appldnld.apple.com/iOS5.1.1/041-4292.02120427.Tkk0d/iPad1,1_5.1.1_9B206_Restore.ipsw"
+  },
+  {
+    "name": "iPad 2 (WiFi)",
+    "identifier": "iPad2,1",
+    "platform": "iPadOS",
+    "version": "9.3.5",
+    "buildid": "13G36",
+    "filesize": 1418211002,
+    "filesize_human": "1.32 GB",
+    "sha1sum": "daa2b495f135151bd5531b8deca99de5ebf613b4",
+    "md5sum": "3ff0428e0b7f3b5f814b90d9ebbaeff2",
+    "signed": true,
+    "releasedate": "2016-08-25T16:58:30Z",
+    "uploaddate": "2016-08-20T21:13:11Z",
+    "download_url": "https://secure-appldnld.apple.com/iOS9.3.5/031-73136-20160825-6A2B0F0A-6711-11E6-BE6C-193834D2D062/iPad2,1_9.3.5_13G36_Restore.ipsw"
   },
   {
     "name": "iPod touch 4",
@@ -178,21 +193,6 @@
     "releasedate": "2016-08-25T16:58:22Z",
     "uploaddate": "2016-08-20T21:19:00Z",
     "download_url": "https://secure-appldnld.apple.com/iOS9.3.5/031-74153-20160825-1250B23E-6717-11E6-AB83-973F34D2D062/iPad2,2_9.3.5_13G36_Restore.ipsw"
-  },
-  {
-    "name": "iPad 2 (WiFi)",
-    "identifier": "iPad2,1",
-    "platform": "iPadOS",
-    "version": "9.3.5",
-    "buildid": "13G36",
-    "filesize": 1418211002,
-    "filesize_human": "1.32 GB",
-    "sha1sum": "daa2b495f135151bd5531b8deca99de5ebf613b4",
-    "md5sum": "3ff0428e0b7f3b5f814b90d9ebbaeff2",
-    "signed": true,
-    "releasedate": "2016-08-25T16:58:30Z",
-    "uploaddate": "2016-08-20T21:13:11Z",
-    "download_url": "https://secure-appldnld.apple.com/iOS9.3.5/031-73136-20160825-6A2B0F0A-6711-11E6-BE6C-193834D2D062/iPad2,1_9.3.5_13G36_Restore.ipsw"
   },
   {
     "name": "iPad 2 (CDMA)",
@@ -240,21 +240,6 @@
     "download_url": "https://secure-appldnld.apple.com/iOS9.3.5/031-73961-20160825-88328FDE-6714-11E6-97F2-B63D34D2D062/iPad3,1_9.3.5_13G36_Restore.ipsw"
   },
   {
-    "name": "iPad 3 (CDMA)",
-    "identifier": "iPad3,2",
-    "platform": "iPadOS",
-    "version": "9.3.6",
-    "buildid": "13G37",
-    "filesize": 1705789101,
-    "filesize_human": "1.59 GB",
-    "sha1sum": "4e6be7d5fd9f5004bb8c913bf63f6ed5a0c6143d",
-    "md5sum": "cbb1f17c77dd5ae5073bdd08f7e78085",
-    "signed": true,
-    "releasedate": "2019-07-22T17:11:19Z",
-    "uploaddate": "2019-07-01T22:14:58Z",
-    "download_url": "https://updates.cdn-apple.com/2019/ios/041-80039-20190722-E632D5D2-2F3C-498F-B83F-7067D9D90B33/iPad3,2_9.3.6_13G37_Restore.ipsw"
-  },
-  {
     "name": "Apple TV 2G",
     "identifier": "AppleTV2,1",
     "platform": "tvOS",
@@ -285,19 +270,19 @@
     "download_url": "https://updates.cdn-apple.com/2019/ios/041-80044-20190722-6C65AD27-69D8-499C-BC15-DE7AC74DE2BD/iPad3,3_9.3.6_13G37_Restore.ipsw"
   },
   {
-    "name": "iPhone 5 (GSM)",
-    "identifier": "iPhone5,1",
-    "platform": "iOS",
-    "version": "10.3.4",
-    "buildid": "14G61",
-    "filesize": 2000796302,
-    "filesize_human": "1.86 GB",
-    "sha1sum": "2f88a216491667ce33e768ab54752d9d0f53dc20",
-    "md5sum": "043e56050bf9406ba546176a63275087",
+    "name": "iPad 3 (CDMA)",
+    "identifier": "iPad3,2",
+    "platform": "iPadOS",
+    "version": "9.3.6",
+    "buildid": "13G37",
+    "filesize": 1705789101,
+    "filesize_human": "1.59 GB",
+    "sha1sum": "4e6be7d5fd9f5004bb8c913bf63f6ed5a0c6143d",
+    "md5sum": "cbb1f17c77dd5ae5073bdd08f7e78085",
     "signed": true,
-    "releasedate": "2019-07-22T17:14:06Z",
-    "uploaddate": "2019-06-27T22:45:58Z",
-    "download_url": "https://updates.cdn-apple.com/2019/ios/091-25277-20190722-0C1B94DE-992C-11E9-A2EE-E2C9A77C2E40/iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw"
+    "releasedate": "2019-07-22T17:11:19Z",
+    "uploaddate": "2019-07-01T22:14:58Z",
+    "download_url": "https://updates.cdn-apple.com/2019/ios/041-80039-20190722-E632D5D2-2F3C-498F-B83F-7067D9D90B33/iPad3,2_9.3.6_13G37_Restore.ipsw"
   },
   {
     "name": "Apple TV 3",
@@ -313,6 +298,21 @@
     "releasedate": "2022-03-14T16:48:17Z",
     "uploaddate": "2022-03-10T00:10:37Z",
     "download_url": "https://updates.cdn-apple.com/2022/ios/002-77725-20220309-8070E2E2-28B3-463C-96F0-A6FAC4D86F1D/AppleTV3,1_8.4.3_12H1006_Restore.ipsw"
+  },
+  {
+    "name": "iPhone 5 (GSM)",
+    "identifier": "iPhone5,1",
+    "platform": "iOS",
+    "version": "10.3.4",
+    "buildid": "14G61",
+    "filesize": 2000796302,
+    "filesize_human": "1.86 GB",
+    "sha1sum": "2f88a216491667ce33e768ab54752d9d0f53dc20",
+    "md5sum": "043e56050bf9406ba546176a63275087",
+    "signed": true,
+    "releasedate": "2019-07-22T17:14:06Z",
+    "uploaddate": "2019-06-27T22:45:58Z",
+    "download_url": "https://updates.cdn-apple.com/2019/ios/091-25277-20190722-0C1B94DE-992C-11E9-A2EE-E2C9A77C2E40/iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw"
   },
   {
     "name": "Apple TV 3 (2013)",
@@ -345,19 +345,19 @@
     "download_url": "https://secure-appldnld.apple.com/iOS9.3.5/031-73183-20160825-6A2D8488-6711-11E6-9C7E-1B3834D2D062/iPod5,1_9.3.5_13G36_Restore.ipsw"
   },
   {
-    "name": "iPhone 4 (GSM / 2012)",
-    "identifier": "iPhone3,2",
-    "platform": "iOS",
-    "version": "7.1.2",
-    "buildid": "11D257",
-    "filesize": 1204000660,
-    "filesize_human": "1.12 GB",
-    "sha1sum": "b3c0c0adc95ae2ae1184e9aa111845cd705975d9",
-    "md5sum": "681686a3e860d3c592aa201c27e2d5a0",
+    "name": "iPad 4 (WiFi)",
+    "identifier": "iPad3,4",
+    "platform": "iPadOS",
+    "version": "10.3.3",
+    "buildid": "14G60",
+    "filesize": 1930250488,
+    "filesize_human": "1.80 GB",
+    "sha1sum": "88bb926d58e9e2497fcc2a941987314fd6656cc2",
+    "md5sum": "612c6d5367cc6bb7032e70489a6ee4ca",
     "signed": true,
-    "releasedate": "2014-06-30T18:29:06Z",
-    "uploaddate": "2014-06-20T20:16:33Z",
-    "download_url": "https://secure-appldnld.apple.com/iOS7.1/031-4785.20140627.zZ42j/iPhone3,2_7.1.2_11D257_Restore.ipsw"
+    "releasedate": "2017-07-19T17:08:50Z",
+    "uploaddate": "2017-07-15T16:27:38Z",
+    "download_url": "http://appldnld.apple.com/ios10.3.3/091-23117-20170719-CA973B02-6977-11E7-953B-279100BA0AE3/iPad_32bit_10.3.3_14G60_Restore.ipsw"
   },
   {
     "name": "iPhone 5 (Global)",
@@ -373,6 +373,21 @@
     "releasedate": "2019-07-22T17:10:48Z",
     "uploaddate": "2019-06-27T22:45:58Z",
     "download_url": "https://updates.cdn-apple.com/2019/ios/091-25277-20190722-0C1B94DE-992C-11E9-A2EE-E2C9A77C2E40/iPhone_4.0_32bit_10.3.4_14G61_Restore.ipsw"
+  },
+  {
+    "name": "iPhone 4 (GSM / 2012)",
+    "identifier": "iPhone3,2",
+    "platform": "iOS",
+    "version": "7.1.2",
+    "buildid": "11D257",
+    "filesize": 1204000660,
+    "filesize_human": "1.12 GB",
+    "sha1sum": "b3c0c0adc95ae2ae1184e9aa111845cd705975d9",
+    "md5sum": "681686a3e860d3c592aa201c27e2d5a0",
+    "signed": true,
+    "releasedate": "2014-06-30T18:29:06Z",
+    "uploaddate": "2014-06-20T20:16:33Z",
+    "download_url": "https://secure-appldnld.apple.com/iOS7.1/031-4785.20140627.zZ42j/iPhone3,2_7.1.2_11D257_Restore.ipsw"
   },
   {
     "name": "iPad mini (WiFi)",
@@ -420,36 +435,6 @@
     "download_url": "https://updates.cdn-apple.com/2019/ios/041-80041-20190722-673B8756-0A63-4BB6-9855-ACE2381695AF/iPad2,7_9.3.6_13G37_Restore.ipsw"
   },
   {
-    "name": "iPad 4 (GSM)",
-    "identifier": "iPad3,5",
-    "platform": "iPadOS",
-    "version": "10.3.4",
-    "buildid": "14G61",
-    "filesize": 1930083311,
-    "filesize_human": "1.80 GB",
-    "sha1sum": "65aad86d4868bdc26185a00e3fd1d3e2a85b5c57",
-    "md5sum": "0cadbeb281dc07a0c276926619f4f891",
-    "signed": true,
-    "releasedate": "2019-07-22T17:06:23Z",
-    "uploaddate": "2019-06-27T22:45:58Z",
-    "download_url": "https://updates.cdn-apple.com/2019/ios/091-25014-20190722-0C1B95A6-992C-11E9-A2EE-E1C9A77C2E40/iPad_32bit_10.3.4_14G61_Restore.ipsw"
-  },
-  {
-    "name": "iPad 4 (WiFi)",
-    "identifier": "iPad3,4",
-    "platform": "iPadOS",
-    "version": "10.3.3",
-    "buildid": "14G60",
-    "filesize": 1930250488,
-    "filesize_human": "1.80 GB",
-    "sha1sum": "88bb926d58e9e2497fcc2a941987314fd6656cc2",
-    "md5sum": "612c6d5367cc6bb7032e70489a6ee4ca",
-    "signed": true,
-    "releasedate": "2017-07-19T17:08:50Z",
-    "uploaddate": "2017-07-15T16:27:38Z",
-    "download_url": "http://appldnld.apple.com/ios10.3.3/091-23117-20170719-CA973B02-6977-11E7-953B-279100BA0AE3/iPad_32bit_10.3.3_14G60_Restore.ipsw"
-  },
-  {
     "name": "iPhone 5s (GSM)",
     "identifier": "iPhone6,1",
     "platform": "iOS",
@@ -465,6 +450,21 @@
     "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28551/FB7714DB-6E9C-4750-8012-082B09341569/iPhone_4.0_64bit_12.5.8_16H88_Restore.ipsw"
   },
   {
+    "name": "iPad 4 (GSM)",
+    "identifier": "iPad3,5",
+    "platform": "iPadOS",
+    "version": "10.3.4",
+    "buildid": "14G61",
+    "filesize": 1930083311,
+    "filesize_human": "1.80 GB",
+    "sha1sum": "65aad86d4868bdc26185a00e3fd1d3e2a85b5c57",
+    "md5sum": "0cadbeb281dc07a0c276926619f4f891",
+    "signed": true,
+    "releasedate": "2019-07-22T17:06:23Z",
+    "uploaddate": "2019-06-27T22:45:58Z",
+    "download_url": "https://updates.cdn-apple.com/2019/ios/091-25014-20190722-0C1B95A6-992C-11E9-A2EE-E1C9A77C2E40/iPad_32bit_10.3.4_14G61_Restore.ipsw"
+  },
+  {
     "name": "iPad 4 (Global)",
     "identifier": "iPad3,6",
     "platform": "iPadOS",
@@ -478,6 +478,21 @@
     "releasedate": "2019-07-22T17:05:30Z",
     "uploaddate": "2019-06-27T22:45:58Z",
     "download_url": "https://updates.cdn-apple.com/2019/ios/091-25014-20190722-0C1B95A6-992C-11E9-A2EE-E1C9A77C2E40/iPad_32bit_10.3.4_14G61_Restore.ipsw"
+  },
+  {
+    "name": "iPhone 5s (Global)",
+    "identifier": "iPhone6,2",
+    "platform": "iOS",
+    "version": "12.5.8",
+    "buildid": "16H88",
+    "filesize": 3017069797,
+    "filesize_human": "2.81 GB",
+    "sha1sum": "283ec31c183735a412f1f890ecaf556c4cc7a35c",
+    "md5sum": "824ff1159268627992425fde3caf243b",
+    "signed": true,
+    "releasedate": "2026-01-26T18:21:49Z",
+    "uploaddate": "2026-01-22T00:47:46Z",
+    "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28551/FB7714DB-6E9C-4750-8012-082B09341569/iPhone_4.0_64bit_12.5.8_16H88_Restore.ipsw"
   },
   {
     "name": "iPhone 5c (GSM)",
@@ -510,21 +525,6 @@
     "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw"
   },
   {
-    "name": "iPhone 5s (Global)",
-    "identifier": "iPhone6,2",
-    "platform": "iOS",
-    "version": "12.5.8",
-    "buildid": "16H88",
-    "filesize": 3017069797,
-    "filesize_human": "2.81 GB",
-    "sha1sum": "283ec31c183735a412f1f890ecaf556c4cc7a35c",
-    "md5sum": "824ff1159268627992425fde3caf243b",
-    "signed": true,
-    "releasedate": "2026-01-26T18:21:49Z",
-    "uploaddate": "2026-01-22T00:47:46Z",
-    "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28551/FB7714DB-6E9C-4750-8012-082B09341569/iPhone_4.0_64bit_12.5.8_16H88_Restore.ipsw"
-  },
-  {
     "name": "iPhone 5c (Global)",
     "identifier": "iPhone5,4",
     "platform": "iOS",
@@ -538,21 +538,6 @@
     "releasedate": "2017-07-19T16:59:52Z",
     "uploaddate": "2017-07-15T16:28:59Z",
     "download_url": "http://appldnld.apple.com/ios10.3.3/091-23384-20170719-CA966D80-6977-11E7-9F96-3E9100BA0AE3/iPhone_4.0_32bit_10.3.3_14G60_Restore.ipsw"
-  },
-  {
-    "name": "iPad mini 2 (WiFi)",
-    "identifier": "iPad4,4",
-    "platform": "iPadOS",
-    "version": "12.5.8",
-    "buildid": "16H88",
-    "filesize": 2963007018,
-    "filesize_human": "2.76 GB",
-    "sha1sum": "04ab8a320fb8c1bcbbec8f2ee44a585f52c5837e",
-    "md5sum": "30e83f376e01c999beeda736e17e24e2",
-    "signed": true,
-    "releasedate": "2026-01-26T18:21:50Z",
-    "uploaddate": "2026-01-22T00:48:07Z",
-    "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw"
   },
   {
     "name": "iPhone 6+",
@@ -570,21 +555,6 @@
     "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28560/F34191C2-8CF5-4B8F-BCFB-2BDEEC68D668/iPhone_5.5_12.5.8_16H88_Restore.ipsw"
   },
   {
-    "name": "iPad mini 2 (Cellular)",
-    "identifier": "iPad4,5",
-    "platform": "iPadOS",
-    "version": "12.5.8",
-    "buildid": "16H88",
-    "filesize": 2963007018,
-    "filesize_human": "2.76 GB",
-    "sha1sum": "04ab8a320fb8c1bcbbec8f2ee44a585f52c5837e",
-    "md5sum": "30e83f376e01c999beeda736e17e24e2",
-    "signed": true,
-    "releasedate": "2026-01-26T18:21:53Z",
-    "uploaddate": "2026-01-22T00:48:07Z",
-    "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw"
-  },
-  {
     "name": "iPhone 6",
     "identifier": "iPhone7,2",
     "platform": "iOS",
@@ -600,8 +570,8 @@
     "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28352/B80B4A86-C206-4C4F-8D35-65579694AEE9/iPhone_4.7_12.5.8_16H88_Restore.ipsw"
   },
   {
-    "name": "iPad mini 2 (China)",
-    "identifier": "iPad4,6",
+    "name": "iPad mini 2 (WiFi)",
+    "identifier": "iPad4,4",
     "platform": "iPadOS",
     "version": "12.5.8",
     "buildid": "16H88",
@@ -610,7 +580,22 @@
     "sha1sum": "04ab8a320fb8c1bcbbec8f2ee44a585f52c5837e",
     "md5sum": "30e83f376e01c999beeda736e17e24e2",
     "signed": true,
-    "releasedate": "2026-01-26T18:21:55Z",
+    "releasedate": "2026-01-26T18:21:50Z",
+    "uploaddate": "2026-01-22T00:48:07Z",
+    "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw"
+  },
+  {
+    "name": "iPad mini 2 (Cellular)",
+    "identifier": "iPad4,5",
+    "platform": "iPadOS",
+    "version": "12.5.8",
+    "buildid": "16H88",
+    "filesize": 2963007018,
+    "filesize_human": "2.76 GB",
+    "sha1sum": "04ab8a320fb8c1bcbbec8f2ee44a585f52c5837e",
+    "md5sum": "30e83f376e01c999beeda736e17e24e2",
+    "signed": true,
+    "releasedate": "2026-01-26T18:21:53Z",
     "uploaddate": "2026-01-22T00:48:07Z",
     "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw"
   },
@@ -641,6 +626,36 @@
     "md5sum": "30e83f376e01c999beeda736e17e24e2",
     "signed": true,
     "releasedate": "2026-01-26T18:21:46Z",
+    "uploaddate": "2026-01-22T00:48:07Z",
+    "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw"
+  },
+  {
+    "name": "iPad Air 2 (WiFi)",
+    "identifier": "iPad5,3",
+    "platform": "iPadOS",
+    "version": "15.8.8",
+    "buildid": "19H422",
+    "filesize": 5046203202,
+    "filesize_human": "4.70 GB",
+    "sha1sum": "d88a6698d5f4bce455c55a4fedc89538eb91fd64",
+    "md5sum": "e32f13b6128128fa6d54792ce80f2c32",
+    "signed": true,
+    "releasedate": "2026-05-11T17:47:35Z",
+    "uploaddate": "2026-05-01T12:05:43Z",
+    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77369/9704B32E-FACF-4595-93E4-E35EDD25E793/iPad_64bit_TouchID_15.8.8_19H422_Restore.ipsw"
+  },
+  {
+    "name": "iPad mini 2 (China)",
+    "identifier": "iPad4,6",
+    "platform": "iPadOS",
+    "version": "12.5.8",
+    "buildid": "16H88",
+    "filesize": 2963007018,
+    "filesize_human": "2.76 GB",
+    "sha1sum": "04ab8a320fb8c1bcbbec8f2ee44a585f52c5837e",
+    "md5sum": "30e83f376e01c999beeda736e17e24e2",
+    "signed": true,
+    "releasedate": "2026-01-26T18:21:55Z",
     "uploaddate": "2026-01-22T00:48:07Z",
     "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28446/9ED122D9-755C-403E-B95E-7C36998B9838/iPad_64bit_12.5.8_16H88_Restore.ipsw"
   },
@@ -690,21 +705,6 @@
     "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28568/4BF067D1-9411-43EF-AC86-8A6AAC1E2B0C/iPad_64bit_TouchID_12.5.8_16H88_Restore.ipsw"
   },
   {
-    "name": "iPad Air 2 (WiFi)",
-    "identifier": "iPad5,3",
-    "platform": "iPadOS",
-    "version": "15.8.8",
-    "buildid": "19H422",
-    "filesize": 5046203202,
-    "filesize_human": "4.70 GB",
-    "sha1sum": "d88a6698d5f4bce455c55a4fedc89538eb91fd64",
-    "md5sum": "e32f13b6128128fa6d54792ce80f2c32",
-    "signed": true,
-    "releasedate": "2026-05-11T17:47:35Z",
-    "uploaddate": "2026-05-01T12:05:43Z",
-    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77369/9704B32E-FACF-4595-93E4-E35EDD25E793/iPad_64bit_TouchID_15.8.8_19H422_Restore.ipsw"
-  },
-  {
     "name": "iPad Air 2 (Cellular)",
     "identifier": "iPad5,4",
     "platform": "iPadOS",
@@ -716,6 +716,36 @@
     "md5sum": "e32f13b6128128fa6d54792ce80f2c32",
     "signed": true,
     "releasedate": "2026-05-11T17:47:46Z",
+    "uploaddate": "2026-05-01T12:05:43Z",
+    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77369/9704B32E-FACF-4595-93E4-E35EDD25E793/iPad_64bit_TouchID_15.8.8_19H422_Restore.ipsw"
+  },
+  {
+    "name": "iPad mini 4 (WiFi)",
+    "identifier": "iPad5,1",
+    "platform": "iPadOS",
+    "version": "15.8.8",
+    "buildid": "19H422",
+    "filesize": 5046203202,
+    "filesize_human": "4.70 GB",
+    "sha1sum": "d88a6698d5f4bce455c55a4fedc89538eb91fd64",
+    "md5sum": "e32f13b6128128fa6d54792ce80f2c32",
+    "signed": true,
+    "releasedate": "2026-05-11T17:47:54Z",
+    "uploaddate": "2026-05-01T12:05:43Z",
+    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77369/9704B32E-FACF-4595-93E4-E35EDD25E793/iPad_64bit_TouchID_15.8.8_19H422_Restore.ipsw"
+  },
+  {
+    "name": "iPad mini 4 (Cellular)",
+    "identifier": "iPad5,2",
+    "platform": "iPadOS",
+    "version": "15.8.8",
+    "buildid": "19H422",
+    "filesize": 5046203202,
+    "filesize_human": "4.70 GB",
+    "sha1sum": "d88a6698d5f4bce455c55a4fedc89538eb91fd64",
+    "md5sum": "e32f13b6128128fa6d54792ce80f2c32",
+    "signed": true,
+    "releasedate": "2026-05-11T17:47:58Z",
     "uploaddate": "2026-05-01T12:05:43Z",
     "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77369/9704B32E-FACF-4595-93E4-E35EDD25E793/iPad_64bit_TouchID_15.8.8_19H422_Restore.ipsw"
   },
@@ -735,21 +765,6 @@
     "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/047-28554/C3D5CA8F-8B6F-4B05-9456-C5E632723337/iPodtouch_12.5.8_16H88_Restore.ipsw"
   },
   {
-    "name": "iPad mini 4 (WiFi)",
-    "identifier": "iPad5,1",
-    "platform": "iPadOS",
-    "version": "15.8.8",
-    "buildid": "19H422",
-    "filesize": 5046203202,
-    "filesize_human": "4.70 GB",
-    "sha1sum": "d88a6698d5f4bce455c55a4fedc89538eb91fd64",
-    "md5sum": "e32f13b6128128fa6d54792ce80f2c32",
-    "signed": true,
-    "releasedate": "2026-05-11T17:47:54Z",
-    "uploaddate": "2026-05-01T12:05:43Z",
-    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77369/9704B32E-FACF-4595-93E4-E35EDD25E793/iPad_64bit_TouchID_15.8.8_19H422_Restore.ipsw"
-  },
-  {
     "name": "iPhone 6s",
     "identifier": "iPhone8,1",
     "platform": "iOS",
@@ -763,36 +778,6 @@
     "releasedate": "2026-05-11T17:47:51Z",
     "uploaddate": "2026-05-01T12:10:05Z",
     "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77510/5D4563BF-445C-4D8D-AF56-0BAC336265F3/iPhone_4.7_15.8.8_19H422_Restore.ipsw"
-  },
-  {
-    "name": "iPad mini 4 (Cellular)",
-    "identifier": "iPad5,2",
-    "platform": "iPadOS",
-    "version": "15.8.8",
-    "buildid": "19H422",
-    "filesize": 5046203202,
-    "filesize_human": "4.70 GB",
-    "sha1sum": "d88a6698d5f4bce455c55a4fedc89538eb91fd64",
-    "md5sum": "e32f13b6128128fa6d54792ce80f2c32",
-    "signed": true,
-    "releasedate": "2026-05-11T17:47:58Z",
-    "uploaddate": "2026-05-01T12:05:43Z",
-    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77369/9704B32E-FACF-4595-93E4-E35EDD25E793/iPad_64bit_TouchID_15.8.8_19H422_Restore.ipsw"
-  },
-  {
-    "name": "iPhone 6s+",
-    "identifier": "iPhone8,2",
-    "platform": "iOS",
-    "version": "15.8.8",
-    "buildid": "19H422",
-    "filesize": 5427724348,
-    "filesize_human": "5.05 GB",
-    "sha1sum": "e44b9964d6a1cdaf8f3ed5d1675959da806301cf",
-    "md5sum": "56c5b3f48a5b3cf83943126777f6794d",
-    "signed": true,
-    "releasedate": "2026-05-11T17:47:48Z",
-    "uploaddate": "2026-05-01T12:10:37Z",
-    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77536/9EE30DC1-EC4B-47CE-A002-24CD6B18947D/iPhone_5.5_15.8.8_19H422_Restore.ipsw"
   },
   {
     "name": "Apple TV 4 (2015)",
@@ -810,19 +795,19 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-67287/F525C1FF-B49B-40AB-A5F4-A6F4A4847407/AppleTV5,3_26.6_23L773_Restore.ipsw"
   },
   {
-    "name": "iPad Pro 12.9-inch (Cellular)",
-    "identifier": "iPad6,8",
-    "platform": "iPadOS",
-    "version": "16.7.16",
-    "buildid": "20H392",
-    "filesize": 5547711023,
-    "filesize_human": "5.17 GB",
-    "sha1sum": "7ff932949657697d1d0c3296da6d1680fb32dbf8",
-    "md5sum": "32f882d2d85a98e05b1d495eb83ad1c2",
+    "name": "iPhone 6s+",
+    "identifier": "iPhone8,2",
+    "platform": "iOS",
+    "version": "15.8.8",
+    "buildid": "19H422",
+    "filesize": 5427724348,
+    "filesize_human": "5.05 GB",
+    "sha1sum": "e44b9964d6a1cdaf8f3ed5d1675959da806301cf",
+    "md5sum": "56c5b3f48a5b3cf83943126777f6794d",
     "signed": true,
-    "releasedate": "2026-05-11T17:47:36Z",
-    "uploaddate": "2026-05-01T20:37:25Z",
-    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77150/627F6C0C-E3B9-4601-A438-E7A3C2401848/iPadPro_12.9_16.7.16_20H392_Restore.ipsw"
+    "releasedate": "2026-05-11T17:47:48Z",
+    "uploaddate": "2026-05-01T12:10:37Z",
+    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77536/9EE30DC1-EC4B-47CE-A002-24CD6B18947D/iPhone_5.5_15.8.8_19H422_Restore.ipsw"
   },
   {
     "name": "iPad Pro 12.9-inch (WiFi)",
@@ -840,19 +825,19 @@
     "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77150/627F6C0C-E3B9-4601-A438-E7A3C2401848/iPadPro_12.9_16.7.16_20H392_Restore.ipsw"
   },
   {
-    "name": "iPad Pro 9.7-inch (WiFi)",
-    "identifier": "iPad6,3",
+    "name": "iPad Pro 12.9-inch (Cellular)",
+    "identifier": "iPad6,8",
     "platform": "iPadOS",
     "version": "16.7.16",
     "buildid": "20H392",
-    "filesize": 5554651241,
+    "filesize": 5547711023,
     "filesize_human": "5.17 GB",
-    "sha1sum": "2e87f6f187fe52bdda67ac6d24e6604e3138b1c0",
-    "md5sum": "171b58958164f6f8fb40f8a3a1905db4",
+    "sha1sum": "7ff932949657697d1d0c3296da6d1680fb32dbf8",
+    "md5sum": "32f882d2d85a98e05b1d495eb83ad1c2",
     "signed": true,
-    "releasedate": "2026-05-11T17:47:21Z",
-    "uploaddate": "2026-05-01T20:37:39Z",
-    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-76793/64DF3BE2-15B0-4C3D-9E4F-9E901916C71D/iPadPro_9.7_16.7.16_20H392_Restore.ipsw"
+    "releasedate": "2026-05-11T17:47:36Z",
+    "uploaddate": "2026-05-01T20:37:25Z",
+    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77150/627F6C0C-E3B9-4601-A438-E7A3C2401848/iPadPro_12.9_16.7.16_20H392_Restore.ipsw"
   },
   {
     "name": "iPad Pro 9.7-inch (Cellular)",
@@ -866,6 +851,21 @@
     "md5sum": "171b58958164f6f8fb40f8a3a1905db4",
     "signed": true,
     "releasedate": "2026-05-11T17:47:26Z",
+    "uploaddate": "2026-05-01T20:37:39Z",
+    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-76793/64DF3BE2-15B0-4C3D-9E4F-9E901916C71D/iPadPro_9.7_16.7.16_20H392_Restore.ipsw"
+  },
+  {
+    "name": "iPad Pro 9.7-inch (WiFi)",
+    "identifier": "iPad6,3",
+    "platform": "iPadOS",
+    "version": "16.7.16",
+    "buildid": "20H392",
+    "filesize": 5554651241,
+    "filesize_human": "5.17 GB",
+    "sha1sum": "2e87f6f187fe52bdda67ac6d24e6604e3138b1c0",
+    "md5sum": "171b58958164f6f8fb40f8a3a1905db4",
+    "signed": true,
+    "releasedate": "2026-05-11T17:47:21Z",
     "uploaddate": "2026-05-01T20:37:39Z",
     "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-76793/64DF3BE2-15B0-4C3D-9E4F-9E901916C71D/iPadPro_9.7_16.7.16_20H392_Restore.ipsw"
   },
@@ -945,21 +945,6 @@
     "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-76992/9EE008D2-2E68-4D3D-8FAB-DB1DFA658F99/iPad_64bit_TouchID_ASTC_16.7.16_20H392_Restore.ipsw"
   },
   {
-    "name": "iPhone 7 Plus (GSM)",
-    "identifier": "iPhone9,4",
-    "platform": "iOS",
-    "version": "15.8.8",
-    "buildid": "19H422",
-    "filesize": 5555856715,
-    "filesize_human": "5.17 GB",
-    "sha1sum": "3b5a978c34a35ad4b6367b393780c4e18f3c578a",
-    "md5sum": "13bc33d4f9b005cb86e84f8f427c2aeb",
-    "signed": true,
-    "releasedate": "2026-05-11T17:47:52Z",
-    "uploaddate": "2026-05-01T12:06:25Z",
-    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77525/29E86E57-1478-4ABD-BF2F-3CA41EF1CB7E/iPhone_5.5_P3_15.8.8_19H422_Restore.ipsw"
-  },
-  {
     "name": "iPad 5 (Cellular)",
     "identifier": "iPad6,12",
     "platform": "iPadOS",
@@ -973,6 +958,21 @@
     "releasedate": "2026-05-11T17:47:40Z",
     "uploaddate": "2026-05-01T20:37:22Z",
     "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-76992/9EE008D2-2E68-4D3D-8FAB-DB1DFA658F99/iPad_64bit_TouchID_ASTC_16.7.16_20H392_Restore.ipsw"
+  },
+  {
+    "name": "iPhone 7 Plus (GSM)",
+    "identifier": "iPhone9,4",
+    "platform": "iOS",
+    "version": "15.8.8",
+    "buildid": "19H422",
+    "filesize": 5555856715,
+    "filesize_human": "5.17 GB",
+    "sha1sum": "3b5a978c34a35ad4b6367b393780c4e18f3c578a",
+    "md5sum": "13bc33d4f9b005cb86e84f8f427c2aeb",
+    "signed": true,
+    "releasedate": "2026-05-11T17:47:52Z",
+    "uploaddate": "2026-05-01T12:06:25Z",
+    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77525/29E86E57-1478-4ABD-BF2F-3CA41EF1CB7E/iPhone_5.5_P3_15.8.8_19H422_Restore.ipsw"
   },
   {
     "name": "iPad Pro 2 (12.9-inch, Cellular)",
@@ -1016,6 +1016,21 @@
     "md5sum": "dcb71572ef288c84d5767bc489b49f20",
     "signed": true,
     "releasedate": "2026-05-11T17:47:27Z",
+    "uploaddate": "2026-05-01T18:56:38Z",
+    "download_url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/122-77166/DCA6CFE8-90E9-4B92-880D-3DE171798E40/iPad_Pro_HFR_17.7.11_21H461_Restore.ipsw"
+  },
+  {
+    "name": "iPad Pro 2 (12.9-inch, WiFi)",
+    "identifier": "iPad7,1",
+    "platform": "iPadOS",
+    "version": "17.7.11",
+    "buildid": "21H461",
+    "filesize": 6835124840,
+    "filesize_human": "6.37 GB",
+    "sha1sum": "be9ecb93173b55ae26496551542e76465edd460c",
+    "md5sum": "dcb71572ef288c84d5767bc489b49f20",
+    "signed": true,
+    "releasedate": "2026-05-11T17:47:40Z",
     "uploaddate": "2026-05-01T18:56:38Z",
     "download_url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/122-77166/DCA6CFE8-90E9-4B92-880D-3DE171798E40/iPad_Pro_HFR_17.7.11_21H461_Restore.ipsw"
   },
@@ -1080,21 +1095,6 @@
     "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-76738/B6C604B4-548E-401F-BBFF-916E3FFDF235/iPhone_5.5_P3_16.7.16_20H392_Restore.ipsw"
   },
   {
-    "name": "iPad Pro 2 (12.9-inch, WiFi)",
-    "identifier": "iPad7,1",
-    "platform": "iPadOS",
-    "version": "17.7.11",
-    "buildid": "21H461",
-    "filesize": 6835124840,
-    "filesize_human": "6.37 GB",
-    "sha1sum": "be9ecb93173b55ae26496551542e76465edd460c",
-    "md5sum": "dcb71572ef288c84d5767bc489b49f20",
-    "signed": true,
-    "releasedate": "2026-05-11T17:47:40Z",
-    "uploaddate": "2026-05-01T18:56:38Z",
-    "download_url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/122-77166/DCA6CFE8-90E9-4B92-880D-3DE171798E40/iPad_Pro_HFR_17.7.11_21H461_Restore.ipsw"
-  },
-  {
     "name": "iPhone X (GSM)",
     "identifier": "iPhone10,6",
     "platform": "iOS",
@@ -1110,38 +1110,8 @@
     "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77006/1158E502-D76D-4226-AA06-ED5E30CD1111/iPhone10,3,iPhone10,6_16.7.16_20H392_Restore.ipsw"
   },
   {
-    "name": "iPhone X (Global)",
-    "identifier": "iPhone10,3",
-    "platform": "iOS",
-    "version": "16.7.16",
-    "buildid": "20H392",
-    "filesize": 6171035648,
-    "filesize_human": "5.75 GB",
-    "sha1sum": "5606c298c1d908f8a48f617f0ceaf71f2a9f0193",
-    "md5sum": "edd545f3e99a9751e989da9c681cbe30",
-    "signed": true,
-    "releasedate": "2026-05-11T17:47:42Z",
-    "uploaddate": "2026-05-01T20:37:41Z",
-    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77006/1158E502-D76D-4226-AA06-ED5E30CD1111/iPhone10,3,iPhone10,6_16.7.16_20H392_Restore.ipsw"
-  },
-  {
     "name": "iPad 6 (WiFi)",
     "identifier": "iPad7,5",
-    "platform": "iPadOS",
-    "version": "17.7.11",
-    "buildid": "21H461",
-    "filesize": 6849577393,
-    "filesize_human": "6.38 GB",
-    "sha1sum": "a3ea217602a044f8ee9e482652e1ade5a6b5b849",
-    "md5sum": "83b4286d4c3254d8d0f851cb0f7866e5",
-    "signed": true,
-    "releasedate": "2026-05-11T17:47:39Z",
-    "uploaddate": "2026-05-01T19:24:52Z",
-    "download_url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/122-77020/D8DBC7A6-00AE-468D-8580-7FE5656EAE45/iPad_64bit_TouchID_ASTC_17.7.11_21H461_Restore.ipsw"
-  },
-  {
-    "name": "iPad 6 (Cellular)",
-    "identifier": "iPad7,6",
     "platform": "iPadOS",
     "version": "17.7.11",
     "buildid": "21H461",
@@ -1168,6 +1138,36 @@
     "releasedate": "2026-05-11T17:47:50Z",
     "uploaddate": "2026-05-01T04:37:51Z",
     "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-55581/CF2D9050-DB02-4236-8BCA-B6034061E0A5/iPhone11,2,iPhone11,4,iPhone11,6_18.7.9_22H355_Restore.ipsw"
+  },
+  {
+    "name": "iPhone X (Global)",
+    "identifier": "iPhone10,3",
+    "platform": "iOS",
+    "version": "16.7.16",
+    "buildid": "20H392",
+    "filesize": 6171035648,
+    "filesize_human": "5.75 GB",
+    "sha1sum": "5606c298c1d908f8a48f617f0ceaf71f2a9f0193",
+    "md5sum": "edd545f3e99a9751e989da9c681cbe30",
+    "signed": true,
+    "releasedate": "2026-05-11T17:47:42Z",
+    "uploaddate": "2026-05-01T20:37:41Z",
+    "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-77006/1158E502-D76D-4226-AA06-ED5E30CD1111/iPhone10,3,iPhone10,6_16.7.16_20H392_Restore.ipsw"
+  },
+  {
+    "name": "iPad 6 (Cellular)",
+    "identifier": "iPad7,6",
+    "platform": "iPadOS",
+    "version": "17.7.11",
+    "buildid": "21H461",
+    "filesize": 6849577393,
+    "filesize_human": "6.38 GB",
+    "sha1sum": "a3ea217602a044f8ee9e482652e1ade5a6b5b849",
+    "md5sum": "83b4286d4c3254d8d0f851cb0f7866e5",
+    "signed": true,
+    "releasedate": "2026-05-11T17:47:39Z",
+    "uploaddate": "2026-05-01T19:24:52Z",
+    "download_url": "https://updates.cdn-apple.com/2025SpringFCS/fullrestores/122-77020/D8DBC7A6-00AE-468D-8580-7FE5656EAE45/iPad_64bit_TouchID_ASTC_17.7.11_21H461_Restore.ipsw"
   },
   {
     "name": "iPhone XS Max (China)",
@@ -1215,6 +1215,21 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57189/B665260C-B9E0-4355-9A08-F93FB8FDC17C/iPad_Pro_A12X_A12Z_26.6_23G71_Restore.ipsw"
   },
   {
+    "name": "iPhone XS",
+    "identifier": "iPhone11,2",
+    "platform": "iOS",
+    "version": "18.7.9",
+    "buildid": "22H355",
+    "filesize": 8848346273,
+    "filesize_human": "8.24 GB",
+    "sha1sum": "7f793d359f8bbaabd7658df731ed388664c68ea7",
+    "md5sum": "41279fb870e01ef15ec7b557e1b7680c",
+    "signed": true,
+    "releasedate": "2026-05-11T17:47:43Z",
+    "uploaddate": "2026-05-01T04:37:51Z",
+    "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-55581/CF2D9050-DB02-4236-8BCA-B6034061E0A5/iPhone11,2,iPhone11,4,iPhone11,6_18.7.9_22H355_Restore.ipsw"
+  },
+  {
     "name": "iPad Pro 3 (11-inch, Cellular)",
     "identifier": "iPad8,3",
     "platform": "iPadOS",
@@ -1245,8 +1260,8 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57189/B665260C-B9E0-4355-9A08-F93FB8FDC17C/iPad_Pro_A12X_A12Z_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iPad Pro 3 (11-inch, Cellular, 1TB Model)",
-    "identifier": "iPad8,4",
+    "name": "iPad Pro 3 (12.9-inch, Cellular, 1TB Model)",
+    "identifier": "iPad8,8",
     "platform": "iPadOS",
     "version": "26.6",
     "buildid": "23G71",
@@ -1255,7 +1270,7 @@
     "sha1sum": "8866ccb2925c9c94ba9c07d5a86f70969e9e2424",
     "md5sum": "1cb99d897a48c80e606faee6dd7deea1",
     "signed": true,
-    "releasedate": "2026-07-27T17:38:22Z",
+    "releasedate": "2026-07-27T17:37:59Z",
     "uploaddate": "2026-07-18T02:25:01Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57189/B665260C-B9E0-4355-9A08-F93FB8FDC17C/iPad_Pro_A12X_A12Z_26.6_23G71_Restore.ipsw"
   },
@@ -1290,21 +1305,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57189/B665260C-B9E0-4355-9A08-F93FB8FDC17C/iPad_Pro_A12X_A12Z_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iPhone XS",
-    "identifier": "iPhone11,2",
-    "platform": "iOS",
-    "version": "18.7.9",
-    "buildid": "22H355",
-    "filesize": 8848346273,
-    "filesize_human": "8.24 GB",
-    "sha1sum": "7f793d359f8bbaabd7658df731ed388664c68ea7",
-    "md5sum": "41279fb870e01ef15ec7b557e1b7680c",
-    "signed": true,
-    "releasedate": "2026-05-11T17:47:43Z",
-    "uploaddate": "2026-05-01T04:37:51Z",
-    "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-55581/CF2D9050-DB02-4236-8BCA-B6034061E0A5/iPhone11,2,iPhone11,4,iPhone11,6_18.7.9_22H355_Restore.ipsw"
-  },
-  {
     "name": "iPad Pro 3 (12.9-inch, Cellular)",
     "identifier": "iPad8,7",
     "platform": "iPadOS",
@@ -1320,8 +1320,8 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57189/B665260C-B9E0-4355-9A08-F93FB8FDC17C/iPad_Pro_A12X_A12Z_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iPad Pro 3 (12.9-inch, Cellular, 1TB Model)",
-    "identifier": "iPad8,8",
+    "name": "iPad Pro 3 (11-inch, Cellular, 1TB Model)",
+    "identifier": "iPad8,4",
     "platform": "iPadOS",
     "version": "26.6",
     "buildid": "23G71",
@@ -1330,7 +1330,7 @@
     "sha1sum": "8866ccb2925c9c94ba9c07d5a86f70969e9e2424",
     "md5sum": "1cb99d897a48c80e606faee6dd7deea1",
     "signed": true,
-    "releasedate": "2026-07-27T17:37:59Z",
+    "releasedate": "2026-07-27T17:38:22Z",
     "uploaddate": "2026-07-18T02:25:01Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57189/B665260C-B9E0-4355-9A08-F93FB8FDC17C/iPad_Pro_A12X_A12Z_26.6_23G71_Restore.ipsw"
   },
@@ -1380,21 +1380,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57433/F0E614DC-4803-4E3F-863F-01C36D9676FD/iPad_Spring_2019_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iPad Air 3 (Cellular)",
-    "identifier": "iPad11,4",
-    "platform": "iPadOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 9929019240,
-    "filesize_human": "9.25 GB",
-    "sha1sum": "665d188784ee77b9f69de39c366f350fbdd45914",
-    "md5sum": "6ab664c2ff64a32729034e8fcdf1b2a0",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:05Z",
-    "uploaddate": "2026-07-18T02:27:07Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57433/F0E614DC-4803-4E3F-863F-01C36D9676FD/iPad_Spring_2019_26.6_23G71_Restore.ipsw"
-  },
-  {
     "name": "iPod touch 7",
     "identifier": "iPod9,1",
     "platform": "iOS",
@@ -1410,19 +1395,19 @@
     "download_url": "https://updates.cdn-apple.com/2025FallFCS/fullrestores/122-76865/68174A8B-44B2-4689-B8D4-C8F42F4FFBEE/iPodtouch_7_15.8.8_19H422_Restore.ipsw"
   },
   {
-    "name": "iPhone 11 Pro Max",
-    "identifier": "iPhone12,5",
-    "platform": "iOS",
+    "name": "iPad Air 3 (Cellular)",
+    "identifier": "iPad11,4",
+    "platform": "iPadOS",
     "version": "26.6",
     "buildid": "23G71",
-    "filesize": 10008478745,
-    "filesize_human": "9.32 GB",
-    "sha1sum": "65f9375d39427ac69913db991d2b30e5bcc7b2b7",
-    "md5sum": "3f2669e50c779cd874e6953062cd6e2e",
+    "filesize": 9929019240,
+    "filesize_human": "9.25 GB",
+    "sha1sum": "665d188784ee77b9f69de39c366f350fbdd45914",
+    "md5sum": "6ab664c2ff64a32729034e8fcdf1b2a0",
     "signed": true,
-    "releasedate": "2026-07-27T17:38:23Z",
-    "uploaddate": "2026-07-18T02:26:19Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57544/1D8C93F5-B8DA-4269-9331-FB6889AECE22/iPhone12,3,iPhone12,5_26.6_23G71_Restore.ipsw"
+    "releasedate": "2026-07-27T17:38:05Z",
+    "uploaddate": "2026-07-18T02:27:07Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57433/F0E614DC-4803-4E3F-863F-01C36D9676FD/iPad_Spring_2019_26.6_23G71_Restore.ipsw"
   },
   {
     "name": "iPhone 11",
@@ -1470,6 +1455,21 @@
     "download_url": "https://updates.cdn-apple.com/2026WinterFCS/fullrestores/122-57592/FBDFE8FD-7949-4258-B392-F56D6CD4B8FA/iPad_10.2_18.7.9_22H355_Restore.ipsw"
   },
   {
+    "name": "iPhone 11 Pro Max",
+    "identifier": "iPhone12,5",
+    "platform": "iOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10008478745,
+    "filesize_human": "9.32 GB",
+    "sha1sum": "65f9375d39427ac69913db991d2b30e5bcc7b2b7",
+    "md5sum": "3f2669e50c779cd874e6953062cd6e2e",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:23Z",
+    "uploaddate": "2026-07-18T02:26:19Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57544/1D8C93F5-B8DA-4269-9331-FB6889AECE22/iPhone12,3,iPhone12,5_26.6_23G71_Restore.ipsw"
+  },
+  {
     "name": "iPad 7 (WiFi)",
     "identifier": "iPad7,11",
     "platform": "iPadOS",
@@ -1496,21 +1496,6 @@
     "md5sum": "f4b6fb2a5a80c515f9fcdc5bfe4334fd",
     "signed": true,
     "releasedate": "2026-07-27T18:15:22Z",
-    "uploaddate": "2026-07-24T23:35:39Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/122-17203/B40435E5-04B8-497D-9ACC-315652D4330A/iBridge2,1,iBridge2,10,iBridge2,12,iBridge2,14,iBridge2,15,iBridge2,16,iBridge2,19,iBridge2,20,iBridge2,21,iBridge2,22,iBridge2,3,iBridge2,4,iBridge2,5,iBridge2,6,iBridge2,7,iBridge2,8_10.6_23P6068_Restore.ipsw"
-  },
-  {
-    "name": "iBridge2,4",
-    "identifier": "iBridge2,4",
-    "platform": "bridgeOS",
-    "version": "10.6",
-    "buildid": "23P6068",
-    "filesize": 742609165,
-    "filesize_human": "708.21 MB",
-    "sha1sum": "19e51a77d7d74c956f7aad83b724c46221502c3e",
-    "md5sum": "f4b6fb2a5a80c515f9fcdc5bfe4334fd",
-    "signed": true,
-    "releasedate": "2026-07-27T18:15:21Z",
     "uploaddate": "2026-07-24T23:35:39Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/122-17203/B40435E5-04B8-497D-9ACC-315652D4330A/iBridge2,1,iBridge2,10,iBridge2,12,iBridge2,14,iBridge2,15,iBridge2,16,iBridge2,19,iBridge2,20,iBridge2,21,iBridge2,22,iBridge2,3,iBridge2,4,iBridge2,5,iBridge2,6,iBridge2,7,iBridge2,8_10.6_23P6068_Restore.ipsw"
   },
@@ -1560,6 +1545,21 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/122-17203/B40435E5-04B8-497D-9ACC-315652D4330A/iBridge2,1,iBridge2,10,iBridge2,12,iBridge2,14,iBridge2,15,iBridge2,16,iBridge2,19,iBridge2,20,iBridge2,21,iBridge2,22,iBridge2,3,iBridge2,4,iBridge2,5,iBridge2,6,iBridge2,7,iBridge2,8_10.6_23P6068_Restore.ipsw"
   },
   {
+    "name": "iBridge2,4",
+    "identifier": "iBridge2,4",
+    "platform": "bridgeOS",
+    "version": "10.6",
+    "buildid": "23P6068",
+    "filesize": 742609165,
+    "filesize_human": "708.21 MB",
+    "sha1sum": "19e51a77d7d74c956f7aad83b724c46221502c3e",
+    "md5sum": "f4b6fb2a5a80c515f9fcdc5bfe4334fd",
+    "signed": true,
+    "releasedate": "2026-07-27T18:15:21Z",
+    "uploaddate": "2026-07-24T23:35:39Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/122-17203/B40435E5-04B8-497D-9ACC-315652D4330A/iBridge2,1,iBridge2,10,iBridge2,12,iBridge2,14,iBridge2,15,iBridge2,16,iBridge2,19,iBridge2,20,iBridge2,21,iBridge2,22,iBridge2,3,iBridge2,4,iBridge2,5,iBridge2,6,iBridge2,7,iBridge2,8_10.6_23P6068_Restore.ipsw"
+  },
+  {
     "name": "iBridge2,15",
     "identifier": "iBridge2,15",
     "platform": "bridgeOS",
@@ -1590,6 +1590,21 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/122-17203/B40435E5-04B8-497D-9ACC-315652D4330A/iBridge2,1,iBridge2,10,iBridge2,12,iBridge2,14,iBridge2,15,iBridge2,16,iBridge2,19,iBridge2,20,iBridge2,21,iBridge2,22,iBridge2,3,iBridge2,4,iBridge2,5,iBridge2,6,iBridge2,7,iBridge2,8_10.6_23P6068_Restore.ipsw"
   },
   {
+    "name": "iBridge2,8",
+    "identifier": "iBridge2,8",
+    "platform": "bridgeOS",
+    "version": "10.6",
+    "buildid": "23P6068",
+    "filesize": 742609165,
+    "filesize_human": "708.21 MB",
+    "sha1sum": "19e51a77d7d74c956f7aad83b724c46221502c3e",
+    "md5sum": "f4b6fb2a5a80c515f9fcdc5bfe4334fd",
+    "signed": true,
+    "releasedate": "2026-07-27T18:15:23Z",
+    "uploaddate": "2026-07-24T23:35:39Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/122-17203/B40435E5-04B8-497D-9ACC-315652D4330A/iBridge2,1,iBridge2,10,iBridge2,12,iBridge2,14,iBridge2,15,iBridge2,16,iBridge2,19,iBridge2,20,iBridge2,21,iBridge2,22,iBridge2,3,iBridge2,4,iBridge2,5,iBridge2,6,iBridge2,7,iBridge2,8_10.6_23P6068_Restore.ipsw"
+  },
+  {
     "name": "iBridge2,7",
     "identifier": "iBridge2,7",
     "platform": "bridgeOS",
@@ -1616,21 +1631,6 @@
     "md5sum": "f4b6fb2a5a80c515f9fcdc5bfe4334fd",
     "signed": true,
     "releasedate": "2026-07-27T18:15:21Z",
-    "uploaddate": "2026-07-24T23:35:39Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/122-17203/B40435E5-04B8-497D-9ACC-315652D4330A/iBridge2,1,iBridge2,10,iBridge2,12,iBridge2,14,iBridge2,15,iBridge2,16,iBridge2,19,iBridge2,20,iBridge2,21,iBridge2,22,iBridge2,3,iBridge2,4,iBridge2,5,iBridge2,6,iBridge2,7,iBridge2,8_10.6_23P6068_Restore.ipsw"
-  },
-  {
-    "name": "iBridge2,8",
-    "identifier": "iBridge2,8",
-    "platform": "bridgeOS",
-    "version": "10.6",
-    "buildid": "23P6068",
-    "filesize": 742609165,
-    "filesize_human": "708.21 MB",
-    "sha1sum": "19e51a77d7d74c956f7aad83b724c46221502c3e",
-    "md5sum": "f4b6fb2a5a80c515f9fcdc5bfe4334fd",
-    "signed": true,
-    "releasedate": "2026-07-27T18:15:23Z",
     "uploaddate": "2026-07-24T23:35:39Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/122-17203/B40435E5-04B8-497D-9ACC-315652D4330A/iBridge2,1,iBridge2,10,iBridge2,12,iBridge2,14,iBridge2,15,iBridge2,16,iBridge2,19,iBridge2,20,iBridge2,21,iBridge2,22,iBridge2,3,iBridge2,4,iBridge2,5,iBridge2,6,iBridge2,7,iBridge2,8_10.6_23P6068_Restore.ipsw"
   },
@@ -1770,6 +1770,36 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/122-17203/B40435E5-04B8-497D-9ACC-315652D4330A/iBridge2,1,iBridge2,10,iBridge2,12,iBridge2,14,iBridge2,15,iBridge2,16,iBridge2,19,iBridge2,20,iBridge2,21,iBridge2,22,iBridge2,3,iBridge2,4,iBridge2,5,iBridge2,6,iBridge2,7,iBridge2,8_10.6_23P6068_Restore.ipsw"
   },
   {
+    "name": "iPad 8 (WiFi)",
+    "identifier": "iPad11,6",
+    "platform": "iPadOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 9779427213,
+    "filesize_human": "9.11 GB",
+    "sha1sum": "d47480ee243e4806bab8ed8eb36ff7a0133ebbc4",
+    "md5sum": "e912075d977c9c61808b46ad154fbac3",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:18Z",
+    "uploaddate": "2026-07-18T02:42:05Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58423/8D0D09CD-994C-43D8-9CA4-0B4740E6A037/iPad_10.2_2020_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "iPad Air 4 (WiFi)",
+    "identifier": "iPad13,1",
+    "platform": "iPadOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 9991894624,
+    "filesize_human": "9.31 GB",
+    "sha1sum": "a2840b31fce3bd76f46ff91131502fdfa3e75cce",
+    "md5sum": "961110ea10d4fd48b4f72ebdd883fce2",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:16Z",
+    "uploaddate": "2026-07-18T02:26:30Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57633/DD43D312-C5A1-46F8-95A2-6BC884ADB57F/iPad_Fall_2020_26.6_23G71_Restore.ipsw"
+  },
+  {
     "name": "iBridge2,20",
     "identifier": "iBridge2,20",
     "platform": "bridgeOS",
@@ -1800,66 +1830,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/122-17203/B40435E5-04B8-497D-9ACC-315652D4330A/iBridge2,1,iBridge2,10,iBridge2,12,iBridge2,14,iBridge2,15,iBridge2,16,iBridge2,19,iBridge2,20,iBridge2,21,iBridge2,22,iBridge2,3,iBridge2,4,iBridge2,5,iBridge2,6,iBridge2,7,iBridge2,8_10.6_23P6068_Restore.ipsw"
   },
   {
-    "name": "iPad Air 4 (WiFi)",
-    "identifier": "iPad13,1",
-    "platform": "iPadOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 9991894624,
-    "filesize_human": "9.31 GB",
-    "sha1sum": "a2840b31fce3bd76f46ff91131502fdfa3e75cce",
-    "md5sum": "961110ea10d4fd48b4f72ebdd883fce2",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:16Z",
-    "uploaddate": "2026-07-18T02:26:30Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57633/DD43D312-C5A1-46F8-95A2-6BC884ADB57F/iPad_Fall_2020_26.6_23G71_Restore.ipsw"
-  },
-  {
-    "name": "iPad 8 (WiFi)",
-    "identifier": "iPad11,6",
-    "platform": "iPadOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 9779427213,
-    "filesize_human": "9.11 GB",
-    "sha1sum": "d47480ee243e4806bab8ed8eb36ff7a0133ebbc4",
-    "md5sum": "e912075d977c9c61808b46ad154fbac3",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:18Z",
-    "uploaddate": "2026-07-18T02:42:05Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58423/8D0D09CD-994C-43D8-9CA4-0B4740E6A037/iPad_10.2_2020_26.6_23G71_Restore.ipsw"
-  },
-  {
-    "name": "iPhone 12",
-    "identifier": "iPhone13,2",
-    "platform": "iOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 10479844972,
-    "filesize_human": "9.76 GB",
-    "sha1sum": "1e0fe33987648db32bc2b2aec0a1bd691315bc79",
-    "md5sum": "031ca5698d08349f237664f8e689ebab",
-    "signed": true,
-    "releasedate": "2026-07-27T17:37:57Z",
-    "uploaddate": "2026-07-18T02:27:17Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57611/6832DCA8-460D-4130-978F-47E797778CC8/iPhone13,2,iPhone13,3_26.6_23G71_Restore.ipsw"
-  },
-  {
-    "name": "iPad Air 4 (Cellular)",
-    "identifier": "iPad13,2",
-    "platform": "iPadOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 9991894624,
-    "filesize_human": "9.31 GB",
-    "sha1sum": "a2840b31fce3bd76f46ff91131502fdfa3e75cce",
-    "md5sum": "961110ea10d4fd48b4f72ebdd883fce2",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:24Z",
-    "uploaddate": "2026-07-18T02:26:30Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57633/DD43D312-C5A1-46F8-95A2-6BC884ADB57F/iPad_Fall_2020_26.6_23G71_Restore.ipsw"
-  },
-  {
     "name": "iPad 8 (Cellular)",
     "identifier": "iPad11,7",
     "platform": "iPadOS",
@@ -1875,21 +1845,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58423/8D0D09CD-994C-43D8-9CA4-0B4740E6A037/iPad_10.2_2020_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iPhone 12 mini",
-    "identifier": "iPhone13,1",
-    "platform": "iOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 10273301446,
-    "filesize_human": "9.57 GB",
-    "sha1sum": "3707c0c9e5b95dd9a54e2077eab916e6f45939cf",
-    "md5sum": "696fcf084ce6b882d7e276e99e7add9b",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:11Z",
-    "uploaddate": "2026-07-18T02:24:10Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-59011/F9817041-71C5-4681-AAB9-0478FFAF27B1/iPhone13,1_26.6_23G71_Restore.ipsw"
-  },
-  {
     "name": "iPhone 12 Pro Max",
     "identifier": "iPhone13,4",
     "platform": "iOS",
@@ -1903,6 +1858,21 @@
     "releasedate": "2026-07-27T17:38:03Z",
     "uploaddate": "2026-07-18T02:25:18Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58274/6D7AF4DD-2EAF-4D1F-9902-9327E7B24844/iPhone13,4_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "iPad Air 4 (Cellular)",
+    "identifier": "iPad13,2",
+    "platform": "iPadOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 9991894624,
+    "filesize_human": "9.31 GB",
+    "sha1sum": "a2840b31fce3bd76f46ff91131502fdfa3e75cce",
+    "md5sum": "961110ea10d4fd48b4f72ebdd883fce2",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:24Z",
+    "uploaddate": "2026-07-18T02:26:30Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57633/DD43D312-C5A1-46F8-95A2-6BC884ADB57F/iPad_Fall_2020_26.6_23G71_Restore.ipsw"
   },
   {
     "name": "iPhone 12 Pro",
@@ -1980,6 +1950,36 @@
     "download_url": "https://updates.cdn-apple.com/2021WinterFCS/fullrestores/071-14756/5676903C-6D55-4412-B9DF-969F15F5491A/UniversalMac_11.2.3_20D91_Restore.ipsw"
   },
   {
+    "name": "iPhone 12",
+    "identifier": "iPhone13,2",
+    "platform": "iOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10479844972,
+    "filesize_human": "9.76 GB",
+    "sha1sum": "1e0fe33987648db32bc2b2aec0a1bd691315bc79",
+    "md5sum": "031ca5698d08349f237664f8e689ebab",
+    "signed": true,
+    "releasedate": "2026-07-27T17:37:57Z",
+    "uploaddate": "2026-07-18T02:27:17Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57611/6832DCA8-460D-4130-978F-47E797778CC8/iPhone13,2,iPhone13,3_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "iPhone 12 mini",
+    "identifier": "iPhone13,1",
+    "platform": "iOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10273301446,
+    "filesize_human": "9.57 GB",
+    "sha1sum": "3707c0c9e5b95dd9a54e2077eab916e6f45939cf",
+    "md5sum": "696fcf084ce6b882d7e276e99e7add9b",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:11Z",
+    "uploaddate": "2026-07-18T02:24:10Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-59011/F9817041-71C5-4681-AAB9-0478FFAF27B1/iPhone13,1_26.6_23G71_Restore.ipsw"
+  },
+  {
     "name": "Mac mini (M1, Late 2020)",
     "identifier": "Macmini9,1",
     "platform": "Firmware",
@@ -2006,6 +2006,21 @@
     "md5sum": "f48ab283d153d39f7bab87fccb844da0",
     "signed": true,
     "releasedate": "2026-07-27T17:38:09Z",
+    "uploaddate": "2026-07-18T02:26:26Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58358/088E3BFD-2D6B-4D05-8355-954E54D08042/iPad_Pro_Spring_2021_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "iPad Pro (11-inch, Cellular) (3rd generation)",
+    "identifier": "iPad13,5",
+    "platform": "iPadOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10467744732,
+    "filesize_human": "9.75 GB",
+    "sha1sum": "4db71b796921a9cfb47f7c79fb5865039f74c2c5",
+    "md5sum": "f48ab283d153d39f7bab87fccb844da0",
+    "signed": true,
+    "releasedate": "2026-07-27T17:37:58Z",
     "uploaddate": "2026-07-18T02:26:26Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58358/088E3BFD-2D6B-4D05-8355-954E54D08042/iPad_Pro_Spring_2021_26.6_23G71_Restore.ipsw"
   },
@@ -2040,8 +2055,8 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58358/088E3BFD-2D6B-4D05-8355-954E54D08042/iPad_Pro_Spring_2021_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iPad Pro (11-inch, Cellular) (3rd generation)",
-    "identifier": "iPad13,5",
+    "name": "iPad Pro (12.9-inch, WiFi) (5th generation)",
+    "identifier": "iPad13,8",
     "platform": "iPadOS",
     "version": "26.6",
     "buildid": "23G71",
@@ -2050,7 +2065,7 @@
     "sha1sum": "4db71b796921a9cfb47f7c79fb5865039f74c2c5",
     "md5sum": "f48ab283d153d39f7bab87fccb844da0",
     "signed": true,
-    "releasedate": "2026-07-27T17:37:58Z",
+    "releasedate": "2026-07-27T17:38:03Z",
     "uploaddate": "2026-07-18T02:26:26Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58358/088E3BFD-2D6B-4D05-8355-954E54D08042/iPad_Pro_Spring_2021_26.6_23G71_Restore.ipsw"
   },
@@ -2070,8 +2085,8 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58358/088E3BFD-2D6B-4D05-8355-954E54D08042/iPad_Pro_Spring_2021_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iPad Pro (12.9-inch, WiFi) (5th generation)",
-    "identifier": "iPad13,8",
+    "name": "iPad Pro (11-inch, WiFi) (3rd generation)",
+    "identifier": "iPad13,6",
     "platform": "iPadOS",
     "version": "26.6",
     "buildid": "23G71",
@@ -2080,7 +2095,7 @@
     "sha1sum": "4db71b796921a9cfb47f7c79fb5865039f74c2c5",
     "md5sum": "f48ab283d153d39f7bab87fccb844da0",
     "signed": true,
-    "releasedate": "2026-07-27T17:38:03Z",
+    "releasedate": "2026-07-27T17:37:58Z",
     "uploaddate": "2026-07-18T02:26:26Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58358/088E3BFD-2D6B-4D05-8355-954E54D08042/iPad_Pro_Spring_2021_26.6_23G71_Restore.ipsw"
   },
@@ -2100,36 +2115,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58358/088E3BFD-2D6B-4D05-8355-954E54D08042/iPad_Pro_Spring_2021_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iMac 24-inch (M1, Two Ports, 2021)",
-    "identifier": "iMac21,1",
-    "platform": "Firmware",
-    "version": "26.6",
-    "buildid": "25G72",
-    "filesize": 19772077142,
-    "filesize_human": "18.41 GB",
-    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
-    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
-    "signed": true,
-    "releasedate": "2026-07-27T18:10:47Z",
-    "uploaddate": "2026-07-24T02:16:52Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
-  },
-  {
-    "name": "iPad Pro (11-inch, WiFi) (3rd generation)",
-    "identifier": "iPad13,6",
-    "platform": "iPadOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 10467744732,
-    "filesize_human": "9.75 GB",
-    "sha1sum": "4db71b796921a9cfb47f7c79fb5865039f74c2c5",
-    "md5sum": "f48ab283d153d39f7bab87fccb844da0",
-    "signed": true,
-    "releasedate": "2026-07-27T17:37:58Z",
-    "uploaddate": "2026-07-18T02:26:26Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58358/088E3BFD-2D6B-4D05-8355-954E54D08042/iPad_Pro_Spring_2021_26.6_23G71_Restore.ipsw"
-  },
-  {
     "name": "iMac 24-inch (M1, Four Ports, 2021)",
     "identifier": "iMac21,2",
     "platform": "Firmware",
@@ -2141,6 +2126,21 @@
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
     "releasedate": "2026-07-27T18:10:52Z",
+    "uploaddate": "2026-07-24T02:16:52Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
+  },
+  {
+    "name": "iMac 24-inch (M1, Two Ports, 2021)",
+    "identifier": "iMac21,1",
+    "platform": "Firmware",
+    "version": "26.6",
+    "buildid": "25G72",
+    "filesize": 19772077142,
+    "filesize_human": "18.41 GB",
+    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
+    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
+    "signed": true,
+    "releasedate": "2026-07-27T18:10:47Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
@@ -2160,36 +2160,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58090/B6AD0CE1-C989-4E21-B073-1805EB1D2EF1/iPad_10.2_2021_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iPad (Cellular, 9th generation)",
-    "identifier": "iPad12,2",
-    "platform": "iPadOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 9590796353,
-    "filesize_human": "8.93 GB",
-    "sha1sum": "24b0ea63df96db2ce1ef21566cf4544e98e1bd4b",
-    "md5sum": "56f5b4855b76349cbf00de2c30578ab1",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:23Z",
-    "uploaddate": "2026-07-18T02:25:11Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58090/B6AD0CE1-C989-4E21-B073-1805EB1D2EF1/iPad_10.2_2021_26.6_23G71_Restore.ipsw"
-  },
-  {
-    "name": "iPhone 13",
-    "identifier": "iPhone14,5",
-    "platform": "iOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 10324553735,
-    "filesize_human": "9.62 GB",
-    "sha1sum": "63825dbaed9efe88d0787658d9ccfc04a7cd68c6",
-    "md5sum": "8007bcf2f7723f6a91fa2ccc59a70dab",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:07Z",
-    "uploaddate": "2026-07-18T02:24:10Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58468/DB53332C-8A31-429F-B4F7-7ADABD8D3FE7/iPhone14,5_26.6_23G71_Restore.ipsw"
-  },
-  {
     "name": "iPad mini 6 (WiFi)",
     "identifier": "iPad14,1",
     "platform": "iPadOS",
@@ -2203,6 +2173,21 @@
     "releasedate": "2026-07-27T17:38:20Z",
     "uploaddate": "2026-07-18T02:27:22Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58338/8FA7C566-DDB6-4EAD-8CC2-93F19B69D928/iPad_Fall_2021_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "iPad (Cellular, 9th generation)",
+    "identifier": "iPad12,2",
+    "platform": "iPadOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 9590796353,
+    "filesize_human": "8.93 GB",
+    "sha1sum": "24b0ea63df96db2ce1ef21566cf4544e98e1bd4b",
+    "md5sum": "56f5b4855b76349cbf00de2c30578ab1",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:23Z",
+    "uploaddate": "2026-07-18T02:25:11Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58090/B6AD0CE1-C989-4E21-B073-1805EB1D2EF1/iPad_10.2_2021_26.6_23G71_Restore.ipsw"
   },
   {
     "name": "iPad mini 6 (Cellular)",
@@ -2235,21 +2220,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57305/E76D02CF-BEF3-4CEA-A520-9B257FEDF4AC/iPhone14,2_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iPhone 13 mini",
-    "identifier": "iPhone14,4",
-    "platform": "iOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 10348544862,
-    "filesize_human": "9.64 GB",
-    "sha1sum": "9769eb5a2471f049ed6d86c6caeba73c60536686",
-    "md5sum": "b18008e00d450b459b8ac3d126bbf4a1",
-    "signed": true,
-    "releasedate": "2026-07-27T17:37:57Z",
-    "uploaddate": "2026-07-18T03:01:44Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57517/6F94B2F8-5815-4FFD-B390-42832E2E7A2C/iPhone14,4_26.6_23G71_Restore.ipsw"
-  },
-  {
     "name": "iPhone 13 Pro Max",
     "identifier": "iPhone14,3",
     "platform": "iOS",
@@ -2265,6 +2235,36 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58782/9706D6CB-11C1-408B-8324-34221A340260/iPhone14,3_26.6_23G71_Restore.ipsw"
   },
   {
+    "name": "iPhone 13 mini",
+    "identifier": "iPhone14,4",
+    "platform": "iOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10348544862,
+    "filesize_human": "9.64 GB",
+    "sha1sum": "9769eb5a2471f049ed6d86c6caeba73c60536686",
+    "md5sum": "b18008e00d450b459b8ac3d126bbf4a1",
+    "signed": true,
+    "releasedate": "2026-07-27T17:37:57Z",
+    "uploaddate": "2026-07-18T03:01:44Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57517/6F94B2F8-5815-4FFD-B390-42832E2E7A2C/iPhone14,4_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "iPhone 13",
+    "identifier": "iPhone14,5",
+    "platform": "iOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10324553735,
+    "filesize_human": "9.62 GB",
+    "sha1sum": "63825dbaed9efe88d0787658d9ccfc04a7cd68c6",
+    "md5sum": "8007bcf2f7723f6a91fa2ccc59a70dab",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:07Z",
+    "uploaddate": "2026-07-18T02:24:10Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58468/DB53332C-8A31-429F-B4F7-7ADABD8D3FE7/iPhone14,5_26.6_23G71_Restore.ipsw"
+  },
+  {
     "name": "MacBook Pro (M1 Max, 16-inch, 2021)",
     "identifier": "MacBookPro18,2",
     "platform": "Firmware",
@@ -2276,21 +2276,6 @@
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
     "releasedate": "2026-07-27T18:10:46Z",
-    "uploaddate": "2026-07-24T02:16:52Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
-  },
-  {
-    "name": "MacBook Pro (M1 Pro, 16-inch, 2021)",
-    "identifier": "MacBookPro18,1",
-    "platform": "Firmware",
-    "version": "26.6",
-    "buildid": "25G72",
-    "filesize": 19772077142,
-    "filesize_human": "18.41 GB",
-    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
-    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
-    "signed": true,
-    "releasedate": "2026-07-27T18:10:51Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
@@ -2325,19 +2310,19 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "iPhone SE (3rd generation)",
-    "identifier": "iPhone14,6",
-    "platform": "iOS",
+    "name": "MacBook Pro (M1 Pro, 16-inch, 2021)",
+    "identifier": "MacBookPro18,1",
+    "platform": "Firmware",
     "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 10081837847,
-    "filesize_human": "9.39 GB",
-    "sha1sum": "ccd8e178c562a49d890db9039b3d48a2cd0ddc95",
-    "md5sum": "ef4a253f81283903e9fdd3cdf75684b4",
+    "buildid": "25G72",
+    "filesize": 19772077142,
+    "filesize_human": "18.41 GB",
+    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
+    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
-    "releasedate": "2026-07-27T17:38:08Z",
-    "uploaddate": "2026-07-18T02:26:49Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58378/B822CA24-6921-46E1-A688-213530A338CF/iPhone14,6_26.6_23G71_Restore.ipsw"
+    "releasedate": "2026-07-27T18:10:51Z",
+    "uploaddate": "2026-07-24T02:16:52Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
     "name": "iPad Air 5 (Cellular)",
@@ -2353,6 +2338,21 @@
     "releasedate": "2026-07-27T17:38:24Z",
     "uploaddate": "2026-07-18T02:26:00Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58530/16D0FA8B-5CA6-4F6D-A51D-831CEC73623E/iPad_Spring_2022_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "iPhone SE (3rd generation)",
+    "identifier": "iPhone14,6",
+    "platform": "iOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10081837847,
+    "filesize_human": "9.39 GB",
+    "sha1sum": "ccd8e178c562a49d890db9039b3d48a2cd0ddc95",
+    "md5sum": "ef4a253f81283903e9fdd3cdf75684b4",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:08Z",
+    "uploaddate": "2026-07-18T02:26:49Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58378/B822CA24-6921-46E1-A688-213530A338CF/iPhone14,6_26.6_23G71_Restore.ipsw"
   },
   {
     "name": "iPad Air 5 (WiFi)",
@@ -2385,21 +2385,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "Apple Virtual Machine 1",
-    "identifier": "VirtualMac2,1",
-    "platform": "Firmware",
-    "version": "26.6",
-    "buildid": "25G72",
-    "filesize": 19772077142,
-    "filesize_human": "18.41 GB",
-    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
-    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
-    "signed": false,
-    "releasedate": "2026-07-27T18:10:47Z",
-    "uploaddate": "2026-07-24T02:16:52Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
-  },
-  {
     "name": "Mac Studio (M1 Ultra)",
     "identifier": "Mac13,2",
     "platform": "macOS",
@@ -2411,6 +2396,36 @@
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
     "releasedate": "2026-07-27T18:10:55Z",
+    "uploaddate": "2026-07-24T02:16:52Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
+  },
+  {
+    "name": "iPhone 14 Plus",
+    "identifier": "iPhone14,8",
+    "platform": "iOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10411378027,
+    "filesize_human": "9.70 GB",
+    "sha1sum": "4aeb587161396b163fe5ae98b927f2cba53d5477",
+    "md5sum": "b4b246c9c3930c13f0578ec01d156fed",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:04Z",
+    "uploaddate": "2026-07-18T02:54:43Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57930/E7E36158-C04A-4D46-866D-F429EF5D9702/iPhone14,8_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "Apple Virtual Machine 1",
+    "identifier": "VirtualMac2,1",
+    "platform": "Firmware",
+    "version": "26.6",
+    "buildid": "25G72",
+    "filesize": 19772077142,
+    "filesize_human": "18.41 GB",
+    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
+    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
+    "signed": false,
+    "releasedate": "2026-07-27T18:10:47Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
@@ -2445,21 +2460,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "iPhone 14 Plus",
-    "identifier": "iPhone14,8",
-    "platform": "iOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 10411378027,
-    "filesize_human": "9.70 GB",
-    "sha1sum": "4aeb587161396b163fe5ae98b927f2cba53d5477",
-    "md5sum": "b4b246c9c3930c13f0578ec01d156fed",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:04Z",
-    "uploaddate": "2026-07-18T02:54:43Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57930/E7E36158-C04A-4D46-866D-F429EF5D9702/iPhone14,8_26.6_23G71_Restore.ipsw"
-  },
-  {
     "name": "iPhone 14",
     "identifier": "iPhone14,7",
     "platform": "iOS",
@@ -2473,21 +2473,6 @@
     "releasedate": "2026-07-27T17:38:07Z",
     "uploaddate": "2026-07-18T02:25:25Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57284/4AEFADB8-00C3-4D43-A75B-5923E7102065/iPhone14,7_26.6_23G71_Restore.ipsw"
-  },
-  {
-    "name": "iPhone 14 Pro Max",
-    "identifier": "iPhone15,3",
-    "platform": "iOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 10479268599,
-    "filesize_human": "9.76 GB",
-    "sha1sum": "9659604a924aeea153ed8fe30e87e4178417cd0f",
-    "md5sum": "f34a76ef1392e577a4074a74562a1649",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:05Z",
-    "uploaddate": "2026-07-18T02:27:21Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57822/5E2D7120-DF74-40A8-AEE4-0BF4A268D867/iPhone15,3_26.6_23G71_Restore.ipsw"
   },
   {
     "name": "iPhone 14 Pro",
@@ -2518,6 +2503,21 @@
     "releasedate": "2026-07-27T17:38:25Z",
     "uploaddate": "2026-07-18T02:24:06Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58613/A0C147A9-4F5E-4B35-9820-10A59995D1AD/iPad_Fall_2022_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "iPhone 14 Pro Max",
+    "identifier": "iPhone15,3",
+    "platform": "iOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10479268599,
+    "filesize_human": "9.76 GB",
+    "sha1sum": "9659604a924aeea153ed8fe30e87e4178417cd0f",
+    "md5sum": "f34a76ef1392e577a4074a74562a1649",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:05Z",
+    "uploaddate": "2026-07-18T02:27:21Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57822/5E2D7120-DF74-40A8-AEE4-0BF4A268D867/iPhone15,3_26.6_23G71_Restore.ipsw"
   },
   {
     "name": "iPad (Cellular, 10th generation)",
@@ -2610,21 +2610,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "MacBook Pro (M2 Max, 14-inch, 2023)",
-    "identifier": "Mac14,5",
-    "platform": "macOS",
-    "version": "26.6",
-    "buildid": "25G72",
-    "filesize": 19772077142,
-    "filesize_human": "18.41 GB",
-    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
-    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
-    "signed": true,
-    "releasedate": "2026-07-27T18:10:50Z",
-    "uploaddate": "2026-07-24T02:16:52Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
-  },
-  {
     "name": "MacBook Pro (M2 Max, 16-inch, 2023)",
     "identifier": "Mac14,6",
     "platform": "macOS",
@@ -2640,8 +2625,38 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
+    "name": "MacBook Pro (M2 Max, 14-inch, 2023)",
+    "identifier": "Mac14,5",
+    "platform": "macOS",
+    "version": "26.6",
+    "buildid": "25G72",
+    "filesize": 19772077142,
+    "filesize_human": "18.41 GB",
+    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
+    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
+    "signed": true,
+    "releasedate": "2026-07-27T18:10:50Z",
+    "uploaddate": "2026-07-24T02:16:52Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
+  },
+  {
     "name": "MacBook Pro (M2 Pro, 14-inch, 2023)",
     "identifier": "Mac14,9",
+    "platform": "macOS",
+    "version": "26.6",
+    "buildid": "25G72",
+    "filesize": 19772077142,
+    "filesize_human": "18.41 GB",
+    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
+    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
+    "signed": true,
+    "releasedate": "2026-07-27T18:10:49Z",
+    "uploaddate": "2026-07-24T02:16:52Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
+  },
+  {
+    "name": "MacBook Pro (M2 Pro, 16-inch, 2023)",
+    "identifier": "Mac14,10",
     "platform": "macOS",
     "version": "26.6",
     "buildid": "25G72",
@@ -2666,21 +2681,6 @@
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
     "releasedate": "2026-07-27T18:10:52Z",
-    "uploaddate": "2026-07-24T02:16:52Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
-  },
-  {
-    "name": "MacBook Pro (M2 Pro, 16-inch, 2023)",
-    "identifier": "Mac14,10",
-    "platform": "macOS",
-    "version": "26.6",
-    "buildid": "25G72",
-    "filesize": 19772077142,
-    "filesize_human": "18.41 GB",
-    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
-    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
-    "signed": true,
-    "releasedate": "2026-07-27T18:10:49Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
@@ -2730,21 +2730,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "Mac Studio (M2 Ultra, 2023)",
-    "identifier": "Mac14,14",
-    "platform": "macOS",
-    "version": "26.6",
-    "buildid": "25G72",
-    "filesize": 19772077142,
-    "filesize_human": "18.41 GB",
-    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
-    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
-    "signed": true,
-    "releasedate": "2026-07-27T18:10:55Z",
-    "uploaddate": "2026-07-24T02:16:52Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
-  },
-  {
     "name": "iPhone 15 Pro Max",
     "identifier": "iPhone16,2",
     "platform": "iOS",
@@ -2760,23 +2745,8 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57072/676FAB4F-0335-4B16-9A8F-EE00C2DA7A02/iPhone16,2_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iPhone 15",
-    "identifier": "iPhone15,4",
-    "platform": "iOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 10490261800,
-    "filesize_human": "9.77 GB",
-    "sha1sum": "2b9c1326d38951bd93080f2b2c01dfb7d085ec48",
-    "md5sum": "fa96c9e0d55811e2ab1fd52f859494c6",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:17Z",
-    "uploaddate": "2026-07-18T02:25:53Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58401/C1C1123E-08B2-41AE-88DC-ADFAD040EE33/iPhone15,4_26.6_23G71_Restore.ipsw"
-  },
-  {
-    "name": "Mac Pro (2023)",
-    "identifier": "Mac14,8",
+    "name": "Mac Studio (M2 Ultra, 2023)",
+    "identifier": "Mac14,14",
     "platform": "macOS",
     "version": "26.6",
     "buildid": "25G72",
@@ -2785,7 +2755,7 @@
     "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
-    "releasedate": "2026-07-27T18:10:50Z",
+    "releasedate": "2026-07-27T18:10:55Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
@@ -2803,6 +2773,36 @@
     "releasedate": "2026-07-27T17:38:17Z",
     "uploaddate": "2026-07-18T02:26:56Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57499/8D15C1E8-12B5-48B5-A11D-D3C19BF2B045/iPhone15,5_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "Mac Pro (2023)",
+    "identifier": "Mac14,8",
+    "platform": "macOS",
+    "version": "26.6",
+    "buildid": "25G72",
+    "filesize": 19772077142,
+    "filesize_human": "18.41 GB",
+    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
+    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
+    "signed": true,
+    "releasedate": "2026-07-27T18:10:50Z",
+    "uploaddate": "2026-07-24T02:16:52Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
+  },
+  {
+    "name": "iPhone 15",
+    "identifier": "iPhone15,4",
+    "platform": "iOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10490261800,
+    "filesize_human": "9.77 GB",
+    "sha1sum": "2b9c1326d38951bd93080f2b2c01dfb7d085ec48",
+    "md5sum": "fa96c9e0d55811e2ab1fd52f859494c6",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:17Z",
+    "uploaddate": "2026-07-18T02:25:53Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58401/C1C1123E-08B2-41AE-88DC-ADFAD040EE33/iPhone15,4_26.6_23G71_Restore.ipsw"
   },
   {
     "name": "iPhone 15 Pro",
@@ -2835,8 +2835,8 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "MacBook Pro (M3 Pro, 14-inch, Nov 2023)",
-    "identifier": "Mac15,6",
+    "name": "iMac (Two Ports, 24-inch, 2023)",
+    "identifier": "Mac15,4",
     "platform": "macOS",
     "version": "26.6",
     "buildid": "25G72",
@@ -2845,7 +2845,7 @@
     "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
-    "releasedate": "2026-07-27T18:10:51Z",
+    "releasedate": "2026-07-27T18:10:48Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
@@ -2865,8 +2865,8 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "iMac (Two Ports, 24-inch, 2023)",
-    "identifier": "Mac15,4",
+    "name": "MacBook Pro (M3 Max, 16-inch, Nov 2023)",
+    "identifier": "Mac15,11",
     "platform": "macOS",
     "version": "26.6",
     "buildid": "25G72",
@@ -2875,7 +2875,22 @@
     "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
-    "releasedate": "2026-07-27T18:10:48Z",
+    "releasedate": "2026-07-27T18:10:54Z",
+    "uploaddate": "2026-07-24T02:16:52Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
+  },
+  {
+    "name": "MacBook Pro (M3 Pro, 14-inch, Nov 2023)",
+    "identifier": "Mac15,6",
+    "platform": "macOS",
+    "version": "26.6",
+    "buildid": "25G72",
+    "filesize": 19772077142,
+    "filesize_human": "18.41 GB",
+    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
+    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
+    "signed": true,
+    "releasedate": "2026-07-27T18:10:51Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
@@ -2895,21 +2910,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "MacBook Pro (M3 Max, 16-inch, Nov 2023)",
-    "identifier": "Mac15,11",
-    "platform": "macOS",
-    "version": "26.6",
-    "buildid": "25G72",
-    "filesize": 19772077142,
-    "filesize_human": "18.41 GB",
-    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
-    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
-    "signed": true,
-    "releasedate": "2026-07-27T18:10:54Z",
-    "uploaddate": "2026-07-24T02:16:52Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
-  },
-  {
     "name": "MacBook Pro (M3 Max, 14-inch, Nov 2023)",
     "identifier": "Mac15,10",
     "platform": "macOS",
@@ -2921,36 +2921,6 @@
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
     "releasedate": "2026-07-27T18:10:55Z",
-    "uploaddate": "2026-07-24T02:16:52Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
-  },
-  {
-    "name": "Apple Vision Pro",
-    "identifier": "RealityDevice14,1",
-    "platform": "visionOS",
-    "version": "26.6",
-    "buildid": "23O770",
-    "filesize": 11905134189,
-    "filesize_human": "11.09 GB",
-    "sha1sum": "ec59a8b78a2bf19c3144c9cddc6b56ab63e271bc",
-    "md5sum": "da706e5e860a5bf134970288543169c4",
-    "signed": true,
-    "releasedate": "2026-07-27T18:20:21Z",
-    "uploaddate": "2026-07-17T17:01:40Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58000/4FE9CA5E-E91C-4CA2-9854-60C062C9C48A/Apple_Vision_Pro_26.6_23O770_Restore.ipsw"
-  },
-  {
-    "name": "MacBook Pro (M3 Pro, 16-inch, Nov 2023)",
-    "identifier": "Mac15,7",
-    "platform": "macOS",
-    "version": "26.6",
-    "buildid": "25G72",
-    "filesize": 19772077142,
-    "filesize_human": "18.41 GB",
-    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
-    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
-    "signed": true,
-    "releasedate": "2026-07-27T18:10:52Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
@@ -2970,8 +2940,8 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "MacBook Air (13-inch, M3, 2024)",
-    "identifier": "Mac15,12",
+    "name": "MacBook Pro (M3 Pro, 16-inch, Nov 2023)",
+    "identifier": "Mac15,7",
     "platform": "macOS",
     "version": "26.6",
     "buildid": "25G72",
@@ -2980,7 +2950,7 @@
     "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
-    "releasedate": "2026-07-27T18:10:46Z",
+    "releasedate": "2026-07-27T18:10:52Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
@@ -2996,6 +2966,36 @@
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
     "releasedate": "2026-07-27T18:10:49Z",
+    "uploaddate": "2026-07-24T02:16:52Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
+  },
+  {
+    "name": "Apple Vision Pro",
+    "identifier": "RealityDevice14,1",
+    "platform": "visionOS",
+    "version": "26.6",
+    "buildid": "23O770",
+    "filesize": 11905134189,
+    "filesize_human": "11.09 GB",
+    "sha1sum": "ec59a8b78a2bf19c3144c9cddc6b56ab63e271bc",
+    "md5sum": "da706e5e860a5bf134970288543169c4",
+    "signed": true,
+    "releasedate": "2026-07-27T18:20:21Z",
+    "uploaddate": "2026-07-17T17:01:40Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58000/4FE9CA5E-E91C-4CA2-9854-60C062C9C48A/Apple_Vision_Pro_26.6_23O770_Restore.ipsw"
+  },
+  {
+    "name": "MacBook Air (13-inch, M3, 2024)",
+    "identifier": "Mac15,12",
+    "platform": "macOS",
+    "version": "26.6",
+    "buildid": "25G72",
+    "filesize": 19772077142,
+    "filesize_human": "18.41 GB",
+    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
+    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
+    "signed": true,
+    "releasedate": "2026-07-27T18:10:46Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
@@ -3045,6 +3045,21 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58976/78C88DCF-A521-491D-A130-CEA957A399A6/iPad_Air_M2_26.6_23G71_Restore.ipsw"
   },
   {
+    "name": "iPad Air (M2, 13-inch, Cellular)",
+    "identifier": "iPad14,11",
+    "platform": "iPadOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10633479071,
+    "filesize_human": "9.90 GB",
+    "sha1sum": "80cbe62f2ff0cdb020d2e506be3c95e876a22e05",
+    "md5sum": "467da83f38a5a229fe7e5301f11d3cdb",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:06Z",
+    "uploaddate": "2026-07-18T02:28:06Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58976/78C88DCF-A521-491D-A130-CEA957A399A6/iPad_Air_M2_26.6_23G71_Restore.ipsw"
+  },
+  {
     "name": "iPad Pro (M4, 13-inch, WiFi)",
     "identifier": "iPad16,5",
     "platform": "iPadOS",
@@ -3073,21 +3088,6 @@
     "releasedate": "2026-07-27T17:38:06Z",
     "uploaddate": "2026-07-18T02:27:34Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57655/D1CB1E3E-79BC-4304-8545-C667E82DF2AF/iPad_Pro_M4_26.6_23G71_Restore.ipsw"
-  },
-  {
-    "name": "iPad Air (M2, 13-inch, Cellular)",
-    "identifier": "iPad14,11",
-    "platform": "iPadOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 10633479071,
-    "filesize_human": "9.90 GB",
-    "sha1sum": "80cbe62f2ff0cdb020d2e506be3c95e876a22e05",
-    "md5sum": "467da83f38a5a229fe7e5301f11d3cdb",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:06Z",
-    "uploaddate": "2026-07-18T02:28:06Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58976/78C88DCF-A521-491D-A130-CEA957A399A6/iPad_Air_M2_26.6_23G71_Restore.ipsw"
   },
   {
     "name": "iPad Air (M2, 11-inch, Cellular)",
@@ -3180,21 +3180,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57119/CBE71A83-42C2-4ED3-AAFC-190CFEF5E9C5/iPhone17,1_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iPad mini (A17 Pro, WiFi)",
-    "identifier": "iPad16,1",
-    "platform": "iPadOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 10783581346,
-    "filesize_human": "10.04 GB",
-    "sha1sum": "ed17b453bed3c673e3f924ae0dfc94a166860970",
-    "md5sum": "4161e8ad828ae5cc9ca2bce2a543db9d",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:01Z",
-    "uploaddate": "2026-07-18T02:25:45Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57473/555F9A51-FB16-4FDA-B60E-1AE599CB0E38/iPad16,1,iPad16,2_26.6_23G71_Restore.ipsw"
-  },
-  {
     "name": "iPad mini (A17 Pro, Cellular)",
     "identifier": "iPad16,2",
     "platform": "iPadOS",
@@ -3206,6 +3191,21 @@
     "md5sum": "4161e8ad828ae5cc9ca2bce2a543db9d",
     "signed": true,
     "releasedate": "2026-07-27T17:38:02Z",
+    "uploaddate": "2026-07-18T02:25:45Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57473/555F9A51-FB16-4FDA-B60E-1AE599CB0E38/iPad16,1,iPad16,2_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "iPad mini (A17 Pro, WiFi)",
+    "identifier": "iPad16,1",
+    "platform": "iPadOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10783581346,
+    "filesize_human": "10.04 GB",
+    "sha1sum": "ed17b453bed3c673e3f924ae0dfc94a166860970",
+    "md5sum": "4161e8ad828ae5cc9ca2bce2a543db9d",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:01Z",
     "uploaddate": "2026-07-18T02:25:45Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57473/555F9A51-FB16-4FDA-B60E-1AE599CB0E38/iPad16,1,iPad16,2_26.6_23G71_Restore.ipsw"
   },
@@ -3270,21 +3270,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "Mac mini (M4 Pro, 2024)",
-    "identifier": "Mac16,11",
-    "platform": "macOS",
-    "version": "26.6",
-    "buildid": "25G72",
-    "filesize": 19772077142,
-    "filesize_human": "18.41 GB",
-    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
-    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
-    "signed": true,
-    "releasedate": "2026-07-27T18:10:50Z",
-    "uploaddate": "2026-07-24T02:16:52Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
-  },
-  {
     "name": "iMac (Four Ports, 24-inch, 2024)",
     "identifier": "Mac16,3",
     "platform": "macOS",
@@ -3296,6 +3281,21 @@
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
     "releasedate": "2026-07-27T18:10:46Z",
+    "uploaddate": "2026-07-24T02:16:52Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
+  },
+  {
+    "name": "Mac mini (M4 Pro, 2024)",
+    "identifier": "Mac16,11",
+    "platform": "macOS",
+    "version": "26.6",
+    "buildid": "25G72",
+    "filesize": 19772077142,
+    "filesize_human": "18.41 GB",
+    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
+    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
+    "signed": true,
+    "releasedate": "2026-07-27T18:10:50Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
@@ -3315,21 +3315,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "MacBook Pro (M4 Pro, 14-inch, Nov 2024)",
-    "identifier": "Mac16,8",
-    "platform": "macOS",
-    "version": "26.6",
-    "buildid": "25G72",
-    "filesize": 19772077142,
-    "filesize_human": "18.41 GB",
-    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
-    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
-    "signed": true,
-    "releasedate": "2026-07-27T18:10:50Z",
-    "uploaddate": "2026-07-24T02:16:52Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
-  },
-  {
     "name": "iMac (Two Ports, 24-inch, 2024)",
     "identifier": "Mac16,2",
     "platform": "macOS",
@@ -3345,6 +3330,21 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
+    "name": "iPhone 16e",
+    "identifier": "iPhone17,5",
+    "platform": "iOS",
+    "version": "26.6",
+    "buildid": "23G71",
+    "filesize": 10844375364,
+    "filesize_human": "10.10 GB",
+    "sha1sum": "29f7ca6bd23597781b6c0db47011f970e7e6d88f",
+    "md5sum": "ccdc300fe5e084c2878c7bbba8a5491f",
+    "signed": true,
+    "releasedate": "2026-07-27T17:38:24Z",
+    "uploaddate": "2026-07-18T02:26:08Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57347/93853233-10D5-4C30-B6CA-AD4E70581573/iPhone17,5_26.6_23G71_Restore.ipsw"
+  },
+  {
     "name": "iPad Air 11-inch (M3, WiFi)",
     "identifier": "iPad15,3",
     "platform": "iPadOS",
@@ -3358,6 +3358,21 @@
     "releasedate": "2026-07-27T17:38:12Z",
     "uploaddate": "2026-07-18T02:26:40Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57887/5713215E-7923-4102-8D3C-0B03DA847759/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "MacBook Pro (M4 Pro, 14-inch, Nov 2024)",
+    "identifier": "Mac16,8",
+    "platform": "macOS",
+    "version": "26.6",
+    "buildid": "25G72",
+    "filesize": 19772077142,
+    "filesize_human": "18.41 GB",
+    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
+    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
+    "signed": true,
+    "releasedate": "2026-07-27T18:10:50Z",
+    "uploaddate": "2026-07-24T02:16:52Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
     "name": "iPad Air 13-inch (M3, WiFi)",
@@ -3420,19 +3435,19 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58697/CB8C4B63-F794-4EED-AD2F-15297E14B69E/iPad15,7_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "iPhone 16e",
-    "identifier": "iPhone17,5",
-    "platform": "iOS",
+    "name": "Mac Studio (2025)",
+    "identifier": "Mac15,14",
+    "platform": "macOS",
     "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 10844375364,
-    "filesize_human": "10.10 GB",
-    "sha1sum": "29f7ca6bd23597781b6c0db47011f970e7e6d88f",
-    "md5sum": "ccdc300fe5e084c2878c7bbba8a5491f",
+    "buildid": "25G72",
+    "filesize": 19772077142,
+    "filesize_human": "18.41 GB",
+    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
+    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
-    "releasedate": "2026-07-27T17:38:24Z",
-    "uploaddate": "2026-07-18T02:26:08Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57347/93853233-10D5-4C30-B6CA-AD4E70581573/iPhone17,5_26.6_23G71_Restore.ipsw"
+    "releasedate": "2026-07-27T18:10:53Z",
+    "uploaddate": "2026-07-24T02:16:52Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
     "name": "iPad Air 13-inch (M3, Cellular)",
@@ -3450,8 +3465,8 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57887/5713215E-7923-4102-8D3C-0B03DA847759/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "Mac Studio (2025)",
-    "identifier": "Mac15,14",
+    "name": "MacBook Air (15-inch, M4, 2025)",
+    "identifier": "Mac16,13",
     "platform": "macOS",
     "version": "26.6",
     "buildid": "25G72",
@@ -3460,7 +3475,7 @@
     "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
-    "releasedate": "2026-07-27T18:10:53Z",
+    "releasedate": "2026-07-27T18:10:51Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
@@ -3480,19 +3495,19 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "MacBook Air (15-inch, M4, 2025)",
-    "identifier": "Mac16,13",
-    "platform": "macOS",
+    "name": "iPhone 17 Pro",
+    "identifier": "iPhone18,1",
+    "platform": "iOS",
     "version": "26.6",
-    "buildid": "25G72",
-    "filesize": 19772077142,
-    "filesize_human": "18.41 GB",
-    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
-    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
+    "buildid": "23G71",
+    "filesize": 11518876702,
+    "filesize_human": "10.73 GB",
+    "sha1sum": "17616f51c073d443ad60022a53d4fe9d23a42f21",
+    "md5sum": "8bd1aee6194cdedc0aa9f8aaf2438f8e",
     "signed": true,
-    "releasedate": "2026-07-27T18:10:51Z",
-    "uploaddate": "2026-07-24T02:16:52Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
+    "releasedate": "2026-07-27T17:38:06Z",
+    "uploaddate": "2026-07-18T02:27:15Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57285/88580B31-DFDB-4502-884F-DA40EC871038/iPhone18,1_26.6_23G71_Restore.ipsw"
   },
   {
     "name": "Mac Studio (2025)",
@@ -3510,19 +3525,19 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "iPhone 17 Pro",
-    "identifier": "iPhone18,1",
+    "name": "iPhone Air",
+    "identifier": "iPhone18,4",
     "platform": "iOS",
     "version": "26.6",
     "buildid": "23G71",
-    "filesize": 11518876702,
-    "filesize_human": "10.73 GB",
-    "sha1sum": "17616f51c073d443ad60022a53d4fe9d23a42f21",
-    "md5sum": "8bd1aee6194cdedc0aa9f8aaf2438f8e",
+    "filesize": 11172759300,
+    "filesize_human": "10.41 GB",
+    "sha1sum": "bedd8e5ffef0d2507c10240389112be1fd8ecf7c",
+    "md5sum": "71f3d0b20e869390b65cd5a4e135b51d",
     "signed": true,
-    "releasedate": "2026-07-27T17:38:06Z",
-    "uploaddate": "2026-07-18T02:27:15Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57285/88580B31-DFDB-4502-884F-DA40EC871038/iPhone18,1_26.6_23G71_Restore.ipsw"
+    "releasedate": "2026-07-27T17:38:22Z",
+    "uploaddate": "2026-07-18T02:26:08Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57973/6338BC4D-F714-4BAF-B5D6-8786310374C8/iPhone18,4_26.6_23G71_Restore.ipsw"
   },
   {
     "name": "iPhone 17 Pro Max",
@@ -3538,21 +3553,6 @@
     "releasedate": "2026-07-27T17:38:22Z",
     "uploaddate": "2026-07-18T02:28:09Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57413/ED42973A-9AB0-41DC-B564-11A133F29F29/iPhone18,2_26.6_23G71_Restore.ipsw"
-  },
-  {
-    "name": "iPhone Air",
-    "identifier": "iPhone18,4",
-    "platform": "iOS",
-    "version": "26.6",
-    "buildid": "23G71",
-    "filesize": 11172759300,
-    "filesize_human": "10.41 GB",
-    "sha1sum": "bedd8e5ffef0d2507c10240389112be1fd8ecf7c",
-    "md5sum": "71f3d0b20e869390b65cd5a4e135b51d",
-    "signed": true,
-    "releasedate": "2026-07-27T17:38:22Z",
-    "uploaddate": "2026-07-18T02:26:08Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57973/6338BC4D-F714-4BAF-B5D6-8786310374C8/iPhone18,4_26.6_23G71_Restore.ipsw"
   },
   {
     "name": "iPhone 17",
@@ -3645,21 +3645,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
   {
-    "name": "Apple Vision Pro (M5)",
-    "identifier": "RealityDevice17,1",
-    "platform": "visionOS",
-    "version": "26.6",
-    "buildid": "23O770",
-    "filesize": 11938016927,
-    "filesize_human": "11.12 GB",
-    "sha1sum": "c7fe4386eaff017658dbf1822f2121c1ca8c01e1",
-    "md5sum": "a79bd0715c267989bc7cb7212c24a349",
-    "signed": true,
-    "releasedate": "2026-07-27T18:20:21Z",
-    "uploaddate": "2026-07-17T17:18:51Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58434/0DBA267C-D1F5-467E-B64F-B9B4F6C54DF0/Apple_Vision_Pro_M5_26.6_23O770_Restore.ipsw"
-  },
-  {
     "name": "iPad Air 11-inch (M4, Cellular)",
     "identifier": "iPad16,9",
     "platform": "iPadOS",
@@ -3673,6 +3658,21 @@
     "releasedate": "2026-07-27T17:38:10Z",
     "uploaddate": "2026-07-18T02:55:02Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57389/3E66DF05-DE9E-4467-AE04-3488C561494C/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6_23G71_Restore.ipsw"
+  },
+  {
+    "name": "Apple Vision Pro (M5)",
+    "identifier": "RealityDevice17,1",
+    "platform": "visionOS",
+    "version": "26.6",
+    "buildid": "23O770",
+    "filesize": 11938016927,
+    "filesize_human": "11.12 GB",
+    "sha1sum": "c7fe4386eaff017658dbf1822f2121c1ca8c01e1",
+    "md5sum": "a79bd0715c267989bc7cb7212c24a349",
+    "signed": true,
+    "releasedate": "2026-07-27T18:20:21Z",
+    "uploaddate": "2026-07-17T17:18:51Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-58434/0DBA267C-D1F5-467E-B64F-B9B4F6C54DF0/Apple_Vision_Pro_M5_26.6_23O770_Restore.ipsw"
   },
   {
     "name": "iPhone 17e",
@@ -3735,21 +3735,6 @@
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-57389/3E66DF05-DE9E-4467-AE04-3488C561494C/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6_23G71_Restore.ipsw"
   },
   {
-    "name": "MacBook Neo",
-    "identifier": "Mac17,5",
-    "platform": "macOS",
-    "version": "26.6",
-    "buildid": "25G72",
-    "filesize": 19772077142,
-    "filesize_human": "18.41 GB",
-    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
-    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
-    "signed": true,
-    "releasedate": "2026-07-27T18:10:47Z",
-    "uploaddate": "2026-07-24T02:16:52Z",
-    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
-  },
-  {
     "name": "MacBook Pro (14-inch, M5 Max)",
     "identifier": "Mac17,7",
     "platform": "macOS",
@@ -3761,6 +3746,21 @@
     "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
     "signed": true,
     "releasedate": "2026-07-27T18:10:49Z",
+    "uploaddate": "2026-07-24T02:16:52Z",
+    "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
+  },
+  {
+    "name": "MacBook Neo",
+    "identifier": "Mac17,5",
+    "platform": "macOS",
+    "version": "26.6",
+    "buildid": "25G72",
+    "filesize": 19772077142,
+    "filesize_human": "18.41 GB",
+    "sha1sum": "1bccc2a9710d94f23304bba4d976c94a989beed3",
+    "md5sum": "2dba92e72a2945c4fcab85acfeb0ac6d",
+    "signed": true,
+    "releasedate": "2026-07-27T18:10:47Z",
     "uploaddate": "2026-07-24T02:16:52Z",
     "download_url": "https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-65618/10445B26-DE2C-43EC-9149-0A831602E74B/UniversalMac_26.6_25G72_Restore.ipsw"
   },
