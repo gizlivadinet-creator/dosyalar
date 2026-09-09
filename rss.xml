@@ -5,7 +5,7 @@
     <link>https://gizlivadinet-creator.github.io/dosyalar/</link>
     <description>Latest official Apple IPSW firmware downloads (iOS, iPadOS, watchOS, tvOS, audioOS, visionOS, macOS) via ipsw.me API</description>
     <language>en</language>
-    <lastBuildDate>Tue, 08 Sep 2026 15:39:50 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 02:09:51 +0000</lastBuildDate>
     <atom:link href="https://gizlivadinet-creator.github.io/dosyalar/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Developer Transition Kit - Firmware 11.2.3 (20D91)</title>
@@ -1320,835 +1320,835 @@ Download: https://secure-appldnld.apple.com/iOS5.1.1/041-4292.02120427.Tkk0d/iPa
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad mini 5 (WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad mini 5 (WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad mini 5 (WiFi) (iPad11,1)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.25 GB
-SHA1: d49f398d63f3af3608c435501962a55ee7e44051
+SHA1: 43b4914be40372b099e9f9b381b1654e3ea7e245
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75126/51E6CF98-E76E-45CC-A0BF-978D0D210406/iPad_Spring_2019_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75126/51E6CF98-E76E-45CC-A0BF-978D0D210406/iPad_Spring_2019_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75126/51E6CF98-E76E-45CC-A0BF-978D0D210406/iPad_Spring_2019_26.6.1_23G83_Restore.ipsw" length="9929196634" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad11,1_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:31 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/2ca0e1a6-82d6-4008-8390-03cf64f8b7bc/iPad_Spring_2019_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/2ca0e1a6-82d6-4008-8390-03cf64f8b7bc/iPad_Spring_2019_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/2ca0e1a6-82d6-4008-8390-03cf64f8b7bc/iPad_Spring_2019_26.6.2_23G90_Restore.ipsw" length="9929130136" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad11,1_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:16 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad mini 5 (Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad mini 5 (Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad mini 5 (Cellular) (iPad11,2)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.25 GB
-SHA1: d49f398d63f3af3608c435501962a55ee7e44051
+SHA1: 43b4914be40372b099e9f9b381b1654e3ea7e245
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75126/51E6CF98-E76E-45CC-A0BF-978D0D210406/iPad_Spring_2019_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75126/51E6CF98-E76E-45CC-A0BF-978D0D210406/iPad_Spring_2019_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75126/51E6CF98-E76E-45CC-A0BF-978D0D210406/iPad_Spring_2019_26.6.1_23G83_Restore.ipsw" length="9929196634" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad11,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:29 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/2ca0e1a6-82d6-4008-8390-03cf64f8b7bc/iPad_Spring_2019_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/2ca0e1a6-82d6-4008-8390-03cf64f8b7bc/iPad_Spring_2019_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/2ca0e1a6-82d6-4008-8390-03cf64f8b7bc/iPad_Spring_2019_26.6.2_23G90_Restore.ipsw" length="9929130136" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad11,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:29 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 3 (WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 3 (WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 3 (WiFi) (iPad11,3)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.25 GB
-SHA1: d49f398d63f3af3608c435501962a55ee7e44051
+SHA1: 43b4914be40372b099e9f9b381b1654e3ea7e245
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75126/51E6CF98-E76E-45CC-A0BF-978D0D210406/iPad_Spring_2019_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75126/51E6CF98-E76E-45CC-A0BF-978D0D210406/iPad_Spring_2019_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75126/51E6CF98-E76E-45CC-A0BF-978D0D210406/iPad_Spring_2019_26.6.1_23G83_Restore.ipsw" length="9929196634" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad11,3_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:05 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/2ca0e1a6-82d6-4008-8390-03cf64f8b7bc/iPad_Spring_2019_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/2ca0e1a6-82d6-4008-8390-03cf64f8b7bc/iPad_Spring_2019_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/2ca0e1a6-82d6-4008-8390-03cf64f8b7bc/iPad_Spring_2019_26.6.2_23G90_Restore.ipsw" length="9929130136" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad11,3_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:24 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 3 (Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 3 (Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 3 (Cellular) (iPad11,4)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.25 GB
-SHA1: d49f398d63f3af3608c435501962a55ee7e44051
+SHA1: 43b4914be40372b099e9f9b381b1654e3ea7e245
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75126/51E6CF98-E76E-45CC-A0BF-978D0D210406/iPad_Spring_2019_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75126/51E6CF98-E76E-45CC-A0BF-978D0D210406/iPad_Spring_2019_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75126/51E6CF98-E76E-45CC-A0BF-978D0D210406/iPad_Spring_2019_26.6.1_23G83_Restore.ipsw" length="9929196634" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad11,4_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:24 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/2ca0e1a6-82d6-4008-8390-03cf64f8b7bc/iPad_Spring_2019_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/2ca0e1a6-82d6-4008-8390-03cf64f8b7bc/iPad_Spring_2019_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/2ca0e1a6-82d6-4008-8390-03cf64f8b7bc/iPad_Spring_2019_26.6.2_23G90_Restore.ipsw" length="9929130136" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad11,4_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:29 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad 8 (WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad 8 (WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad 8 (WiFi) (iPad11,6)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.11 GB
-SHA1: 90b93cbbd44aa536f16bb38e2588a5f6371fdce8
+SHA1: c01c776fc0c41c28b38ab2741417cbad9b81ac80
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74001/3F9DE325-4215-4191-BEC9-521DD3EE50DD/iPad_10.2_2020_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74001/3F9DE325-4215-4191-BEC9-521DD3EE50DD/iPad_10.2_2020_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74001/3F9DE325-4215-4191-BEC9-521DD3EE50DD/iPad_10.2_2020_26.6.1_23G83_Restore.ipsw" length="9779596225" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad11,6_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:30 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/076f1fa8-abd0-4525-918e-2ec4f3753444/iPad_10.2_2020_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/076f1fa8-abd0-4525-918e-2ec4f3753444/iPad_10.2_2020_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/076f1fa8-abd0-4525-918e-2ec4f3753444/iPad_10.2_2020_26.6.2_23G90_Restore.ipsw" length="9779530354" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad11,6_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:26 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad 8 (Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad 8 (Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad 8 (Cellular) (iPad11,7)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.11 GB
-SHA1: 90b93cbbd44aa536f16bb38e2588a5f6371fdce8
+SHA1: c01c776fc0c41c28b38ab2741417cbad9b81ac80
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74001/3F9DE325-4215-4191-BEC9-521DD3EE50DD/iPad_10.2_2020_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74001/3F9DE325-4215-4191-BEC9-521DD3EE50DD/iPad_10.2_2020_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74001/3F9DE325-4215-4191-BEC9-521DD3EE50DD/iPad_10.2_2020_26.6.1_23G83_Restore.ipsw" length="9779596225" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad11,7_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:12 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/076f1fa8-abd0-4525-918e-2ec4f3753444/iPad_10.2_2020_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/076f1fa8-abd0-4525-918e-2ec4f3753444/iPad_10.2_2020_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/076f1fa8-abd0-4525-918e-2ec4f3753444/iPad_10.2_2020_26.6.2_23G90_Restore.ipsw" length="9779530354" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad11,7_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:28 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad (WiFi, 9th generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad (WiFi, 9th generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad (WiFi, 9th generation) (iPad12,1)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 8.93 GB
-SHA1: 6a2cfe0446194796b4637e08c55abf8788a53aa6
+SHA1: 2f5fb1f94e6893db12c9a8aad53c689afffa16ea
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93815/5BDB32B5-B2BA-49F2-940C-160AA8309B4E/iPad_10.2_2021_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93815/5BDB32B5-B2BA-49F2-940C-160AA8309B4E/iPad_10.2_2021_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93815/5BDB32B5-B2BA-49F2-940C-160AA8309B4E/iPad_10.2_2021_26.6.1_23G83_Restore.ipsw" length="9590980426" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad12,1_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:21 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/284640dc-9924-43ba-8d49-d888b4798ec4/iPad_10.2_2021_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/284640dc-9924-43ba-8d49-d888b4798ec4/iPad_10.2_2021_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/284640dc-9924-43ba-8d49-d888b4798ec4/iPad_10.2_2021_26.6.2_23G90_Restore.ipsw" length="9590909984" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad12,1_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:15 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad (Cellular, 9th generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad (Cellular, 9th generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad (Cellular, 9th generation) (iPad12,2)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 8.93 GB
-SHA1: 6a2cfe0446194796b4637e08c55abf8788a53aa6
+SHA1: 2f5fb1f94e6893db12c9a8aad53c689afffa16ea
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93815/5BDB32B5-B2BA-49F2-940C-160AA8309B4E/iPad_10.2_2021_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93815/5BDB32B5-B2BA-49F2-940C-160AA8309B4E/iPad_10.2_2021_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93815/5BDB32B5-B2BA-49F2-940C-160AA8309B4E/iPad_10.2_2021_26.6.1_23G83_Restore.ipsw" length="9590980426" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad12,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:12 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/284640dc-9924-43ba-8d49-d888b4798ec4/iPad_10.2_2021_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/284640dc-9924-43ba-8d49-d888b4798ec4/iPad_10.2_2021_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/284640dc-9924-43ba-8d49-d888b4798ec4/iPad_10.2_2021_26.6.2_23G90_Restore.ipsw" length="9590909984" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad12,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:38 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 4 (WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 4 (WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 4 (WiFi) (iPad13,1)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.31 GB
-SHA1: c10314572c0f29d35f06791fbef9138dc873b823
+SHA1: 8afc23770a77d50869c64eaca418c1bb8c13dd22
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73972/2C52784B-059F-41B4-B2E4-DC7A2CADCCD4/iPad_Fall_2020_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73972/2C52784B-059F-41B4-B2E4-DC7A2CADCCD4/iPad_Fall_2020_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73972/2C52784B-059F-41B4-B2E4-DC7A2CADCCD4/iPad_Fall_2020_26.6.1_23G83_Restore.ipsw" length="9992072009" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,1_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:32 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/634b8e4f-55a5-414c-a554-df8624f9aee5/iPad_Fall_2020_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/634b8e4f-55a5-414c-a554-df8624f9aee5/iPad_Fall_2020_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/634b8e4f-55a5-414c-a554-df8624f9aee5/iPad_Fall_2020_26.6.2_23G90_Restore.ipsw" length="9991999267" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,1_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:40 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (12.9-inch, Cellular) (5th generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (12.9-inch, Cellular) (5th generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (12.9-inch, Cellular) (5th generation) (iPad13,10)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.75 GB
-SHA1: a3dac736b578fe92bbd7366020a15f990676e6ba
+SHA1: e9d718b345568b4bb69df6926f8a41300609d482
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw" length="10467937989" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,10_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:28 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw" length="10467865588" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,10_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:36 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (12.9-inch, Cellular) (5th generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (12.9-inch, Cellular) (5th generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (12.9-inch, Cellular) (5th generation) (iPad13,11)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.75 GB
-SHA1: a3dac736b578fe92bbd7366020a15f990676e6ba
+SHA1: e9d718b345568b4bb69df6926f8a41300609d482
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw" length="10467937989" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,11_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:32 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw" length="10467865588" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,11_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:21 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 5 (WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 5 (WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 5 (WiFi) (iPad13,16)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.76 GB
-SHA1: 49fe2c6ee3beeddd80084b1c0abdda37001fe946
+SHA1: 9d855619cb1d672b77804290d5dac31eecc53b2d
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93796/BE36DC45-143C-4DF7-829A-9B3E416BDEE5/iPad_Spring_2022_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93796/BE36DC45-143C-4DF7-829A-9B3E416BDEE5/iPad_Spring_2022_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93796/BE36DC45-143C-4DF7-829A-9B3E416BDEE5/iPad_Spring_2022_26.6.1_23G83_Restore.ipsw" length="10479787377" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,16_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:11 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/a0ec8cbf-2086-4ed1-bb67-5244412cc052/iPad_Spring_2022_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/a0ec8cbf-2086-4ed1-bb67-5244412cc052/iPad_Spring_2022_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/a0ec8cbf-2086-4ed1-bb67-5244412cc052/iPad_Spring_2022_26.6.2_23G90_Restore.ipsw" length="10479715286" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,16_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:28 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 5 (Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 5 (Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 5 (Cellular) (iPad13,17)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.76 GB
-SHA1: 49fe2c6ee3beeddd80084b1c0abdda37001fe946
+SHA1: 9d855619cb1d672b77804290d5dac31eecc53b2d
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93796/BE36DC45-143C-4DF7-829A-9B3E416BDEE5/iPad_Spring_2022_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93796/BE36DC45-143C-4DF7-829A-9B3E416BDEE5/iPad_Spring_2022_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93796/BE36DC45-143C-4DF7-829A-9B3E416BDEE5/iPad_Spring_2022_26.6.1_23G83_Restore.ipsw" length="10479787377" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,17_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:27 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/a0ec8cbf-2086-4ed1-bb67-5244412cc052/iPad_Spring_2022_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/a0ec8cbf-2086-4ed1-bb67-5244412cc052/iPad_Spring_2022_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/a0ec8cbf-2086-4ed1-bb67-5244412cc052/iPad_Spring_2022_26.6.2_23G90_Restore.ipsw" length="10479715286" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,17_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:42 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad (WiFi, 10th generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad (WiFi, 10th generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad (WiFi, 10th generation) (iPad13,18)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.30 GB
-SHA1: b8364873f36a758367934f3e0932ff33845ba304
+SHA1: 68f71c3cb5a0cb5052f35209b29654da59ea0844
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93810/A21DCB6A-C1F9-4D44-9BCB-5D6ADD726B7C/iPad_Fall_2022_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93810/A21DCB6A-C1F9-4D44-9BCB-5D6ADD726B7C/iPad_Fall_2022_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93810/A21DCB6A-C1F9-4D44-9BCB-5D6ADD726B7C/iPad_Fall_2022_26.6.1_23G83_Restore.ipsw" length="9985572345" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,18_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:29 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/bb83c50f-92a2-48f1-b785-55cbbcfdd6e3/iPad_Fall_2022_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/bb83c50f-92a2-48f1-b785-55cbbcfdd6e3/iPad_Fall_2022_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/bb83c50f-92a2-48f1-b785-55cbbcfdd6e3/iPad_Fall_2022_26.6.2_23G90_Restore.ipsw" length="9985497927" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,18_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:20 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad (Cellular, 10th generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad (Cellular, 10th generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad (Cellular, 10th generation) (iPad13,19)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.30 GB
-SHA1: b8364873f36a758367934f3e0932ff33845ba304
+SHA1: 68f71c3cb5a0cb5052f35209b29654da59ea0844
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93810/A21DCB6A-C1F9-4D44-9BCB-5D6ADD726B7C/iPad_Fall_2022_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93810/A21DCB6A-C1F9-4D44-9BCB-5D6ADD726B7C/iPad_Fall_2022_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93810/A21DCB6A-C1F9-4D44-9BCB-5D6ADD726B7C/iPad_Fall_2022_26.6.1_23G83_Restore.ipsw" length="9985572345" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,19_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:29 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/bb83c50f-92a2-48f1-b785-55cbbcfdd6e3/iPad_Fall_2022_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/bb83c50f-92a2-48f1-b785-55cbbcfdd6e3/iPad_Fall_2022_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/bb83c50f-92a2-48f1-b785-55cbbcfdd6e3/iPad_Fall_2022_26.6.2_23G90_Restore.ipsw" length="9985497927" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,19_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:25 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 4 (Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 4 (Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 4 (Cellular) (iPad13,2)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.31 GB
-SHA1: c10314572c0f29d35f06791fbef9138dc873b823
+SHA1: 8afc23770a77d50869c64eaca418c1bb8c13dd22
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73972/2C52784B-059F-41B4-B2E4-DC7A2CADCCD4/iPad_Fall_2020_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73972/2C52784B-059F-41B4-B2E4-DC7A2CADCCD4/iPad_Fall_2020_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73972/2C52784B-059F-41B4-B2E4-DC7A2CADCCD4/iPad_Fall_2020_26.6.1_23G83_Restore.ipsw" length="9992072009" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:17 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/634b8e4f-55a5-414c-a554-df8624f9aee5/iPad_Fall_2020_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/634b8e4f-55a5-414c-a554-df8624f9aee5/iPad_Fall_2020_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/634b8e4f-55a5-414c-a554-df8624f9aee5/iPad_Fall_2020_26.6.2_23G90_Restore.ipsw" length="9991999267" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:28 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (11-inch, WiFi) (3rd generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (11-inch, WiFi) (3rd generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (11-inch, WiFi) (3rd generation) (iPad13,4)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.75 GB
-SHA1: a3dac736b578fe92bbd7366020a15f990676e6ba
+SHA1: e9d718b345568b4bb69df6926f8a41300609d482
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw" length="10467937989" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,4_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:18 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw" length="10467865588" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,4_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:30 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (11-inch, Cellular) (3rd generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (11-inch, Cellular) (3rd generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (11-inch, Cellular) (3rd generation) (iPad13,5)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.75 GB
-SHA1: a3dac736b578fe92bbd7366020a15f990676e6ba
+SHA1: e9d718b345568b4bb69df6926f8a41300609d482
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw" length="10467937989" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,5_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:25 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw" length="10467865588" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,5_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:26 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (11-inch, WiFi) (3rd generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (11-inch, WiFi) (3rd generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (11-inch, WiFi) (3rd generation) (iPad13,6)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.75 GB
-SHA1: a3dac736b578fe92bbd7366020a15f990676e6ba
+SHA1: e9d718b345568b4bb69df6926f8a41300609d482
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw" length="10467937989" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,6_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:15 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw" length="10467865588" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,6_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:34 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (11-inch, Cellular) (3rd generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (11-inch, Cellular) (3rd generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (11-inch, Cellular) (3rd generation) (iPad13,7)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.75 GB
-SHA1: a3dac736b578fe92bbd7366020a15f990676e6ba
+SHA1: e9d718b345568b4bb69df6926f8a41300609d482
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw" length="10467937989" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,7_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:06 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw" length="10467865588" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,7_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:25 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (12.9-inch, WiFi) (5th generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (12.9-inch, WiFi) (5th generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (12.9-inch, WiFi) (5th generation) (iPad13,8)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.75 GB
-SHA1: a3dac736b578fe92bbd7366020a15f990676e6ba
+SHA1: e9d718b345568b4bb69df6926f8a41300609d482
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw" length="10467937989" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,8_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:06 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw" length="10467865588" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,8_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:42 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (12.9-inch, WiFi) (5th generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (12.9-inch, WiFi) (5th generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (12.9-inch, WiFi) (5th generation) (iPad13,9)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.75 GB
-SHA1: a3dac736b578fe92bbd7366020a15f990676e6ba
+SHA1: e9d718b345568b4bb69df6926f8a41300609d482
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75204/C48AA332-B37D-4E66-8B29-C73631AE635F/iPad_Pro_Spring_2021_26.6.1_23G83_Restore.ipsw" length="10467937989" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad13,9_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:33 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/b2542e11-1bb4-4347-9eac-6c6e2a86431e/iPad_Pro_Spring_2021_26.6.2_23G90_Restore.ipsw" length="10467865588" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad13,9_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:23 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad mini 6 (WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad mini 6 (WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad mini 6 (WiFi) (iPad14,1)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.36 GB
-SHA1: 4c53a43c43511345540986c53bfb3702cbb0566b
+SHA1: 4b9d60c422c155dbf352fe93bcd5e63617bcf0c8
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75021/AE5BAEC3-34E4-4B21-A767-703DECDAFC10/iPad_Fall_2021_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75021/AE5BAEC3-34E4-4B21-A767-703DECDAFC10/iPad_Fall_2021_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75021/AE5BAEC3-34E4-4B21-A767-703DECDAFC10/iPad_Fall_2021_26.6.1_23G83_Restore.ipsw" length="10054832416" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad14,1_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:13 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/bfe601a4-064e-4122-a1b6-f2056fb82471/iPad_Fall_2021_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/bfe601a4-064e-4122-a1b6-f2056fb82471/iPad_Fall_2021_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/bfe601a4-064e-4122-a1b6-f2056fb82471/iPad_Fall_2021_26.6.2_23G90_Restore.ipsw" length="10054760871" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad14,1_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:36 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air (M2, 13-inch, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air (M2, 13-inch, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air (M2, 13-inch, WiFi) (iPad14,10)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.90 GB
-SHA1: 6dd6f662e7e457eb6833776566f2f173f47f56f2
+SHA1: f92e39d5ad6ca9e82e8897f1f7ba028ee23a37ed
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73761/F9B387D6-40D9-4825-9DCF-D55246E12504/iPad_Air_M2_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73761/F9B387D6-40D9-4825-9DCF-D55246E12504/iPad_Air_M2_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73761/F9B387D6-40D9-4825-9DCF-D55246E12504/iPad_Air_M2_26.6.1_23G83_Restore.ipsw" length="10633673360" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad14,10_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:26 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/deeb946c-6f7f-4763-8e0c-00ec2c1edcea/iPad_Air_M2_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/deeb946c-6f7f-4763-8e0c-00ec2c1edcea/iPad_Air_M2_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/deeb946c-6f7f-4763-8e0c-00ec2c1edcea/iPad_Air_M2_26.6.2_23G90_Restore.ipsw" length="10633603503" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad14,10_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:30 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air (M2, 13-inch, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air (M2, 13-inch, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air (M2, 13-inch, Cellular) (iPad14,11)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.90 GB
-SHA1: 6dd6f662e7e457eb6833776566f2f173f47f56f2
+SHA1: f92e39d5ad6ca9e82e8897f1f7ba028ee23a37ed
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73761/F9B387D6-40D9-4825-9DCF-D55246E12504/iPad_Air_M2_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73761/F9B387D6-40D9-4825-9DCF-D55246E12504/iPad_Air_M2_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73761/F9B387D6-40D9-4825-9DCF-D55246E12504/iPad_Air_M2_26.6.1_23G83_Restore.ipsw" length="10633673360" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad14,11_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:12 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/deeb946c-6f7f-4763-8e0c-00ec2c1edcea/iPad_Air_M2_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/deeb946c-6f7f-4763-8e0c-00ec2c1edcea/iPad_Air_M2_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/deeb946c-6f7f-4763-8e0c-00ec2c1edcea/iPad_Air_M2_26.6.2_23G90_Restore.ipsw" length="10633603503" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad14,11_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:36 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad mini 6 (Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad mini 6 (Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad mini 6 (Cellular) (iPad14,2)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.36 GB
-SHA1: 4c53a43c43511345540986c53bfb3702cbb0566b
+SHA1: 4b9d60c422c155dbf352fe93bcd5e63617bcf0c8
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75021/AE5BAEC3-34E4-4B21-A767-703DECDAFC10/iPad_Fall_2021_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75021/AE5BAEC3-34E4-4B21-A767-703DECDAFC10/iPad_Fall_2021_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75021/AE5BAEC3-34E4-4B21-A767-703DECDAFC10/iPad_Fall_2021_26.6.1_23G83_Restore.ipsw" length="10054832416" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad14,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:07 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/bfe601a4-064e-4122-a1b6-f2056fb82471/iPad_Fall_2021_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/bfe601a4-064e-4122-a1b6-f2056fb82471/iPad_Fall_2021_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/bfe601a4-064e-4122-a1b6-f2056fb82471/iPad_Fall_2021_26.6.2_23G90_Restore.ipsw" length="10054760871" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad14,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:33 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (11-inch, WiFi) (4th generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (11-inch, WiFi) (4th generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (11-inch, WiFi) (4th generation) (iPad14,3)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.75 GB
-SHA1: 434c17145e682379d34f30c5ce5b338b6b8df4fa
+SHA1: 8c5e1c80935bbf6e1dc1abdf6f3411c61e2907e1
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73741/DEA3B895-8142-4CBF-A58A-B6887BD89321/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73741/DEA3B895-8142-4CBF-A58A-B6887BD89321/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73741/DEA3B895-8142-4CBF-A58A-B6887BD89321/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.1_23G83_Restore.ipsw" length="10471924288" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad14,3_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:05 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/5b079806-5bf1-4b6a-b089-acd305c75d01/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/5b079806-5bf1-4b6a-b089-acd305c75d01/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/5b079806-5bf1-4b6a-b089-acd305c75d01/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.2_23G90_Restore.ipsw" length="10471854758" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad14,3_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:37 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (11-inch, Cellular) (4th generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (11-inch, Cellular) (4th generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (11-inch, Cellular) (4th generation) (iPad14,4)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.75 GB
-SHA1: 434c17145e682379d34f30c5ce5b338b6b8df4fa
+SHA1: 8c5e1c80935bbf6e1dc1abdf6f3411c61e2907e1
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73741/DEA3B895-8142-4CBF-A58A-B6887BD89321/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73741/DEA3B895-8142-4CBF-A58A-B6887BD89321/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73741/DEA3B895-8142-4CBF-A58A-B6887BD89321/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.1_23G83_Restore.ipsw" length="10471924288" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad14,4_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:18 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/5b079806-5bf1-4b6a-b089-acd305c75d01/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/5b079806-5bf1-4b6a-b089-acd305c75d01/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/5b079806-5bf1-4b6a-b089-acd305c75d01/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.2_23G90_Restore.ipsw" length="10471854758" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad14,4_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:31 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (12.9-inch, WiFi) (6th generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (12.9-inch, WiFi) (6th generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (12.9-inch, WiFi) (6th generation) (iPad14,5)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.75 GB
-SHA1: 434c17145e682379d34f30c5ce5b338b6b8df4fa
+SHA1: 8c5e1c80935bbf6e1dc1abdf6f3411c61e2907e1
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73741/DEA3B895-8142-4CBF-A58A-B6887BD89321/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73741/DEA3B895-8142-4CBF-A58A-B6887BD89321/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73741/DEA3B895-8142-4CBF-A58A-B6887BD89321/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.1_23G83_Restore.ipsw" length="10471924288" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad14,5_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:11 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/5b079806-5bf1-4b6a-b089-acd305c75d01/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/5b079806-5bf1-4b6a-b089-acd305c75d01/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/5b079806-5bf1-4b6a-b089-acd305c75d01/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.2_23G90_Restore.ipsw" length="10471854758" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad14,5_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:22 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (12.9-inch, Cellular) (6th generation) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (12.9-inch, Cellular) (6th generation) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (12.9-inch, Cellular) (6th generation) (iPad14,6)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.75 GB
-SHA1: 434c17145e682379d34f30c5ce5b338b6b8df4fa
+SHA1: 8c5e1c80935bbf6e1dc1abdf6f3411c61e2907e1
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73741/DEA3B895-8142-4CBF-A58A-B6887BD89321/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73741/DEA3B895-8142-4CBF-A58A-B6887BD89321/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73741/DEA3B895-8142-4CBF-A58A-B6887BD89321/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.1_23G83_Restore.ipsw" length="10471924288" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad14,6_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:20 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/5b079806-5bf1-4b6a-b089-acd305c75d01/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/5b079806-5bf1-4b6a-b089-acd305c75d01/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/5b079806-5bf1-4b6a-b089-acd305c75d01/iPad14,3,iPad14,4,iPad14,5,iPad14,6_26.6.2_23G90_Restore.ipsw" length="10471854758" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad14,6_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:21 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air (M2, 11-inch, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air (M2, 11-inch, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air (M2, 11-inch, WiFi) (iPad14,8)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.90 GB
-SHA1: 6dd6f662e7e457eb6833776566f2f173f47f56f2
+SHA1: f92e39d5ad6ca9e82e8897f1f7ba028ee23a37ed
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73761/F9B387D6-40D9-4825-9DCF-D55246E12504/iPad_Air_M2_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73761/F9B387D6-40D9-4825-9DCF-D55246E12504/iPad_Air_M2_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73761/F9B387D6-40D9-4825-9DCF-D55246E12504/iPad_Air_M2_26.6.1_23G83_Restore.ipsw" length="10633673360" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad14,8_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:14 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/deeb946c-6f7f-4763-8e0c-00ec2c1edcea/iPad_Air_M2_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/deeb946c-6f7f-4763-8e0c-00ec2c1edcea/iPad_Air_M2_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/deeb946c-6f7f-4763-8e0c-00ec2c1edcea/iPad_Air_M2_26.6.2_23G90_Restore.ipsw" length="10633603503" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad14,8_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:34 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air (M2, 11-inch, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air (M2, 11-inch, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air (M2, 11-inch, Cellular) (iPad14,9)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.90 GB
-SHA1: 6dd6f662e7e457eb6833776566f2f173f47f56f2
+SHA1: f92e39d5ad6ca9e82e8897f1f7ba028ee23a37ed
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73761/F9B387D6-40D9-4825-9DCF-D55246E12504/iPad_Air_M2_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73761/F9B387D6-40D9-4825-9DCF-D55246E12504/iPad_Air_M2_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73761/F9B387D6-40D9-4825-9DCF-D55246E12504/iPad_Air_M2_26.6.1_23G83_Restore.ipsw" length="10633673360" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad14,9_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:20 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/deeb946c-6f7f-4763-8e0c-00ec2c1edcea/iPad_Air_M2_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/deeb946c-6f7f-4763-8e0c-00ec2c1edcea/iPad_Air_M2_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/deeb946c-6f7f-4763-8e0c-00ec2c1edcea/iPad_Air_M2_26.6.2_23G90_Restore.ipsw" length="10633603503" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad14,9_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:27 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 11-inch (M3, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 11-inch (M3, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 11-inch (M3, WiFi) (iPad15,3)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.88 GB
-SHA1: 3bd45a92d29555141103a7423f78bc40099ec204
+SHA1: d71d79849267d653672792d5c58de506ce727181
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93813/53D9BF7A-EC71-4F4B-B97A-ED3F8922CBEF/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93813/53D9BF7A-EC71-4F4B-B97A-ED3F8922CBEF/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93813/53D9BF7A-EC71-4F4B-B97A-ED3F8922CBEF/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.1_23G83_Restore.ipsw" length="10607871179" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad15,3_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:07 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/3ddb0f1f-46ed-48f4-aaad-9837e83144fa/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/3ddb0f1f-46ed-48f4-aaad-9837e83144fa/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/3ddb0f1f-46ed-48f4-aaad-9837e83144fa/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.2_23G90_Restore.ipsw" length="10607797548" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad15,3_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:30 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 11-inch (M3, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 11-inch (M3, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 11-inch (M3, Cellular) (iPad15,4)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.88 GB
-SHA1: 3bd45a92d29555141103a7423f78bc40099ec204
+SHA1: d71d79849267d653672792d5c58de506ce727181
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93813/53D9BF7A-EC71-4F4B-B97A-ED3F8922CBEF/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93813/53D9BF7A-EC71-4F4B-B97A-ED3F8922CBEF/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93813/53D9BF7A-EC71-4F4B-B97A-ED3F8922CBEF/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.1_23G83_Restore.ipsw" length="10607871179" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad15,4_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:11 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/3ddb0f1f-46ed-48f4-aaad-9837e83144fa/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/3ddb0f1f-46ed-48f4-aaad-9837e83144fa/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/3ddb0f1f-46ed-48f4-aaad-9837e83144fa/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.2_23G90_Restore.ipsw" length="10607797548" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad15,4_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:30 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 13-inch (M3, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 13-inch (M3, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 13-inch (M3, WiFi) (iPad15,5)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.88 GB
-SHA1: 3bd45a92d29555141103a7423f78bc40099ec204
+SHA1: d71d79849267d653672792d5c58de506ce727181
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93813/53D9BF7A-EC71-4F4B-B97A-ED3F8922CBEF/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93813/53D9BF7A-EC71-4F4B-B97A-ED3F8922CBEF/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93813/53D9BF7A-EC71-4F4B-B97A-ED3F8922CBEF/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.1_23G83_Restore.ipsw" length="10607871179" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad15,5_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:18 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/3ddb0f1f-46ed-48f4-aaad-9837e83144fa/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/3ddb0f1f-46ed-48f4-aaad-9837e83144fa/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/3ddb0f1f-46ed-48f4-aaad-9837e83144fa/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.2_23G90_Restore.ipsw" length="10607797548" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad15,5_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:18 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 13-inch (M3, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 13-inch (M3, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 13-inch (M3, Cellular) (iPad15,6)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.88 GB
-SHA1: 3bd45a92d29555141103a7423f78bc40099ec204
+SHA1: d71d79849267d653672792d5c58de506ce727181
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93813/53D9BF7A-EC71-4F4B-B97A-ED3F8922CBEF/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93813/53D9BF7A-EC71-4F4B-B97A-ED3F8922CBEF/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93813/53D9BF7A-EC71-4F4B-B97A-ED3F8922CBEF/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.1_23G83_Restore.ipsw" length="10607871179" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad15,6_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:16 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/3ddb0f1f-46ed-48f4-aaad-9837e83144fa/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/3ddb0f1f-46ed-48f4-aaad-9837e83144fa/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/3ddb0f1f-46ed-48f4-aaad-9837e83144fa/iPad15,3,iPad15,4,iPad15,5,iPad15,6_26.6.2_23G90_Restore.ipsw" length="10607797548" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad15,6_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:21 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad (A16, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad (A16, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad (A16, WiFi) (iPad15,7)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.26 GB
-SHA1: 0f215974694177f1092d85e15376e875c396a68c
+SHA1: d944c4d8122381fda90ff29cc853068b0a085dec
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73569/4627D405-B284-43D6-AA1E-FF775D807C89/iPad15,7_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73569/4627D405-B284-43D6-AA1E-FF775D807C89/iPad15,7_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73569/4627D405-B284-43D6-AA1E-FF775D807C89/iPad15,7_26.6.1_23G83_Restore.ipsw" length="9943975919" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad15,7_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:06 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/ac34b338-5954-4440-acd7-eb623372b116/iPad15,7_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/ac34b338-5954-4440-acd7-eb623372b116/iPad15,7_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/ac34b338-5954-4440-acd7-eb623372b116/iPad15,7_26.6.2_23G90_Restore.ipsw" length="9943897352" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad15,7_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:35 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad (A16, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad (A16, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad (A16, Cellular) (iPad15,8)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: cac2964fe50eed0e93787cc3ba5fcc75a1527fd1
+SHA1: eea8a3078e5174dd0c1b0b35f78fe0c2a794ae76
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74807/6A684439-316B-4A63-A23C-DBCF5CB61B1E/iPad15,8_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74807/6A684439-316B-4A63-A23C-DBCF5CB61B1E/iPad15,8_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74807/6A684439-316B-4A63-A23C-DBCF5CB61B1E/iPad15,8_26.6.1_23G83_Restore.ipsw" length="10227081645" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad15,8_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:11 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/0c1943c0-2c70-4410-8ffd-968d1b396fd6/iPad15,8_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/0c1943c0-2c70-4410-8ffd-968d1b396fd6/iPad15,8_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/0c1943c0-2c70-4410-8ffd-968d1b396fd6/iPad15,8_26.6.2_23G90_Restore.ipsw" length="10227011678" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad15,8_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:15 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad mini (A17 Pro, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad mini (A17 Pro, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad mini (A17 Pro, WiFi) (iPad16,1)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.04 GB
-SHA1: 05bf56a3b4ab2022d8798fab26aff073e7de9bd1
+SHA1: 846ea2c8dc3843859efb9e02d3db9fd89a735bc8
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93812/387AE60F-41A6-4EBD-A1BC-E3AF66434C9C/iPad16,1,iPad16,2_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93812/387AE60F-41A6-4EBD-A1BC-E3AF66434C9C/iPad16,1,iPad16,2_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93812/387AE60F-41A6-4EBD-A1BC-E3AF66434C9C/iPad16,1,iPad16,2_26.6.1_23G83_Restore.ipsw" length="10783750231" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad16,1_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:10 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/cf7db64d-5866-4bf2-bfff-50a32f58bec3/iPad16,1,iPad16,2_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/cf7db64d-5866-4bf2-bfff-50a32f58bec3/iPad16,1,iPad16,2_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/cf7db64d-5866-4bf2-bfff-50a32f58bec3/iPad16,1,iPad16,2_26.6.2_23G90_Restore.ipsw" length="10783681921" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad16,1_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:25 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 13-inch (M4, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 13-inch (M4, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 13-inch (M4, WiFi) (iPad16,10)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.87 GB
-SHA1: 1ef2543373a4a72c43adde7be5825e3d78339fad
+SHA1: 6fdf77497587bb659d69252754010c6224e00e19
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73628/38FCA642-846E-401B-A5C4-EE152B7160D8/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73628/38FCA642-846E-401B-A5C4-EE152B7160D8/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73628/38FCA642-846E-401B-A5C4-EE152B7160D8/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.1_23G83_Restore.ipsw" length="10600410535" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad16,10_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:04 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/e24d21fc-b70e-4d7b-8d89-1341ef80bd93/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/e24d21fc-b70e-4d7b-8d89-1341ef80bd93/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/e24d21fc-b70e-4d7b-8d89-1341ef80bd93/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.2_23G90_Restore.ipsw" length="10600342486" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad16,10_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:29 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 13-inch (M4, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 13-inch (M4, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 13-inch (M4, Cellular) (iPad16,11)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.87 GB
-SHA1: 1ef2543373a4a72c43adde7be5825e3d78339fad
+SHA1: 6fdf77497587bb659d69252754010c6224e00e19
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73628/38FCA642-846E-401B-A5C4-EE152B7160D8/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73628/38FCA642-846E-401B-A5C4-EE152B7160D8/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73628/38FCA642-846E-401B-A5C4-EE152B7160D8/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.1_23G83_Restore.ipsw" length="10600410535" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad16,11_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:22 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/e24d21fc-b70e-4d7b-8d89-1341ef80bd93/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/e24d21fc-b70e-4d7b-8d89-1341ef80bd93/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/e24d21fc-b70e-4d7b-8d89-1341ef80bd93/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.2_23G90_Restore.ipsw" length="10600342486" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad16,11_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:22 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad mini (A17 Pro, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad mini (A17 Pro, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad mini (A17 Pro, Cellular) (iPad16,2)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.04 GB
-SHA1: 05bf56a3b4ab2022d8798fab26aff073e7de9bd1
+SHA1: 846ea2c8dc3843859efb9e02d3db9fd89a735bc8
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93812/387AE60F-41A6-4EBD-A1BC-E3AF66434C9C/iPad16,1,iPad16,2_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93812/387AE60F-41A6-4EBD-A1BC-E3AF66434C9C/iPad16,1,iPad16,2_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93812/387AE60F-41A6-4EBD-A1BC-E3AF66434C9C/iPad16,1,iPad16,2_26.6.1_23G83_Restore.ipsw" length="10783750231" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad16,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:25 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/cf7db64d-5866-4bf2-bfff-50a32f58bec3/iPad16,1,iPad16,2_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/cf7db64d-5866-4bf2-bfff-50a32f58bec3/iPad16,1,iPad16,2_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/cf7db64d-5866-4bf2-bfff-50a32f58bec3/iPad16,1,iPad16,2_26.6.2_23G90_Restore.ipsw" length="10783681921" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad16,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:21 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (M4, 11-inch, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (M4, 11-inch, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (M4, 11-inch, WiFi) (iPad16,3)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.20 GB
-SHA1: 37e4a3d669cb1ed7e031d1693da7ac169dfbf720
+SHA1: 66b411177a0adff49e9f24a7fc912534e386034e
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74906/D199C9EE-0CA2-4BAC-B39D-EAAE6F711136/iPad_Pro_M4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74906/D199C9EE-0CA2-4BAC-B39D-EAAE6F711136/iPad_Pro_M4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74906/D199C9EE-0CA2-4BAC-B39D-EAAE6F711136/iPad_Pro_M4_26.6.1_23G83_Restore.ipsw" length="10953310259" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad16,3_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:12 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/9f44484a-c9ac-4a85-8240-435894b1464f/iPad_Pro_M4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/9f44484a-c9ac-4a85-8240-435894b1464f/iPad_Pro_M4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/9f44484a-c9ac-4a85-8240-435894b1464f/iPad_Pro_M4_26.6.2_23G90_Restore.ipsw" length="10953240725" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad16,3_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:20 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (M4, 11-inch, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (M4, 11-inch, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (M4, 11-inch, Cellular) (iPad16,4)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.20 GB
-SHA1: 37e4a3d669cb1ed7e031d1693da7ac169dfbf720
+SHA1: 66b411177a0adff49e9f24a7fc912534e386034e
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74906/D199C9EE-0CA2-4BAC-B39D-EAAE6F711136/iPad_Pro_M4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74906/D199C9EE-0CA2-4BAC-B39D-EAAE6F711136/iPad_Pro_M4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74906/D199C9EE-0CA2-4BAC-B39D-EAAE6F711136/iPad_Pro_M4_26.6.1_23G83_Restore.ipsw" length="10953310259" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad16,4_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:04 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/9f44484a-c9ac-4a85-8240-435894b1464f/iPad_Pro_M4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/9f44484a-c9ac-4a85-8240-435894b1464f/iPad_Pro_M4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/9f44484a-c9ac-4a85-8240-435894b1464f/iPad_Pro_M4_26.6.2_23G90_Restore.ipsw" length="10953240725" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad16,4_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:19 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (M4, 13-inch, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (M4, 13-inch, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (M4, 13-inch, WiFi) (iPad16,5)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.20 GB
-SHA1: 37e4a3d669cb1ed7e031d1693da7ac169dfbf720
+SHA1: 66b411177a0adff49e9f24a7fc912534e386034e
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74906/D199C9EE-0CA2-4BAC-B39D-EAAE6F711136/iPad_Pro_M4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74906/D199C9EE-0CA2-4BAC-B39D-EAAE6F711136/iPad_Pro_M4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74906/D199C9EE-0CA2-4BAC-B39D-EAAE6F711136/iPad_Pro_M4_26.6.1_23G83_Restore.ipsw" length="10953310259" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad16,5_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:04 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/9f44484a-c9ac-4a85-8240-435894b1464f/iPad_Pro_M4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/9f44484a-c9ac-4a85-8240-435894b1464f/iPad_Pro_M4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/9f44484a-c9ac-4a85-8240-435894b1464f/iPad_Pro_M4_26.6.2_23G90_Restore.ipsw" length="10953240725" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad16,5_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:37 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro (M4, 13-inch, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro (M4, 13-inch, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro (M4, 13-inch, Cellular) (iPad16,6)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.20 GB
-SHA1: 37e4a3d669cb1ed7e031d1693da7ac169dfbf720
+SHA1: 66b411177a0adff49e9f24a7fc912534e386034e
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74906/D199C9EE-0CA2-4BAC-B39D-EAAE6F711136/iPad_Pro_M4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74906/D199C9EE-0CA2-4BAC-B39D-EAAE6F711136/iPad_Pro_M4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74906/D199C9EE-0CA2-4BAC-B39D-EAAE6F711136/iPad_Pro_M4_26.6.1_23G83_Restore.ipsw" length="10953310259" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad16,6_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:13 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/9f44484a-c9ac-4a85-8240-435894b1464f/iPad_Pro_M4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/9f44484a-c9ac-4a85-8240-435894b1464f/iPad_Pro_M4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/9f44484a-c9ac-4a85-8240-435894b1464f/iPad_Pro_M4_26.6.2_23G90_Restore.ipsw" length="10953240725" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad16,6_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:22 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 11-inch (M4, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 11-inch (M4, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 11-inch (M4, WiFi) (iPad16,8)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.87 GB
-SHA1: 1ef2543373a4a72c43adde7be5825e3d78339fad
+SHA1: 6fdf77497587bb659d69252754010c6224e00e19
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73628/38FCA642-846E-401B-A5C4-EE152B7160D8/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73628/38FCA642-846E-401B-A5C4-EE152B7160D8/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73628/38FCA642-846E-401B-A5C4-EE152B7160D8/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.1_23G83_Restore.ipsw" length="10600410535" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad16,8_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:24 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/e24d21fc-b70e-4d7b-8d89-1341ef80bd93/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/e24d21fc-b70e-4d7b-8d89-1341ef80bd93/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/e24d21fc-b70e-4d7b-8d89-1341ef80bd93/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.2_23G90_Restore.ipsw" length="10600342486" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad16,8_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:18 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Air 11-inch (M4, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Air 11-inch (M4, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Air 11-inch (M4, Cellular) (iPad16,9)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.87 GB
-SHA1: 1ef2543373a4a72c43adde7be5825e3d78339fad
+SHA1: 6fdf77497587bb659d69252754010c6224e00e19
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73628/38FCA642-846E-401B-A5C4-EE152B7160D8/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73628/38FCA642-846E-401B-A5C4-EE152B7160D8/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73628/38FCA642-846E-401B-A5C4-EE152B7160D8/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.1_23G83_Restore.ipsw" length="10600410535" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad16,9_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:17 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/e24d21fc-b70e-4d7b-8d89-1341ef80bd93/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/e24d21fc-b70e-4d7b-8d89-1341ef80bd93/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/e24d21fc-b70e-4d7b-8d89-1341ef80bd93/iPad16,10,iPad16,11,iPad16,8,iPad16,9_26.6.2_23G90_Restore.ipsw" length="10600342486" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad16,9_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:34 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 11-inch (M5, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 11-inch (M5, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 11-inch (M5, WiFi) (iPad17,1)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.85 GB
-SHA1: d7daf976b7e204722c8b4a02a383bd777480489b
+SHA1: 1a11e789d3b849ed68e2727ee3d4dd31b885b806
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74867/2D974F07-513F-4C4A-8B2D-816B22D03A24/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74867/2D974F07-513F-4C4A-8B2D-816B22D03A24/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74867/2D974F07-513F-4C4A-8B2D-816B22D03A24/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.1_23G83_Restore.ipsw" length="10579386575" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad17,1_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:21 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/c92fa0b5-4f21-4e74-8980-2926c7320a78/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/c92fa0b5-4f21-4e74-8980-2926c7320a78/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/c92fa0b5-4f21-4e74-8980-2926c7320a78/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.2_23G90_Restore.ipsw" length="10575116590" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad17,1_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:18 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 11-inch (M5, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 11-inch (M5, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 11-inch (M5, Cellular) (iPad17,2)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.85 GB
-SHA1: d7daf976b7e204722c8b4a02a383bd777480489b
+SHA1: 1a11e789d3b849ed68e2727ee3d4dd31b885b806
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74867/2D974F07-513F-4C4A-8B2D-816B22D03A24/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74867/2D974F07-513F-4C4A-8B2D-816B22D03A24/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74867/2D974F07-513F-4C4A-8B2D-816B22D03A24/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.1_23G83_Restore.ipsw" length="10579386575" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad17,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:24 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/c92fa0b5-4f21-4e74-8980-2926c7320a78/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/c92fa0b5-4f21-4e74-8980-2926c7320a78/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/c92fa0b5-4f21-4e74-8980-2926c7320a78/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.2_23G90_Restore.ipsw" length="10575116590" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad17,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:42 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 13-inch (M5, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 13-inch (M5, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 13-inch (M5, WiFi) (iPad17,3)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.85 GB
-SHA1: d7daf976b7e204722c8b4a02a383bd777480489b
+SHA1: 1a11e789d3b849ed68e2727ee3d4dd31b885b806
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74867/2D974F07-513F-4C4A-8B2D-816B22D03A24/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74867/2D974F07-513F-4C4A-8B2D-816B22D03A24/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74867/2D974F07-513F-4C4A-8B2D-816B22D03A24/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.1_23G83_Restore.ipsw" length="10579386575" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad17,3_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:13 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/c92fa0b5-4f21-4e74-8980-2926c7320a78/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/c92fa0b5-4f21-4e74-8980-2926c7320a78/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/c92fa0b5-4f21-4e74-8980-2926c7320a78/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.2_23G90_Restore.ipsw" length="10575116590" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad17,3_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:20 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 13-inch (M5, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 13-inch (M5, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 13-inch (M5, Cellular) (iPad17,4)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.85 GB
-SHA1: d7daf976b7e204722c8b4a02a383bd777480489b
+SHA1: 1a11e789d3b849ed68e2727ee3d4dd31b885b806
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74867/2D974F07-513F-4C4A-8B2D-816B22D03A24/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74867/2D974F07-513F-4C4A-8B2D-816B22D03A24/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74867/2D974F07-513F-4C4A-8B2D-816B22D03A24/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.1_23G83_Restore.ipsw" length="10579386575" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad17,4_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:26 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/c92fa0b5-4f21-4e74-8980-2926c7320a78/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/c92fa0b5-4f21-4e74-8980-2926c7320a78/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/c92fa0b5-4f21-4e74-8980-2926c7320a78/iPad17,1,iPad17,2,iPad17,3,iPad17,4_26.6.2_23G90_Restore.ipsw" length="10575116590" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad17,4_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:22 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
@@ -2792,195 +2792,195 @@ Download: https://updates.cdn-apple.com/2025SpringFCS/fullrestores/122-77020/D8D
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 3 (11-inch, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 3 (11-inch, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 3 (11-inch, WiFi) (iPad8,1)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: b44c35faddfefa320f54eaa77d49a42d1f71e7b4
+SHA1: b5f72c497bb1f7b70e55f2dacee89b02d9c80fdc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw" length="10222237306" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad8,1_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:16 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw" length="10222163060" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad8,1_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:33 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 4 (11-inch, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 4 (11-inch, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 4 (11-inch, Cellular) (iPad8,10)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: b44c35faddfefa320f54eaa77d49a42d1f71e7b4
+SHA1: b5f72c497bb1f7b70e55f2dacee89b02d9c80fdc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw" length="10222237306" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad8,10_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:18 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw" length="10222163060" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad8,10_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:31 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 4 (12.9-inch, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 4 (12.9-inch, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 4 (12.9-inch, WiFi) (iPad8,11)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: b44c35faddfefa320f54eaa77d49a42d1f71e7b4
+SHA1: b5f72c497bb1f7b70e55f2dacee89b02d9c80fdc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw" length="10222237306" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad8,11_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:16 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw" length="10222163060" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad8,11_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:35 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 4 (12.9-inch, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 4 (12.9-inch, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 4 (12.9-inch, Cellular) (iPad8,12)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: b44c35faddfefa320f54eaa77d49a42d1f71e7b4
+SHA1: b5f72c497bb1f7b70e55f2dacee89b02d9c80fdc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw" length="10222237306" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad8,12_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:07 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw" length="10222163060" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad8,12_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:42 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 3 (11-inch, WiFi, 1TB Model) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 3 (11-inch, WiFi, 1TB Model) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 3 (11-inch, WiFi, 1TB Model) (iPad8,2)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: b44c35faddfefa320f54eaa77d49a42d1f71e7b4
+SHA1: b5f72c497bb1f7b70e55f2dacee89b02d9c80fdc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw" length="10222237306" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad8,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:08 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw" length="10222163060" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad8,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:17 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 3 (11-inch, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 3 (11-inch, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 3 (11-inch, Cellular) (iPad8,3)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: b44c35faddfefa320f54eaa77d49a42d1f71e7b4
+SHA1: b5f72c497bb1f7b70e55f2dacee89b02d9c80fdc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw" length="10222237306" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad8,3_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:09 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw" length="10222163060" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad8,3_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:15 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 3 (11-inch, Cellular, 1TB Model) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 3 (11-inch, Cellular, 1TB Model) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 3 (11-inch, Cellular, 1TB Model) (iPad8,4)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: b44c35faddfefa320f54eaa77d49a42d1f71e7b4
+SHA1: b5f72c497bb1f7b70e55f2dacee89b02d9c80fdc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw" length="10222237306" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad8,4_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:17 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw" length="10222163060" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad8,4_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:34 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 3 (12.9-inch, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 3 (12.9-inch, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 3 (12.9-inch, WiFi) (iPad8,5)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: b44c35faddfefa320f54eaa77d49a42d1f71e7b4
+SHA1: b5f72c497bb1f7b70e55f2dacee89b02d9c80fdc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw" length="10222237306" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad8,5_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:03 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw" length="10222163060" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad8,5_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:31 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 3 (12.9-inch, WiFi, 1TB Model) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 3 (12.9-inch, WiFi, 1TB Model) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 3 (12.9-inch, WiFi, 1TB Model) (iPad8,6)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: b44c35faddfefa320f54eaa77d49a42d1f71e7b4
+SHA1: b5f72c497bb1f7b70e55f2dacee89b02d9c80fdc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw" length="10222237306" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad8,6_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:28 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw" length="10222163060" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad8,6_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:27 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 3 (12.9-inch, Cellular) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 3 (12.9-inch, Cellular) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 3 (12.9-inch, Cellular) (iPad8,7)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: b44c35faddfefa320f54eaa77d49a42d1f71e7b4
+SHA1: b5f72c497bb1f7b70e55f2dacee89b02d9c80fdc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw" length="10222237306" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad8,7_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:30 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw" length="10222163060" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad8,7_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:16 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 3 (12.9-inch, Cellular, 1TB Model) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 3 (12.9-inch, Cellular, 1TB Model) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 3 (12.9-inch, Cellular, 1TB Model) (iPad8,8)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: b44c35faddfefa320f54eaa77d49a42d1f71e7b4
+SHA1: b5f72c497bb1f7b70e55f2dacee89b02d9c80fdc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw" length="10222237306" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad8,8_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:26 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw" length="10222163060" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad8,8_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:18 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 4 (11-inch, WiFi) - iPadOS 26.6.1 (23G83)</title>
+      <title>iPad Pro 4 (11-inch, WiFi) - iPadOS 26.6.2 (23G90)</title>
       <description>Device: iPad Pro 4 (11-inch, WiFi) (iPad8,9)
 Platform: iPadOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.52 GB
-SHA1: b44c35faddfefa320f54eaa77d49a42d1f71e7b4
+SHA1: b5f72c497bb1f7b70e55f2dacee89b02d9c80fdc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73931/2F26D9F2-1A72-459C-83EF-D40E48E2C9DC/iPad_Pro_A12X_A12Z_26.6.1_23G83_Restore.ipsw" length="10222237306" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad8,9_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:24 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/db972771-bc97-4252-816c-07382fce22c5/iPad_Pro_A12X_A12Z_26.6.2_23G90_Restore.ipsw" length="10222163060" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad8,9_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:41 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
@@ -3176,499 +3176,499 @@ Download: https://updates.cdn-apple.com/2026WinterFCS/fullrestores/140-97953/5F3
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 11 - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 11 - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 11 (iPhone12,1)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.14 GB
-SHA1: 94b8cfcd85de64dc6bb18287c340d5abe92109c3
+SHA1: d5f19e0060cb888e7d4b5fec9b7860bdd50304e1
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75024/5CBDD6F3-E1AB-41C5-8DC1-8FB137A75E9E/iPhone12,1_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75024/5CBDD6F3-E1AB-41C5-8DC1-8FB137A75E9E/iPhone12,1_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75024/5CBDD6F3-E1AB-41C5-8DC1-8FB137A75E9E/iPhone12,1_26.6.1_23G83_Restore.ipsw" length="9817608274" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone12,1_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:19 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/4054a88c-e206-4849-817b-8a6263d42ddb/iPhone12,1_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/4054a88c-e206-4849-817b-8a6263d42ddb/iPhone12,1_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/4054a88c-e206-4849-817b-8a6263d42ddb/iPhone12,1_26.6.2_23G90_Restore.ipsw" length="9817538824" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone12,1_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:20 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 11 Pro - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 11 Pro - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 11 Pro (iPhone12,3)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.32 GB
-SHA1: 68f392f9cf6e27e08ffa90cef33b7947f862af53
+SHA1: 5fd7c0fdc495125741b099e8e2e799ce9b8719fd
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93806/8CC6D313-C474-41E5-973C-E4DCF7E127FF/iPhone12,3,iPhone12,5_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93806/8CC6D313-C474-41E5-973C-E4DCF7E127FF/iPhone12,3,iPhone12,5_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93806/8CC6D313-C474-41E5-973C-E4DCF7E127FF/iPhone12,3,iPhone12,5_26.6.1_23G83_Restore.ipsw" length="10008653670" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone12,3_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:23 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/c377a23f-a248-44fb-b9ee-121a408c4382/iPhone12,3,iPhone12,5_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/c377a23f-a248-44fb-b9ee-121a408c4382/iPhone12,3,iPhone12,5_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/c377a23f-a248-44fb-b9ee-121a408c4382/iPhone12,3,iPhone12,5_26.6.2_23G90_Restore.ipsw" length="10008586310" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone12,3_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:38 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 11 Pro Max - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 11 Pro Max - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 11 Pro Max (iPhone12,5)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.32 GB
-SHA1: 68f392f9cf6e27e08ffa90cef33b7947f862af53
+SHA1: 5fd7c0fdc495125741b099e8e2e799ce9b8719fd
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93806/8CC6D313-C474-41E5-973C-E4DCF7E127FF/iPhone12,3,iPhone12,5_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93806/8CC6D313-C474-41E5-973C-E4DCF7E127FF/iPhone12,3,iPhone12,5_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93806/8CC6D313-C474-41E5-973C-E4DCF7E127FF/iPhone12,3,iPhone12,5_26.6.1_23G83_Restore.ipsw" length="10008653670" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone12,5_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:31 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/c377a23f-a248-44fb-b9ee-121a408c4382/iPhone12,3,iPhone12,5_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/c377a23f-a248-44fb-b9ee-121a408c4382/iPhone12,3,iPhone12,5_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/c377a23f-a248-44fb-b9ee-121a408c4382/iPhone12,3,iPhone12,5_26.6.2_23G90_Restore.ipsw" length="10008586310" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone12,5_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:40 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone SE (2020) - iOS 26.6.1 (23G83)</title>
+      <title>iPhone SE (2020) - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone SE (2020) (iPhone12,8)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.12 GB
-SHA1: 2526224c549439a1175f891f19864cc35e9d283d
+SHA1: 0aeb4d16005c5f26cdb4f19e892fe33b15b39f16
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93803/1454C0E0-B7A3-4863-BE7A-6A4E8FF166F0/iPhone12,8_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93803/1454C0E0-B7A3-4863-BE7A-6A4E8FF166F0/iPhone12,8_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93803/1454C0E0-B7A3-4863-BE7A-6A4E8FF166F0/iPhone12,8_26.6.1_23G83_Restore.ipsw" length="9787554492" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone12,8_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:22 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/bde08c8a-2ce6-444f-9d92-13962ab7eacc/iPhone12,8_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/bde08c8a-2ce6-444f-9d92-13962ab7eacc/iPhone12,8_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/bde08c8a-2ce6-444f-9d92-13962ab7eacc/iPhone12,8_26.6.2_23G90_Restore.ipsw" length="9787480273" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone12,8_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:41 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 12 mini - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 12 mini - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 12 mini (iPhone13,1)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.57 GB
-SHA1: d11f7ec8046398fe8d0fc65effc21838df38b6fa
+SHA1: d06b2f36ba4175605aa7f35e09061d92329ffea0
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74944/964CB777-095F-4488-A71B-38DA0C73A451/iPhone13,1_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74944/964CB777-095F-4488-A71B-38DA0C73A451/iPhone13,1_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74944/964CB777-095F-4488-A71B-38DA0C73A451/iPhone13,1_26.6.1_23G83_Restore.ipsw" length="10273463169" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone13,1_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:04 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/ea631214-76c0-4eee-b0ab-cf24dc019923/iPhone13,1_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/ea631214-76c0-4eee-b0ab-cf24dc019923/iPhone13,1_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/ea631214-76c0-4eee-b0ab-cf24dc019923/iPhone13,1_26.6.2_23G90_Restore.ipsw" length="10273390456" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone13,1_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:39 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 12 - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 12 - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 12 (iPhone13,2)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.76 GB
-SHA1: 3d05f1dca0a0ee954a3b3d338ee329ed2be552de
+SHA1: 701b05281a1644f8f87c27c3384738b6d48bbd2e
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73482/2BBAE10B-7215-4ADE-B8BE-A93F32638F18/iPhone13,2,iPhone13,3_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73482/2BBAE10B-7215-4ADE-B8BE-A93F32638F18/iPhone13,2,iPhone13,3_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73482/2BBAE10B-7215-4ADE-B8BE-A93F32638F18/iPhone13,2,iPhone13,3_26.6.1_23G83_Restore.ipsw" length="10480022446" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone13,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:14 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/35f1049f-080d-4483-bcca-05f47e3d6555/iPhone13,2,iPhone13,3_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/35f1049f-080d-4483-bcca-05f47e3d6555/iPhone13,2,iPhone13,3_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/35f1049f-080d-4483-bcca-05f47e3d6555/iPhone13,2,iPhone13,3_26.6.2_23G90_Restore.ipsw" length="10479957026" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone13,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:37 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 12 Pro - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 12 Pro - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 12 Pro (iPhone13,3)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.76 GB
-SHA1: 3d05f1dca0a0ee954a3b3d338ee329ed2be552de
+SHA1: 701b05281a1644f8f87c27c3384738b6d48bbd2e
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73482/2BBAE10B-7215-4ADE-B8BE-A93F32638F18/iPhone13,2,iPhone13,3_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73482/2BBAE10B-7215-4ADE-B8BE-A93F32638F18/iPhone13,2,iPhone13,3_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73482/2BBAE10B-7215-4ADE-B8BE-A93F32638F18/iPhone13,2,iPhone13,3_26.6.1_23G83_Restore.ipsw" length="10480022446" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone13,3_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:22 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/35f1049f-080d-4483-bcca-05f47e3d6555/iPhone13,2,iPhone13,3_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/35f1049f-080d-4483-bcca-05f47e3d6555/iPhone13,2,iPhone13,3_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/35f1049f-080d-4483-bcca-05f47e3d6555/iPhone13,2,iPhone13,3_26.6.2_23G90_Restore.ipsw" length="10479957026" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone13,3_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:32 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 12 Pro Max - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 12 Pro Max - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 12 Pro Max (iPhone13,4)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.72 GB
-SHA1: e927782be690c5e3dcc0715a8494d42c2de453e2
+SHA1: a2972a25c2f5300e8b10e4a4623098b94ebcdcea
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74763/7FBE6E16-1F87-4EC8-91CC-6E5A0B43CD6B/iPhone13,4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74763/7FBE6E16-1F87-4EC8-91CC-6E5A0B43CD6B/iPhone13,4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74763/7FBE6E16-1F87-4EC8-91CC-6E5A0B43CD6B/iPhone13,4_26.6.1_23G83_Restore.ipsw" length="10441598441" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone13,4_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:23 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/a547cd95-25e7-4482-bb61-20e7424dacf5/iPhone13,4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/a547cd95-25e7-4482-bb61-20e7424dacf5/iPhone13,4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/a547cd95-25e7-4482-bb61-20e7424dacf5/iPhone13,4_26.6.2_23G90_Restore.ipsw" length="10441525501" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone13,4_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:32 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 13 Pro - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 13 Pro - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 13 Pro (iPhone14,2)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.74 GB
-SHA1: 55649d5f7250525cb9b213ef2983f8bd48f3053c
+SHA1: 696d228db580021a756f248f242d44fc0f67cd33
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74023/DA0020E0-7D29-46FA-A556-6137EF8E4B79/iPhone14,2_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74023/DA0020E0-7D29-46FA-A556-6137EF8E4B79/iPhone14,2_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74023/DA0020E0-7D29-46FA-A556-6137EF8E4B79/iPhone14,2_26.6.1_23G83_Restore.ipsw" length="10458516544" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone14,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:14 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/1494f7b1-9e49-4a79-a96b-13204325f1a5/iPhone14,2_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/1494f7b1-9e49-4a79-a96b-13204325f1a5/iPhone14,2_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/1494f7b1-9e49-4a79-a96b-13204325f1a5/iPhone14,2_26.6.2_23G90_Restore.ipsw" length="10458452641" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone14,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:23 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 13 Pro Max - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 13 Pro Max - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 13 Pro Max (iPhone14,3)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.74 GB
-SHA1: ba13099cc628005febfb7ee2bf25cf3be15d49c2
+SHA1: 135640d12ff43ee3cc608ba27ac5f902aef09a02
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73720/374DF164-68BB-4E51-BEDD-DB25DC174125/iPhone14,3_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73720/374DF164-68BB-4E51-BEDD-DB25DC174125/iPhone14,3_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73720/374DF164-68BB-4E51-BEDD-DB25DC174125/iPhone14,3_26.6.1_23G83_Restore.ipsw" length="10458525489" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone14,3_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:02 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/4f55e53a-e2c7-4370-8550-8f8c82f801a1/iPhone14,3_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/4f55e53a-e2c7-4370-8550-8f8c82f801a1/iPhone14,3_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/4f55e53a-e2c7-4370-8550-8f8c82f801a1/iPhone14,3_26.6.2_23G90_Restore.ipsw" length="10458460997" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone14,3_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:39 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 13 mini - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 13 mini - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 13 mini (iPhone14,4)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.64 GB
-SHA1: 3f34573b9efbe8e93a0f0de964121ed32ae04dae
+SHA1: 061709b8f3b00b8b76a225be01f65a1db7b6a6ba
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73418/BCD760E6-C0A0-4CC3-9761-D22178380EA6/iPhone14,4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73418/BCD760E6-C0A0-4CC3-9761-D22178380EA6/iPhone14,4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73418/BCD760E6-C0A0-4CC3-9761-D22178380EA6/iPhone14,4_26.6.1_23G83_Restore.ipsw" length="10348718981" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone14,4_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:15 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/65523835-fbd5-4080-a0d1-ca1621676850/iPhone14,4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/65523835-fbd5-4080-a0d1-ca1621676850/iPhone14,4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/65523835-fbd5-4080-a0d1-ca1621676850/iPhone14,4_26.6.2_23G90_Restore.ipsw" length="10348645223" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone14,4_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:41 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 13 - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 13 - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 13 (iPhone14,5)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.62 GB
-SHA1: e09a332c1003c8cdb6f6c44c1adf9d46ac596d60
+SHA1: 84353871c50041b68ba7fe605e6f292a0cbbc0f1
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93809/96E22755-682E-405F-A0F0-3C78486BF757/iPhone14,5_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93809/96E22755-682E-405F-A0F0-3C78486BF757/iPhone14,5_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93809/96E22755-682E-405F-A0F0-3C78486BF757/iPhone14,5_26.6.1_23G83_Restore.ipsw" length="10324734204" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone14,5_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:25 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/fa4f87a2-3e4c-4580-aa63-75a746df3cb1/iPhone14,5_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/fa4f87a2-3e4c-4580-aa63-75a746df3cb1/iPhone14,5_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fa4f87a2-3e4c-4580-aa63-75a746df3cb1/iPhone14,5_26.6.2_23G90_Restore.ipsw" length="10324663110" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone14,5_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:23 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone SE (3rd generation) - iOS 26.6.1 (23G83)</title>
+      <title>iPhone SE (3rd generation) - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone SE (3rd generation) (iPhone14,6)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.39 GB
-SHA1: a3db9447f3d3e11f501dbe724ec468e404c9dbf6
+SHA1: 4e6cedc8b99178989c35acf0b9fdf09b8ab1bbaf
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74982/71662C22-ABC5-40DB-9FC8-2E0BE78145EC/iPhone14,6_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74982/71662C22-ABC5-40DB-9FC8-2E0BE78145EC/iPhone14,6_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74982/71662C22-ABC5-40DB-9FC8-2E0BE78145EC/iPhone14,6_26.6.1_23G83_Restore.ipsw" length="10081993318" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone14,6_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:33 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/735cafef-d9d3-4e13-82f1-ef2ea64c3824/iPhone14,6_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/735cafef-d9d3-4e13-82f1-ef2ea64c3824/iPhone14,6_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/735cafef-d9d3-4e13-82f1-ef2ea64c3824/iPhone14,6_26.6.2_23G90_Restore.ipsw" length="10081920154" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone14,6_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:24 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 14 - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 14 - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 14 (iPhone14,7)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.70 GB
-SHA1: d9c5dd2321c82daf338b631ea744a4b62b0121d0
+SHA1: 4709a495b2a768eb71e7e2dfdc7913628217de11
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73438/93D7A924-5FA4-4C51-88CC-89CAEA53B1CF/iPhone14,7_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73438/93D7A924-5FA4-4C51-88CC-89CAEA53B1CF/iPhone14,7_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73438/93D7A924-5FA4-4C51-88CC-89CAEA53B1CF/iPhone14,7_26.6.1_23G83_Restore.ipsw" length="10412472747" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone14,7_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:21 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/3e262278-2fba-403b-9896-8aec7e067049/iPhone14,7_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/3e262278-2fba-403b-9896-8aec7e067049/iPhone14,7_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/3e262278-2fba-403b-9896-8aec7e067049/iPhone14,7_26.6.2_23G90_Restore.ipsw" length="10412396442" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone14,7_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:28 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 14 Plus - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 14 Plus - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 14 Plus (iPhone14,8)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.70 GB
-SHA1: 2e6160e2270d13821b8c37a4f6585e6976058008
+SHA1: 219cc56f8c1783dd8e7a9a4435be552d06766a3b
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93807/B18CA190-8BDC-455D-8FB7-7C8062B77F2A/iPhone14,8_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93807/B18CA190-8BDC-455D-8FB7-7C8062B77F2A/iPhone14,8_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93807/B18CA190-8BDC-455D-8FB7-7C8062B77F2A/iPhone14,8_26.6.1_23G83_Restore.ipsw" length="10411542212" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone14,8_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:08 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/1fa3c503-6bfd-488f-a0fa-3a198d774d6c/iPhone14,8_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/1fa3c503-6bfd-488f-a0fa-3a198d774d6c/iPhone14,8_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/1fa3c503-6bfd-488f-a0fa-3a198d774d6c/iPhone14,8_26.6.2_23G90_Restore.ipsw" length="10411478703" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone14,8_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:26 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 14 Pro - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 14 Pro - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 14 Pro (iPhone15,2)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
-Size: 9.78 GB
-SHA1: d3a448d6923e6684ea6fed162109f9d4ae4b5df6
+Version: 26.6.2
+Build: 23G90
+Size: 9.84 GB
+SHA1: f1fbd1d33d2852d3d059c810291c30455cb0bb22
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73398/941F417A-500F-48C0-A653-07A2BC35D27B/iPhone15,2_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73398/941F417A-500F-48C0-A653-07A2BC35D27B/iPhone15,2_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73398/941F417A-500F-48C0-A653-07A2BC35D27B/iPhone15,2_26.6.1_23G83_Restore.ipsw" length="10503733184" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone15,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:26 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/96b34e09-471a-4b82-811a-c52be83ec341/iPhone15,2_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/96b34e09-471a-4b82-811a-c52be83ec341/iPhone15,2_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/96b34e09-471a-4b82-811a-c52be83ec341/iPhone15,2_26.6.2_23G90_Restore.ipsw" length="10570776428" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone15,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:39 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 14 Pro Max - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 14 Pro Max - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 14 Pro Max (iPhone15,3)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
-Size: 9.76 GB
-SHA1: cf3dee2de84d51eb9ee684bf2994d94d2239b201
+Version: 26.6.2
+Build: 23G90
+Size: 9.82 GB
+SHA1: 0344f94220c9e5be7afad3fb7f0ec3755c94e358
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73904/2CA1DE06-3ADB-44C9-AE8C-7E7C0F39E0C8/iPhone15,3_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73904/2CA1DE06-3ADB-44C9-AE8C-7E7C0F39E0C8/iPhone15,3_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73904/2CA1DE06-3ADB-44C9-AE8C-7E7C0F39E0C8/iPhone15,3_26.6.1_23G83_Restore.ipsw" length="10479442692" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone15,3_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:33 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/3ac2a20a-e242-4bb9-a156-bc87f74b403b/iPhone15,3_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/3ac2a20a-e242-4bb9-a156-bc87f74b403b/iPhone15,3_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/3ac2a20a-e242-4bb9-a156-bc87f74b403b/iPhone15,3_26.6.2_23G90_Restore.ipsw" length="10546492666" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone15,3_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:24 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 15 - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 15 - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 15 (iPhone15,4)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.77 GB
-SHA1: cba20593f51b700e205aa79e6f306ef7a5e8b739
+SHA1: f07edc88bb13ef3d2b77d707a987b0a137cde597
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73953/F5B22411-AB94-4246-A7CE-5682D4A68905/iPhone15,4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73953/F5B22411-AB94-4246-A7CE-5682D4A68905/iPhone15,4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73953/F5B22411-AB94-4246-A7CE-5682D4A68905/iPhone15,4_26.6.1_23G83_Restore.ipsw" length="10490433350" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone15,4_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:03 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/d0e6a931-606e-44e1-b062-38fc6d48020c/iPhone15,4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/d0e6a931-606e-44e1-b062-38fc6d48020c/iPhone15,4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/d0e6a931-606e-44e1-b062-38fc6d48020c/iPhone15,4_26.6.2_23G90_Restore.ipsw" length="10490366431" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone15,4_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:19 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 15 Plus - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 15 Plus - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 15 Plus (iPhone15,5)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 9.77 GB
-SHA1: eff49b011bf4c9d0ed2db918a2fd6526b89f4467
+SHA1: 299a9c77d0bc1044fdfa5875ebac10295334aa2e
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75139/8E68512C-DFE0-4811-BC03-E810142944CF/iPhone15,5_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75139/8E68512C-DFE0-4811-BC03-E810142944CF/iPhone15,5_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75139/8E68512C-DFE0-4811-BC03-E810142944CF/iPhone15,5_26.6.1_23G83_Restore.ipsw" length="10490498149" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone15,5_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:27 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/4f15966a-4f71-47e5-bb5c-9bd94e6be315/iPhone15,5_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/4f15966a-4f71-47e5-bb5c-9bd94e6be315/iPhone15,5_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/4f15966a-4f71-47e5-bb5c-9bd94e6be315/iPhone15,5_26.6.2_23G90_Restore.ipsw" length="10490427157" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone15,5_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:16 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 15 Pro - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 15 Pro - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 15 Pro (iPhone16,1)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.48 GB
-SHA1: c81a84fd86b59cdfaffdd71c26716cf53a91803f
+SHA1: d9915c7d9d2f76c2076c77d05a9db8548ed44dbe
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73047/45AC73E2-4D2D-44B5-8E43-440C19C7DF74/iPhone16,1_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73047/45AC73E2-4D2D-44B5-8E43-440C19C7DF74/iPhone16,1_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73047/45AC73E2-4D2D-44B5-8E43-440C19C7DF74/iPhone16,1_26.6.1_23G83_Restore.ipsw" length="11252710627" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone16,1_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:13 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/dbf69af4-cc4b-4533-894c-6991b6306d65/iPhone16,1_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/dbf69af4-cc4b-4533-894c-6991b6306d65/iPhone16,1_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/dbf69af4-cc4b-4533-894c-6991b6306d65/iPhone16,1_26.6.2_23G90_Restore.ipsw" length="11252638178" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone16,1_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:31 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 15 Pro Max - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 15 Pro Max - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 15 Pro Max (iPhone16,2)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.48 GB
-SHA1: c3059736684e4b8f55dd35c40d0daa9f1eeebcac
+SHA1: 753191742faab2d7bc7a5e14b610d0b232dff0aa
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74072/E64E64AC-7C84-4950-95FA-7AF8A43CBC64/iPhone16,2_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74072/E64E64AC-7C84-4950-95FA-7AF8A43CBC64/iPhone16,2_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74072/E64E64AC-7C84-4950-95FA-7AF8A43CBC64/iPhone16,2_26.6.1_23G83_Restore.ipsw" length="11252850384" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone16,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:15 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/77eafa3c-7561-407b-8cf6-3bb0f8fb3bf6/iPhone16,2_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/77eafa3c-7561-407b-8cf6-3bb0f8fb3bf6/iPhone16,2_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/77eafa3c-7561-407b-8cf6-3bb0f8fb3bf6/iPhone16,2_26.6.2_23G90_Restore.ipsw" length="11252772763" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone16,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:17 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 16 Pro - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 16 Pro - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 16 Pro (iPhone17,1)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.58 GB
-SHA1: e4f351d7ca96d6d5215830691c05d8101cd1d0d6
+SHA1: 496778e96d26729a7e03999f43697f1756c125cc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73026/F0618CC5-229F-4EE6-BCDD-3F987B287E0A/iPhone17,1_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73026/F0618CC5-229F-4EE6-BCDD-3F987B287E0A/iPhone17,1_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73026/F0618CC5-229F-4EE6-BCDD-3F987B287E0A/iPhone17,1_26.6.1_23G83_Restore.ipsw" length="11361273008" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone17,1_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:13 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/87a2b7df-6a1a-4c43-baa9-9b2315095b3f/iPhone17,1_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/87a2b7df-6a1a-4c43-baa9-9b2315095b3f/iPhone17,1_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/87a2b7df-6a1a-4c43-baa9-9b2315095b3f/iPhone17,1_26.6.2_23G90_Restore.ipsw" length="11361201162" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone17,1_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:32 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 16 Pro Max - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 16 Pro Max - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 16 Pro Max (iPhone17,2)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.58 GB
-SHA1: 2464aeafd4262e8407389f38839e536df4f85341
+SHA1: 14e720c45456b96c056cfa28237c3a1827045898
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73460/FE7F3B72-D934-4017-9508-03178240D462/iPhone17,2_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73460/FE7F3B72-D934-4017-9508-03178240D462/iPhone17,2_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73460/FE7F3B72-D934-4017-9508-03178240D462/iPhone17,2_26.6.1_23G83_Restore.ipsw" length="11360719526" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone17,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:06 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/a1dbd14a-9e9d-49b3-9af6-02286d68883f/iPhone17,2_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/a1dbd14a-9e9d-49b3-9af6-02286d68883f/iPhone17,2_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/a1dbd14a-9e9d-49b3-9af6-02286d68883f/iPhone17,2_26.6.2_23G90_Restore.ipsw" length="11360650339" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone17,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:19 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 16 - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 16 - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 16 (iPhone17,3)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.48 GB
-SHA1: 63b7fae84942368588780edb038552e60b6acd91
+SHA1: 05442731f7be2b3910731766bb4f4e91b3858c95
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93817/B5362BAA-F3EE-49C8-BA43-309F0DAD1362/iPhone17,3_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93817/B5362BAA-F3EE-49C8-BA43-309F0DAD1362/iPhone17,3_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-93817/B5362BAA-F3EE-49C8-BA43-309F0DAD1362/iPhone17,3_26.6.1_23G83_Restore.ipsw" length="11254448600" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone17,3_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:03 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/29d685ce-f70d-45a0-9823-b1cd115f3927/iPhone17,3_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/29d685ce-f70d-45a0-9823-b1cd115f3927/iPhone17,3_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/29d685ce-f70d-45a0-9823-b1cd115f3927/iPhone17,3_26.6.2_23G90_Restore.ipsw" length="11254382122" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone17,3_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:35 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 16 Plus - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 16 Plus - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 16 Plus (iPhone17,4)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.45 GB
-SHA1: 56c821a92c6930aafcf4ba6036ef00ae87283b5d
+SHA1: d148d7018af4aefb06fcc13a9f21c5bd9ccdfd06
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75160/D83A8969-3179-4D59-9F72-37FFC825CD9A/iPhone17,4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75160/D83A8969-3179-4D59-9F72-37FFC825CD9A/iPhone17,4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75160/D83A8969-3179-4D59-9F72-37FFC825CD9A/iPhone17,4_26.6.1_23G83_Restore.ipsw" length="11225458130" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone17,4_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:28 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/911faed2-7d37-4532-8a4a-bd60530e1b11/iPhone17,4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/911faed2-7d37-4532-8a4a-bd60530e1b11/iPhone17,4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/911faed2-7d37-4532-8a4a-bd60530e1b11/iPhone17,4_26.6.2_23G90_Restore.ipsw" length="11225388519" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone17,4_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:19 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 16e - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 16e - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 16e (iPhone17,5)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.10 GB
-SHA1: 2f75fafe43a5aea09e3409b70c1eb3d41d341103
+SHA1: 2458b0af2b8e454d6cb76501c7742f79aabd97e6
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74909/1F205126-CF35-4228-852C-4033E008A83C/iPhone17,5_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74909/1F205126-CF35-4228-852C-4033E008A83C/iPhone17,5_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-74909/1F205126-CF35-4228-852C-4033E008A83C/iPhone17,5_26.6.1_23G83_Restore.ipsw" length="10844558227" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone17,5_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:22 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/19c41505-0ca3-4039-8594-b8169550b4c6/iPhone17,5_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/19c41505-0ca3-4039-8594-b8169550b4c6/iPhone17,5_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/19c41505-0ca3-4039-8594-b8169550b4c6/iPhone17,5_26.6.2_23G90_Restore.ipsw" length="10844484128" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone17,5_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:37 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 17 Pro - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 17 Pro - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 17 Pro (iPhone18,1)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.73 GB
-SHA1: 9dcb8435509828af8033784046cbd336e1d6603a
+SHA1: c6b00958170d14ca141490dd4ad5c318dbbbe817
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75048/DA1909FD-EE14-421B-BB9C-A85335254485/iPhone18,1_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75048/DA1909FD-EE14-421B-BB9C-A85335254485/iPhone18,1_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75048/DA1909FD-EE14-421B-BB9C-A85335254485/iPhone18,1_26.6.1_23G83_Restore.ipsw" length="11519036732" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone18,1_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:03 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/f768ecdf-e037-44e6-bfa6-949b6d127c4f/iPhone18,1_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/f768ecdf-e037-44e6-bfa6-949b6d127c4f/iPhone18,1_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/f768ecdf-e037-44e6-bfa6-949b6d127c4f/iPhone18,1_26.6.2_23G90_Restore.ipsw" length="11518964040" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone18,1_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:14 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 17 Pro Max - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 17 Pro Max - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 17 Pro Max (iPhone18,2)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
-Size: 10.72 GB
-SHA1: 3d134fcbd3ba53f0fddc22a1d444712b6db8ce2e
+Version: 26.6.2
+Build: 23G90
+Size: 10.65 GB
+SHA1: f38b4c3720e6cf35663503cb46f80c5834085f34
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75094/69BCC770-5451-4FE7-ADF4-52E2A2AB0EB3/iPhone18,2_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75094/69BCC770-5451-4FE7-ADF4-52E2A2AB0EB3/iPhone18,2_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75094/69BCC770-5451-4FE7-ADF4-52E2A2AB0EB3/iPhone18,2_26.6.1_23G83_Restore.ipsw" length="11506292329" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone18,2_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:31 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/1a337b3d-ffd8-424a-abc4-092b64d551ab/iPhone18,2_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/1a337b3d-ffd8-424a-abc4-092b64d551ab/iPhone18,2_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/1a337b3d-ffd8-424a-abc4-092b64d551ab/iPhone18,2_26.6.2_23G90_Restore.ipsw" length="11439109684" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone18,2_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:37 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 17 - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 17 - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 17 (iPhone18,3)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.69 GB
-SHA1: 4fd263a373d8d08f868952dbc84ba2467c37662e
+SHA1: 4a6ca98d2d1446e42a3faeb20b53ed3ec043452b
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75080/6B80B95C-7F76-4D7A-86DE-C095321A8146/iPhone18,3_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75080/6B80B95C-7F76-4D7A-86DE-C095321A8146/iPhone18,3_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-75080/6B80B95C-7F76-4D7A-86DE-C095321A8146/iPhone18,3_26.6.1_23G83_Restore.ipsw" length="11481263540" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone18,3_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:19 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/c2f9fa07-0acc-4038-99f4-d7a4b1ac9c06/iPhone18,3_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/c2f9fa07-0acc-4038-99f4-d7a4b1ac9c06/iPhone18,3_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/c2f9fa07-0acc-4038-99f4-d7a4b1ac9c06/iPhone18,3_26.6.2_23G90_Restore.ipsw" length="11481186987" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone18,3_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:33 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone Air - iOS 26.6.1 (23G83)</title>
+      <title>iPhone Air - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone Air (iPhone18,4)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.41 GB
-SHA1: e6aad9b208c5b45a81d5344f6442741e1e418bec
+SHA1: 2bf0faf68b319e13c84b5997688eb5330f573f15
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73502/CCE4FF03-AB03-49A0-B259-1AD69AA7CB5F/iPhone18,4_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73502/CCE4FF03-AB03-49A0-B259-1AD69AA7CB5F/iPhone18,4_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73502/CCE4FF03-AB03-49A0-B259-1AD69AA7CB5F/iPhone18,4_26.6.1_23G83_Restore.ipsw" length="11172938367" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone18,4_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:04 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/c459f07a-97b9-4057-ab6d-8241040687d9/iPhone18,4_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/c459f07a-97b9-4057-ab6d-8241040687d9/iPhone18,4_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/c459f07a-97b9-4057-ab6d-8241040687d9/iPhone18,4_26.6.2_23G90_Restore.ipsw" length="11172867503" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone18,4_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:15 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 17e - iOS 26.6.1 (23G83)</title>
+      <title>iPhone 17e - iOS 26.6.2 (23G90)</title>
       <description>Device: iPhone 17e (iPhone18,5)
 Platform: iOS
-Version: 26.6.1
-Build: 23G83
+Version: 26.6.2
+Build: 23G90
 Size: 10.39 GB
-SHA1: 9decc7f50e88597893449a38a8f73939c9ad35df
+SHA1: 738b8684780f8a269670c06f2ad8ac52dc0ff59e
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73050/DE636DB6-94E8-4B51-9925-6D7BA82DA935/iPhone18,5_26.6.1_23G83_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73050/DE636DB6-94E8-4B51-9925-6D7BA82DA935/iPhone18,5_26.6.1_23G83_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-73050/DE636DB6-94E8-4B51-9925-6D7BA82DA935/iPhone18,5_26.6.1_23G83_Restore.ipsw" length="11156499434" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone18,5_23G83</guid>
-      <pubDate>Mon, 17 Aug 2026 17:49:19 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026SummerFCS/543c77da-97fc-4e4e-b2e2-942b8d34c723/iPhone18,5_26.6.2_23G90_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026SummerFCS/543c77da-97fc-4e4e-b2e2-942b8d34c723/iPhone18,5_26.6.2_23G90_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026SummerFCS/543c77da-97fc-4e4e-b2e2-942b8d34c723/iPhone18,5_26.6.2_23G90_Restore.ipsw" length="11156420798" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone18,5_23G90</guid>
+      <pubDate>Tue, 08 Sep 2026 18:13:19 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
