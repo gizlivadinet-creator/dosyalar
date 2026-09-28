@@ -5,7 +5,7 @@
     <link>https://gizlivadinet-creator.github.io/dosyalar/</link>
     <description>Latest official Apple IPSW firmware downloads (iOS, iPadOS, watchOS, tvOS, audioOS, visionOS, macOS) via ipsw.me API</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 02:35:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 18:57:15 +0000</lastBuildDate>
     <atom:link href="https://gizlivadinet-creator.github.io/dosyalar/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Developer Transition Kit - Firmware 11.2.3 (20D91)</title>
@@ -120,963 +120,963 @@ Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-67230/6F3
       <category>audioOS</category>
     </item>
     <item>
-      <title>Mac Studio (M1 Max) - macOS 27.0 (26A428)</title>
+      <title>Mac Studio (M1 Max) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac Studio (M1 Max) (Mac13,1)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac13,1_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:11 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac13,1_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:44 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac Studio (M1 Ultra) - macOS 27.0 (26A428)</title>
+      <title>Mac Studio (M1 Ultra) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac Studio (M1 Ultra) (Mac13,2)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac13,2_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:17:58 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac13,2_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:41 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M2 Pro, 16-inch, 2023) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M2 Pro, 16-inch, 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M2 Pro, 16-inch, 2023) (Mac14,10)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac14,10_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:12 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac14,10_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:44 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac mini (M2 Pro, 2023) - macOS 27.0 (26A428)</title>
+      <title>Mac mini (M2 Pro, 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac mini (M2 Pro, 2023) (Mac14,12)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac14,12_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:29 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac14,12_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:42 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac Studio (M2 Max, 2023) - macOS 27.0 (26A428)</title>
+      <title>Mac Studio (M2 Max, 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac Studio (M2 Max, 2023) (Mac14,13)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac14,13_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:45 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac14,13_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:47 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac Studio (M2 Ultra, 2023) - macOS 27.0 (26A428)</title>
+      <title>Mac Studio (M2 Ultra, 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac Studio (M2 Ultra, 2023) (Mac14,14)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac14,14_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:46 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac14,14_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:43 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Air (15-inch, M2, 2023) - macOS 27.0 (26A428)</title>
+      <title>MacBook Air (15-inch, M2, 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Air (15-inch, M2, 2023) (Mac14,15)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac14,15_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:12 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac14,15_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:40 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Air (M2, 2022) - macOS 27.0 (26A428)</title>
+      <title>MacBook Air (M2, 2022) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Air (M2, 2022) (Mac14,2)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac14,2_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:44 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac14,2_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:47 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac mini (M2, 2023) - macOS 27.0 (26A428)</title>
+      <title>Mac mini (M2, 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac mini (M2, 2023) (Mac14,3)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac14,3_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:45 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac14,3_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:46 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M2 Max, 14-inch, 2023) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M2 Max, 14-inch, 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M2 Max, 14-inch, 2023) (Mac14,5)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac14,5_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:11 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac14,5_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:48 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M2 Max, 16-inch, 2023) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M2 Max, 16-inch, 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M2 Max, 16-inch, 2023) (Mac14,6)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac14,6_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:46 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac14,6_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:48 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (13-inch, M2, 2022) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (13-inch, M2, 2022) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (13-inch, M2, 2022) (Mac14,7)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac14,7_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:46 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac14,7_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:48 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac Pro (2023) - macOS 27.0 (26A428)</title>
+      <title>Mac Pro (2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac Pro (2023) (Mac14,8)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac14,8_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:44 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac14,8_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:41 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M2 Pro, 14-inch, 2023) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M2 Pro, 14-inch, 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M2 Pro, 14-inch, 2023) (Mac14,9)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac14,9_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:14 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac14,9_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:46 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M3 Max, 14-inch, Nov 2023) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M3 Max, 14-inch, Nov 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M3 Max, 14-inch, Nov 2023) (Mac15,10)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac15,10_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:45 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac15,10_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:43 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M3 Max, 16-inch, Nov 2023) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M3 Max, 16-inch, Nov 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M3 Max, 16-inch, Nov 2023) (Mac15,11)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac15,11_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:13 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac15,11_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:45 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Air (13-inch, M3, 2024) - macOS 27.0 (26A428)</title>
+      <title>MacBook Air (13-inch, M3, 2024) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Air (13-inch, M3, 2024) (Mac15,12)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac15,12_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:46 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac15,12_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:38 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Air (15-inch, M3, 2024) - macOS 27.0 (26A428)</title>
+      <title>MacBook Air (15-inch, M3, 2024) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Air (15-inch, M3, 2024) (Mac15,13)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac15,13_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:19:01 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac15,13_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:43 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac Studio (2025) - macOS 27.0 (26A428)</title>
+      <title>Mac Studio (2025) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac Studio (2025) (Mac15,14)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac15,14_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:46 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac15,14_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:41 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M3, 14-inch, Nov 2023) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M3, 14-inch, Nov 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M3, 14-inch, Nov 2023) (Mac15,3)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac15,3_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:19:00 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac15,3_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:39 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>iMac (Two Ports, 24-inch, 2023) - macOS 27.0 (26A428)</title>
+      <title>iMac (Two Ports, 24-inch, 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: iMac (Two Ports, 24-inch, 2023) (Mac15,4)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac15,4_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:16 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac15,4_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:42 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>iMac (Four Ports, 24-inch, 2023) - macOS 27.0 (26A428)</title>
+      <title>iMac (Four Ports, 24-inch, 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: iMac (Four Ports, 24-inch, 2023) (Mac15,5)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac15,5_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:13 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac15,5_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:38 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M3 Pro, 14-inch, Nov 2023) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M3 Pro, 14-inch, Nov 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M3 Pro, 14-inch, Nov 2023) (Mac15,6)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac15,6_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:15 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac15,6_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:46 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M3 Pro, 16-inch, Nov 2023) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M3 Pro, 16-inch, Nov 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M3 Pro, 16-inch, Nov 2023) (Mac15,7)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac15,7_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:14 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac15,7_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:45 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M3 Max, 14-inch, Nov 2023) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M3 Max, 14-inch, Nov 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M3 Max, 14-inch, Nov 2023) (Mac15,8)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac15,8_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:12 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac15,8_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:49 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M3 Max, 16-inch, Nov 2023) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M3 Max, 16-inch, Nov 2023) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M3 Max, 16-inch, Nov 2023) (Mac15,9)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac15,9_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:44 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac15,9_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:48 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M4, 14-inch, Nov 2024) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M4, 14-inch, Nov 2024) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M4, 14-inch, Nov 2024) (Mac16,1)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac16,1_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:13 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac16,1_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:39 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac mini (M4, 2024) - macOS 27.0 (26A428)</title>
+      <title>Mac mini (M4, 2024) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac mini (M4, 2024) (Mac16,10)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac16,10_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:15 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac16,10_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:38 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac mini (M4 Pro, 2024) - macOS 27.0 (26A428)</title>
+      <title>Mac mini (M4 Pro, 2024) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac mini (M4 Pro, 2024) (Mac16,11)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac16,11_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:15 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac16,11_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:45 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Air (13-inch, M4, 2025) - macOS 27.0 (26A428)</title>
+      <title>MacBook Air (13-inch, M4, 2025) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Air (13-inch, M4, 2025) (Mac16,12)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac16,12_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:15 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac16,12_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:37 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Air (15-inch, M4, 2025) - macOS 27.0 (26A428)</title>
+      <title>MacBook Air (15-inch, M4, 2025) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Air (15-inch, M4, 2025) (Mac16,13)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac16,13_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:14 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac16,13_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:43 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>iMac (Two Ports, 24-inch, 2024) - macOS 27.0 (26A428)</title>
+      <title>iMac (Two Ports, 24-inch, 2024) - macOS 27.0.1 (26A434)</title>
       <description>Device: iMac (Two Ports, 24-inch, 2024) (Mac16,2)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac16,2_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:17:57 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac16,2_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:44 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>iMac (Four Ports, 24-inch, 2024) - macOS 27.0 (26A428)</title>
+      <title>iMac (Four Ports, 24-inch, 2024) - macOS 27.0.1 (26A434)</title>
       <description>Device: iMac (Four Ports, 24-inch, 2024) (Mac16,3)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac16,3_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:17:57 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac16,3_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:45 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M4 Max, 16-inch, Nov 2024) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M4 Max, 16-inch, Nov 2024) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M4 Max, 16-inch, Nov 2024) (Mac16,5)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac16,5_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:19:01 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac16,5_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:42 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M4 Max, 14-inch, Nov 2024) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M4 Max, 14-inch, Nov 2024) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M4 Max, 14-inch, Nov 2024) (Mac16,6)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac16,6_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:16 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac16,6_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:47 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M4 Pro, 16-inch, Nov 2024) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M4 Pro, 16-inch, Nov 2024) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M4 Pro, 16-inch, Nov 2024) (Mac16,7)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac16,7_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:29 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac16,7_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:40 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (M4 Pro, 14-inch, Nov 2024) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (M4 Pro, 14-inch, Nov 2024) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M4 Pro, 14-inch, Nov 2024) (Mac16,8)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac16,8_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:13 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac16,8_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:46 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac Studio (2025) - macOS 27.0 (26A428)</title>
+      <title>Mac Studio (2025) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac Studio (2025) (Mac16,9)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac16,9_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:19:01 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac16,9_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:37 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac Studio (M5 Max) - macOS 27.0 (26A428)</title>
+      <title>Mac Studio (M5 Max) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac Studio (M5 Max) (Mac17,14)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac17,14_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:43 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,14_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:47 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac Studio (M5 Ultra) - macOS 27.0 (26A428)</title>
+      <title>Mac Studio (M5 Ultra) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac Studio (M5 Ultra) (Mac17,15)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac17,15_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:28 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,15_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:42 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac mini (M5 Pro) - macOS 27.0 (26A428)</title>
+      <title>Mac mini (M5 Pro) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac mini (M5 Pro) (Mac17,16)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac17,16_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:10 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,16_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:40 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (14-inch, M5) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (14-inch, M5) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (14-inch, M5) (Mac17,2)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac17,2_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:15 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,2_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:49 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Air (13-inch, M5) - macOS 27.0 (26A428)</title>
+      <title>MacBook Air (13-inch, M5) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Air (13-inch, M5) (Mac17,3)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac17,3_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:19:01 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,3_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:47 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Air (15-inch, M5) - macOS 27.0 (26A428)</title>
+      <title>MacBook Air (15-inch, M5) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Air (15-inch, M5) (Mac17,4)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac17,4_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:29 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,4_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:48 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Neo - macOS 27.0 (26A428)</title>
+      <title>MacBook Neo - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Neo (Mac17,5)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac17,5_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:29 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,5_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:38 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (16-inch, M5 Max) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (16-inch, M5 Max) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (16-inch, M5 Max) (Mac17,6)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac17,6_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:13 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,6_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:45 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (14-inch, M5 Max) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (14-inch, M5 Max) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (14-inch, M5 Max) (Mac17,7)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac17,7_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:19:01 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,7_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:47 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (16-inch, M5 Pro) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (16-inch, M5 Pro) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (16-inch, M5 Pro) (Mac17,8)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac17,8_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:45 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,8_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:40 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (14-inch, M5 Pro) - macOS 27.0 (26A428)</title>
+      <title>MacBook Pro (14-inch, M5 Pro) - macOS 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (14-inch, M5 Pro) (Mac17,9)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac17,9_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:12 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,9_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:46 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>Mac mini (M6) - macOS 27.0 (26A428)</title>
+      <title>Mac mini (M6) - macOS 27.0.1 (26A434)</title>
       <description>Device: Mac mini (M6) (Mac18,5)
 Platform: macOS
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Mac18,5_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:59 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac18,5_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:47 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Air (M1, Late 2020) - Firmware 27.0 (26A428)</title>
+      <title>MacBook Air (M1, Late 2020) - Firmware 27.0.1 (26A434)</title>
       <description>Device: MacBook Air (M1, Late 2020) (MacBookAir10,1)
 Platform: Firmware
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">MacBookAir10,1_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:47 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">MacBookAir10,1_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:37 +0000</pubDate>
       <category>Firmware</category>
     </item>
     <item>
-      <title>MacBook Pro (M1, Late 2020) - Firmware 27.0 (26A428)</title>
+      <title>MacBook Pro (M1, Late 2020) - Firmware 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M1, Late 2020) (MacBookPro17,1)
 Platform: Firmware
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">MacBookPro17,1_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:19:02 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">MacBookPro17,1_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:44 +0000</pubDate>
       <category>Firmware</category>
     </item>
     <item>
-      <title>MacBook Pro (M1 Pro, 16-inch, 2021) - Firmware 27.0 (26A428)</title>
+      <title>MacBook Pro (M1 Pro, 16-inch, 2021) - Firmware 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M1 Pro, 16-inch, 2021) (MacBookPro18,1)
 Platform: Firmware
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">MacBookPro18,1_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:12 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">MacBookPro18,1_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:39 +0000</pubDate>
       <category>Firmware</category>
     </item>
     <item>
-      <title>MacBook Pro (M1 Max, 16-inch, 2021) - Firmware 27.0 (26A428)</title>
+      <title>MacBook Pro (M1 Max, 16-inch, 2021) - Firmware 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M1 Max, 16-inch, 2021) (MacBookPro18,2)
 Platform: Firmware
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">MacBookPro18,2_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:19:01 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">MacBookPro18,2_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:42 +0000</pubDate>
       <category>Firmware</category>
     </item>
     <item>
-      <title>MacBook Pro (M1 Pro, 14-inch, 2021) - Firmware 27.0 (26A428)</title>
+      <title>MacBook Pro (M1 Pro, 14-inch, 2021) - Firmware 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M1 Pro, 14-inch, 2021) (MacBookPro18,3)
 Platform: Firmware
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">MacBookPro18,3_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:15 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">MacBookPro18,3_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:40 +0000</pubDate>
       <category>Firmware</category>
     </item>
     <item>
-      <title>MacBook Pro (M1 Max, 14-inch, 2021) - Firmware 27.0 (26A428)</title>
+      <title>MacBook Pro (M1 Max, 14-inch, 2021) - Firmware 27.0.1 (26A434)</title>
       <description>Device: MacBook Pro (M1 Max, 14-inch, 2021) (MacBookPro18,4)
 Platform: Firmware
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">MacBookPro18,4_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:14 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">MacBookPro18,4_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:43 +0000</pubDate>
       <category>Firmware</category>
     </item>
     <item>
-      <title>Mac mini (M1, Late 2020) - Firmware 27.0 (26A428)</title>
+      <title>Mac mini (M1, Late 2020) - Firmware 27.0.1 (26A434)</title>
       <description>Device: Mac mini (M1, Late 2020) (Macmini9,1)
 Platform: Firmware
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">Macmini9,1_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:17:57 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">Macmini9,1_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:39 +0000</pubDate>
       <category>Firmware</category>
     </item>
     <item>
-      <title>Apple Vision Pro - visionOS 27.0 (24M362)</title>
+      <title>Apple Vision Pro - visionOS 27.0.1 (24M372)</title>
       <description>Device: Apple Vision Pro (RealityDevice14,1)
 Platform: visionOS
-Version: 27.0
-Build: 24M362
+Version: 27.0.1
+Build: 24M372
 Size: 12.00 GB
-SHA1: 5586b003dd9179d6c3c79ca5c9cda2493adf7b2a
+SHA1: fc3ccc8b2aebc5be4c8e57a5469f93cc48155706
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/15a5b6d9-74ee-4986-a40e-63ee98bcd0ab/Apple_Vision_Pro_27.0_24M362_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/15a5b6d9-74ee-4986-a40e-63ee98bcd0ab/Apple_Vision_Pro_27.0_24M362_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/15a5b6d9-74ee-4986-a40e-63ee98bcd0ab/Apple_Vision_Pro_27.0_24M362_Restore.ipsw" length="12882454919" type="application/octet-stream"/>
-      <guid isPermaLink="false">RealityDevice14,1_24M362</guid>
-      <pubDate>Mon, 14 Sep 2026 17:25:27 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/1b8ee6f0-3a97-4ef4-86ed-59eec8718331/Apple_Vision_Pro_27.0.1_24M372_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/1b8ee6f0-3a97-4ef4-86ed-59eec8718331/Apple_Vision_Pro_27.0.1_24M372_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/1b8ee6f0-3a97-4ef4-86ed-59eec8718331/Apple_Vision_Pro_27.0.1_24M372_Restore.ipsw" length="12882391561" type="application/octet-stream"/>
+      <guid isPermaLink="false">RealityDevice14,1_24M372</guid>
+      <pubDate>Mon, 28 Sep 2026 17:34:26 +0000</pubDate>
       <category>visionOS</category>
     </item>
     <item>
-      <title>Apple Vision Pro (M5) - visionOS 27.0 (24M362)</title>
+      <title>Apple Vision Pro (M5) - visionOS 27.0.1 (24M372)</title>
       <description>Device: Apple Vision Pro (M5) (RealityDevice17,1)
 Platform: visionOS
-Version: 27.0
-Build: 24M362
+Version: 27.0.1
+Build: 24M372
 Size: 12.03 GB
-SHA1: 0179229a457084e7b58e328c3d5027de0905fb28
+SHA1: e09018dacb869c2c091a101e06c413a8a24a741b
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/36f0fa38-2ff6-4ad3-8952-01b0b3a139d7/Apple_Vision_Pro_M5_27.0_24M362_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/36f0fa38-2ff6-4ad3-8952-01b0b3a139d7/Apple_Vision_Pro_M5_27.0_24M362_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/36f0fa38-2ff6-4ad3-8952-01b0b3a139d7/Apple_Vision_Pro_M5_27.0_24M362_Restore.ipsw" length="12919858907" type="application/octet-stream"/>
-      <guid isPermaLink="false">RealityDevice17,1_24M362</guid>
-      <pubDate>Mon, 14 Sep 2026 17:25:28 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/f07f1823-ed20-434c-b3a5-035e03e17e3a/Apple_Vision_Pro_M5_27.0.1_24M372_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/f07f1823-ed20-434c-b3a5-035e03e17e3a/Apple_Vision_Pro_M5_27.0.1_24M372_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/f07f1823-ed20-434c-b3a5-035e03e17e3a/Apple_Vision_Pro_M5_27.0.1_24M372_Restore.ipsw" length="12919790635" type="application/octet-stream"/>
+      <guid isPermaLink="false">RealityDevice17,1_24M372</guid>
+      <pubDate>Mon, 28 Sep 2026 17:34:26 +0000</pubDate>
       <category>visionOS</category>
     </item>
     <item>
-      <title>Apple Virtual Machine 1 - Firmware 27.0 (26A428)</title>
+      <title>Apple Virtual Machine 1 - Firmware 27.0.1 (26A434)</title>
       <description>Device: Apple Virtual Machine 1 (VirtualMac2,1)
 Platform: Firmware
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: No (unsigned - restore/downgrade not possible via TSS)
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">VirtualMac2,1_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:13 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">VirtualMac2,1_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:37 +0000</pubDate>
       <category>Firmware</category>
     </item>
     <item>
@@ -1336,35 +1336,35 @@ Download: https://updates.cdn-apple.com/2026FallFCS/fullrestores/140-55161/E2CF2
       <category>bridgeOS</category>
     </item>
     <item>
-      <title>iMac 24-inch (M1, Two Ports, 2021) - Firmware 27.0 (26A428)</title>
+      <title>iMac 24-inch (M1, Two Ports, 2021) - Firmware 27.0.1 (26A434)</title>
       <description>Device: iMac 24-inch (M1, Two Ports, 2021) (iMac21,1)
 Platform: Firmware
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">iMac21,1_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:44 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">iMac21,1_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:41 +0000</pubDate>
       <category>Firmware</category>
     </item>
     <item>
-      <title>iMac 24-inch (M1, Four Ports, 2021) - Firmware 27.0 (26A428)</title>
+      <title>iMac 24-inch (M1, Four Ports, 2021) - Firmware 27.0.1 (26A434)</title>
       <description>Device: iMac 24-inch (M1, Four Ports, 2021) (iMac21,2)
 Platform: Firmware
-Version: 27.0
-Build: 26A428
-Size: 24.80 GB
-SHA1: 2d17f2fe0d7726dd66f0522fdb9ad162942c3f3d
+Version: 27.0.1
+Build: 26A434
+Size: 24.81 GB
+SHA1: 7e020710acade1911309aa73901ed5a92790bafc
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/afcfc88e-bbe6-44bf-a5da-07c56eebc06c/UniversalMac_27.0_26A428_Restore.ipsw" length="26626436228" type="application/octet-stream"/>
-      <guid isPermaLink="false">iMac21,2_26A428</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:14 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/59241290-5d51-4ca8-9df4-31624b9a4eac/UniversalMac_27.0.1_26A434_Restore.ipsw" length="26637307067" type="application/octet-stream"/>
+      <guid isPermaLink="false">iMac21,2_26A434</guid>
+      <pubDate>Mon, 28 Sep 2026 17:24:38 +0000</pubDate>
       <category>Firmware</category>
     </item>
     <item>
@@ -2040,19 +2040,19 @@ Download: https://updates.cdn-apple.com/2026FallFCS/3c8cd189-a82f-4ecc-892d-0c38
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad mini (A17 Pro, Cellular) - iPadOS 27.0 (24A437)</title>
+      <title>iPad mini (A17 Pro, Cellular) - iPadOS 27.0.1 (24A446)</title>
       <description>Device: iPad mini (A17 Pro, Cellular) (iPad16,2)
 Platform: iPadOS
-Version: 27.0
-Build: 24A437
+Version: 27.0.1
+Build: 24A446
 Size: 10.95 GB
-SHA1: 654c7881ad4918f5e2ab0cc1cc61b1ba6eaa0fe7
+SHA1: bfc9ab4675744474aa6348bfe6693d16adfb5718
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/e81c639f-1417-45aa-8a75-6f262083fe37/iPad16,1,iPad16,2_27.0_24A437_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/e81c639f-1417-45aa-8a75-6f262083fe37/iPad16,1,iPad16,2_27.0_24A437_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/e81c639f-1417-45aa-8a75-6f262083fe37/iPad16,1,iPad16,2_27.0_24A437_Restore.ipsw" length="11759514440" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad16,2_24A437</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:41 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/46399de6-53d0-47ec-baea-c203630bcee9/iPad16,1,iPad16,2_27.0.1_24A446_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/46399de6-53d0-47ec-baea-c203630bcee9/iPad16,1,iPad16,2_27.0.1_24A446_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/46399de6-53d0-47ec-baea-c203630bcee9/iPad16,1,iPad16,2_27.0.1_24A446_Restore.ipsw" length="11759417454" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad16,2_24A446</guid>
+      <pubDate>Mon, 28 Sep 2026 18:54:03 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
@@ -2152,19 +2152,19 @@ Download: https://updates.cdn-apple.com/2026FallFCS/3c8cd189-a82f-4ecc-892d-0c38
       <category>iPadOS</category>
     </item>
     <item>
-      <title>iPad Pro 11-inch (M5, WiFi) - iPadOS 27.0 (24A437)</title>
+      <title>iPad Pro 11-inch (M5, WiFi) - iPadOS 27.0.1 (24A446)</title>
       <description>Device: iPad Pro 11-inch (M5, WiFi) (iPad17,1)
 Platform: iPadOS
-Version: 27.0
-Build: 24A437
+Version: 27.0.1
+Build: 24A446
 Size: 10.85 GB
-SHA1: b0caaa281d0df315a9f679dc09482dd908de661e
+SHA1: efe9b9f87a7bf373ceb309996614597bbd3f256b
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/3d6d90ea-e942-4a86-834f-939769d6e3f4/iPad17,1,iPad17,2,iPad17,3,iPad17,4_27.0_24A437_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/3d6d90ea-e942-4a86-834f-939769d6e3f4/iPad17,1,iPad17,2,iPad17,3,iPad17,4_27.0_24A437_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/3d6d90ea-e942-4a86-834f-939769d6e3f4/iPad17,1,iPad17,2,iPad17,3,iPad17,4_27.0_24A437_Restore.ipsw" length="11654282996" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPad17,1_24A437</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:30 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/6074e110-d48d-40c2-b0e8-b611520941a3/iPad17,1,iPad17,2,iPad17,3,iPad17,4_27.0.1_24A446_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/6074e110-d48d-40c2-b0e8-b611520941a3/iPad17,1,iPad17,2,iPad17,3,iPad17,4_27.0.1_24A446_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/6074e110-d48d-40c2-b0e8-b611520941a3/iPad17,1,iPad17,2,iPad17,3,iPad17,4_27.0.1_24A446_Restore.ipsw" length="11654176243" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad17,1_24A446</guid>
+      <pubDate>Mon, 28 Sep 2026 18:53:55 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
@@ -3640,19 +3640,19 @@ Download: https://updates.cdn-apple.com/2026FallFCS/601712cb-7aa9-4914-b421-91d4
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 16e - iOS 27.0 (24A437)</title>
+      <title>iPhone 16e - iOS 27.0.1 (24A446)</title>
       <description>Device: iPhone 16e (iPhone17,5)
 Platform: iOS
-Version: 27.0
-Build: 24A437
+Version: 27.0.1
+Build: 24A446
 Size: 11.07 GB
-SHA1: 2ef9778fa9ec698613db81508d60a0094b984b46
+SHA1: 87d4df21ec0bb08246b60dc1e24660ca24554400
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/d79065c6-1467-4207-b204-4c8f9d080aa1/iPhone17,5_27.0_24A437_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/d79065c6-1467-4207-b204-4c8f9d080aa1/iPhone17,5_27.0_24A437_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/d79065c6-1467-4207-b204-4c8f9d080aa1/iPhone17,5_27.0_24A437_Restore.ipsw" length="11885720642" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone17,5_24A437</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:28 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/096468f2-4871-44bd-bcba-5b661400d70b/iPhone17,5_27.0.1_24A446_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/096468f2-4871-44bd-bcba-5b661400d70b/iPhone17,5_27.0.1_24A446_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/096468f2-4871-44bd-bcba-5b661400d70b/iPhone17,5_27.0.1_24A446_Restore.ipsw" length="11885619616" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone17,5_24A446</guid>
+      <pubDate>Mon, 28 Sep 2026 18:54:19 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
@@ -3752,19 +3752,19 @@ Download: https://updates.cdn-apple.com/2026FallFCS/0f4c05a9-05f9-472c-a2ec-d704
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 18 Pro Max (U.S.) - iOS 27.0 (24A437)</title>
+      <title>iPhone 18 Pro Max (U.S.) - iOS 27.0.1 (24A446)</title>
       <description>Device: iPhone 18 Pro Max (U.S.) (iPhone19,3)
 Platform: iOS
-Version: 27.0
-Build: 24A437
+Version: 27.0.1
+Build: 24A446
 Size: 12.00 GB
-SHA1: 75d0a8b3a385ae2f847498e45cbb7540bd39de31
+SHA1: adfc38a6cc7d0fa713cd725cf8ac3666185c1555
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/5e8a15d7-273e-4a74-9d4c-c4737574f722/iPhone19,3_27.0_24A437_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/5e8a15d7-273e-4a74-9d4c-c4737574f722/iPhone19,3_27.0_24A437_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/5e8a15d7-273e-4a74-9d4c-c4737574f722/iPhone19,3_27.0_24A437_Restore.ipsw" length="12882772605" type="application/octet-stream"/>
-      <guid isPermaLink="false">iPhone19,3_24A437</guid>
-      <pubDate>Mon, 14 Sep 2026 17:18:50 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/71a69d15-1ec8-44c8-9e70-a1beb567b8a8/iPhone19,3_27.0.1_24A446_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/71a69d15-1ec8-44c8-9e70-a1beb567b8a8/iPhone19,3_27.0.1_24A446_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/71a69d15-1ec8-44c8-9e70-a1beb567b8a8/iPhone19,3_27.0.1_24A446_Restore.ipsw" length="12882879515" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPhone19,3_24A446</guid>
+      <pubDate>Mon, 28 Sep 2026 18:54:22 +0000</pubDate>
       <category>iOS</category>
     </item>
     <item>
