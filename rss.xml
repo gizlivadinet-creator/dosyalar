@@ -5,7 +5,7 @@
     <link>https://gizlivadinet-creator.github.io/dosyalar/</link>
     <description>Latest official Apple IPSW firmware downloads (iOS, iPadOS, watchOS, tvOS, audioOS, visionOS, macOS) via ipsw.me API</description>
     <language>en</language>
-    <lastBuildDate>Tue, 06 Oct 2026 03:52:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 17:36:59 +0000</lastBuildDate>
     <atom:link href="https://gizlivadinet-creator.github.io/dosyalar/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Developer Transition Kit - Firmware 11.2.3 (20D91)</title>
@@ -3752,8 +3752,8 @@ Download: https://updates.cdn-apple.com/2026FallFCS/8cd333d4-1025-4e89-99a2-1373
       <category>iOS</category>
     </item>
     <item>
-      <title>iPhone 18 Pro Max (U.S.) - iOS 27.0.1 (24A446)</title>
-      <description>Device: iPhone 18 Pro Max (U.S.) (iPhone19,3)
+      <title>iPhone 18 Pro Max (US) - iOS 27.0.1 (24A446)</title>
+      <description>Device: iPhone 18 Pro Max (US) (iPhone19,3)
 Platform: iOS
 Version: 27.0.1
 Build: 24A446
