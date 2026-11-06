@@ -5,7 +5,7 @@
     <link>https://gizlivadinet-creator.github.io/dosyalar/</link>
     <description>Latest official Apple IPSW firmware downloads (iOS, iPadOS, watchOS, tvOS, audioOS, visionOS, macOS) via ipsw.me API</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 19:14:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 04:13:09 +0000</lastBuildDate>
     <atom:link href="https://gizlivadinet-creator.github.io/dosyalar/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Developer Transition Kit - Firmware 11.2.3 (20D91)</title>
@@ -744,6 +744,70 @@ Download: https://updates.cdn-apple.com/2026FallFCS/c9671975-52db-4fb5-9af2-0021
       <category>macOS</category>
     </item>
     <item>
+      <title>MacBook Pro (16-inch PROLED XDR Display) - macOS 27.2 (26B8125)</title>
+      <description>Device: MacBook Pro (16-inch PROLED XDR Display) (Mac17,10)
+Platform: macOS
+Version: 27.2
+Build: 26B8125
+Size: 19.49 GB
+SHA1: 30b48ba7b54114c8eec0bef084344c4fce908aa6
+Signed by Apple: Yes
+Download: https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw" length="20928022286" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,10_26B8125</guid>
+      <pubDate>Thu, 05 Nov 2026 19:14:39 +0000</pubDate>
+      <category>macOS</category>
+    </item>
+    <item>
+      <title>MacBook Pro (14-inch PROLED XDR Display) - macOS 27.2 (26B8125)</title>
+      <description>Device: MacBook Pro (14-inch PROLED XDR Display) (Mac17,11)
+Platform: macOS
+Version: 27.2
+Build: 26B8125
+Size: 19.49 GB
+SHA1: 30b48ba7b54114c8eec0bef084344c4fce908aa6
+Signed by Apple: Yes
+Download: https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw" length="20928022286" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,11_26B8125</guid>
+      <pubDate>Thu, 05 Nov 2026 19:14:34 +0000</pubDate>
+      <category>macOS</category>
+    </item>
+    <item>
+      <title>MacBook Pro (16-inch PROLED XDR Display) - macOS 27.2 (26B8125)</title>
+      <description>Device: MacBook Pro (16-inch PROLED XDR Display) (Mac17,12)
+Platform: macOS
+Version: 27.2
+Build: 26B8125
+Size: 19.49 GB
+SHA1: 30b48ba7b54114c8eec0bef084344c4fce908aa6
+Signed by Apple: Yes
+Download: https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw" length="20928022286" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,12_26B8125</guid>
+      <pubDate>Thu, 05 Nov 2026 19:14:43 +0000</pubDate>
+      <category>macOS</category>
+    </item>
+    <item>
+      <title>MacBook Pro (14-inch PROLED XDR Display) - macOS 27.2 (26B8125)</title>
+      <description>Device: MacBook Pro (14-inch PROLED XDR Display) (Mac17,13)
+Platform: macOS
+Version: 27.2
+Build: 26B8125
+Size: 19.49 GB
+SHA1: 30b48ba7b54114c8eec0bef084344c4fce908aa6
+Signed by Apple: Yes
+Download: https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc70cb24927/UniversalMac_27.2_26B8125_Restore.ipsw" length="20928022286" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac17,13_26B8125</guid>
+      <pubDate>Thu, 05 Nov 2026 19:14:37 +0000</pubDate>
+      <category>macOS</category>
+    </item>
+    <item>
       <title>Mac Studio (M5 Max) - macOS 27.2 (26B123)</title>
       <description>Device: Mac Studio (M5 Max) (Mac17,14)
 Platform: macOS
@@ -917,6 +981,38 @@ Download: https://updates.cdn-apple.com/2026FallFCS/c9671975-52db-4fb5-9af2-0021
       <enclosure url="https://updates.cdn-apple.com/2026FallFCS/c9671975-52db-4fb5-9af2-00217169ba8d/UniversalMac_27.2_26B123_Restore.ipsw" length="25595669503" type="application/octet-stream"/>
       <guid isPermaLink="false">Mac17,9_26B123</guid>
       <pubDate>Mon, 26 Oct 2026 18:14:23 +0000</pubDate>
+      <category>macOS</category>
+    </item>
+    <item>
+      <title>MacBook Pro (14-inch, M6) - macOS 27.2 (26B7124)</title>
+      <description>Device: MacBook Pro (14-inch, M6) (Mac18,1)
+Platform: macOS
+Version: 27.2
+Build: 26B7124
+Size: 19.43 GB
+SHA1: b10b25896174e29c76c5c28de6a818999b31d9fa
+Signed by Apple: Yes
+Download: https://updates.cdn-apple.com/2026FallFCS/04f50f4e-1485-4efb-bd81-f3d743fdff4a/UniversalMac_27.2_26B7124_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/04f50f4e-1485-4efb-bd81-f3d743fdff4a/UniversalMac_27.2_26B7124_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/04f50f4e-1485-4efb-bd81-f3d743fdff4a/UniversalMac_27.2_26B7124_Restore.ipsw" length="20867518362" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac18,1_26B7124</guid>
+      <pubDate>Thu, 05 Nov 2026 19:14:55 +0000</pubDate>
+      <category>macOS</category>
+    </item>
+    <item>
+      <title>iMac (24-inch, M6) - macOS 27.2 (26B7124)</title>
+      <description>Device: iMac (24-inch, M6) (Mac18,2)
+Platform: macOS
+Version: 27.2
+Build: 26B7124
+Size: 19.43 GB
+SHA1: b10b25896174e29c76c5c28de6a818999b31d9fa
+Signed by Apple: Yes
+Download: https://updates.cdn-apple.com/2026FallFCS/04f50f4e-1485-4efb-bd81-f3d743fdff4a/UniversalMac_27.2_26B7124_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/04f50f4e-1485-4efb-bd81-f3d743fdff4a/UniversalMac_27.2_26B7124_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/04f50f4e-1485-4efb-bd81-f3d743fdff4a/UniversalMac_27.2_26B7124_Restore.ipsw" length="20867518362" type="application/octet-stream"/>
+      <guid isPermaLink="false">Mac18,2_26B7124</guid>
+      <pubDate>Thu, 05 Nov 2026 19:14:53 +0000</pubDate>
       <category>macOS</category>
     </item>
     <item>
@@ -2229,6 +2325,38 @@ Download: https://updates.cdn-apple.com/2026FallFCS/b79b2e3c-6409-4d03-a01c-01b2
       <enclosure url="https://updates.cdn-apple.com/2026FallFCS/b79b2e3c-6409-4d03-a01c-01b2a07cbabb/iPad17,1,iPad17,2,iPad17,3,iPad17,4_27.2_24B119_Restore.ipsw" length="11871016695" type="application/octet-stream"/>
       <guid isPermaLink="false">iPad17,4_24B119</guid>
       <pubDate>Mon, 26 Oct 2026 18:33:10 +0000</pubDate>
+      <category>iPadOS</category>
+    </item>
+    <item>
+      <title>iPad mini (A20 Pro, WiFi) - iPadOS 27.2 (24B8120)</title>
+      <description>Device: iPad mini (A20 Pro, WiFi) (iPad19,1)
+Platform: iPadOS
+Version: 27.2
+Build: 24B8120
+Size: 11.70 GB
+SHA1: a7121fd8a6821c2f402bd2e441e7b1e68c96de31
+Signed by Apple: Yes
+Download: https://updates.cdn-apple.com/2026FallFCS/d70a938c-e796-4f36-bf9a-cb235fedffba/iPad19,1,iPad19,2_27.2_24B8120_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/d70a938c-e796-4f36-bf9a-cb235fedffba/iPad19,1,iPad19,2_27.2_24B8120_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/d70a938c-e796-4f36-bf9a-cb235fedffba/iPad19,1,iPad19,2_27.2_24B8120_Restore.ipsw" length="12558005114" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad19,1_24B8120</guid>
+      <pubDate>Thu, 05 Nov 2026 19:24:18 +0000</pubDate>
+      <category>iPadOS</category>
+    </item>
+    <item>
+      <title>iPad mini (A20 Pro, Cellular) - iPadOS 27.2 (24B8120)</title>
+      <description>Device: iPad mini (A20 Pro, Cellular) (iPad19,2)
+Platform: iPadOS
+Version: 27.2
+Build: 24B8120
+Size: 11.70 GB
+SHA1: a7121fd8a6821c2f402bd2e441e7b1e68c96de31
+Signed by Apple: Yes
+Download: https://updates.cdn-apple.com/2026FallFCS/d70a938c-e796-4f36-bf9a-cb235fedffba/iPad19,1,iPad19,2_27.2_24B8120_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/d70a938c-e796-4f36-bf9a-cb235fedffba/iPad19,1,iPad19,2_27.2_24B8120_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/d70a938c-e796-4f36-bf9a-cb235fedffba/iPad19,1,iPad19,2_27.2_24B8120_Restore.ipsw" length="12558005114" type="application/octet-stream"/>
+      <guid isPermaLink="false">iPad19,2_24B8120</guid>
+      <pubDate>Thu, 05 Nov 2026 19:24:21 +0000</pubDate>
       <category>iPadOS</category>
     </item>
     <item>
