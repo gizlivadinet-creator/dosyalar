@@ -5,7 +5,7 @@
     <link>https://gizlivadinet-creator.github.io/dosyalar/</link>
     <description>Latest official Apple IPSW firmware downloads (iOS, iPadOS, watchOS, tvOS, audioOS, visionOS, macOS) via ipsw.me API</description>
     <language>en</language>
-    <lastBuildDate>Sat, 07 Nov 2026 03:45:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 17:10:46 +0000</lastBuildDate>
     <atom:link href="https://gizlivadinet-creator.github.io/dosyalar/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Developer Transition Kit - Firmware 11.2.3 (20D91)</title>
@@ -744,8 +744,8 @@ Download: https://updates.cdn-apple.com/2026FallFCS/c9671975-52db-4fb5-9af2-0021
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (16-inch PROLED XDR Display) - macOS 27.2 (26B8125)</title>
-      <description>Device: MacBook Pro (16-inch PROLED XDR Display) (Mac17,10)
+      <title>MacBook Pro (16-inch PROLED XDR, M5 Max) - macOS 27.2 (26B8125)</title>
+      <description>Device: MacBook Pro (16-inch PROLED XDR, M5 Max) (Mac17,10)
 Platform: macOS
 Version: 27.2
 Build: 26B8125
@@ -760,8 +760,8 @@ Download: https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc7
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (14-inch PROLED XDR Display) - macOS 27.2 (26B8125)</title>
-      <description>Device: MacBook Pro (14-inch PROLED XDR Display) (Mac17,11)
+      <title>MacBook Pro (14-inch PROLED XDR, M5 Max) - macOS 27.2 (26B8125)</title>
+      <description>Device: MacBook Pro (14-inch PROLED XDR, M5 Max) (Mac17,11)
 Platform: macOS
 Version: 27.2
 Build: 26B8125
@@ -776,8 +776,8 @@ Download: https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc7
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (16-inch PROLED XDR Display) - macOS 27.2 (26B8125)</title>
-      <description>Device: MacBook Pro (16-inch PROLED XDR Display) (Mac17,12)
+      <title>MacBook Pro (16-inch PROLED XDR, M5 Pro) - macOS 27.2 (26B8125)</title>
+      <description>Device: MacBook Pro (16-inch PROLED XDR, M5 Pro) (Mac17,12)
 Platform: macOS
 Version: 27.2
 Build: 26B8125
@@ -792,8 +792,8 @@ Download: https://updates.cdn-apple.com/2026FallFCS/b83bb963-ebd8-4608-8b5d-fdc7
       <category>macOS</category>
     </item>
     <item>
-      <title>MacBook Pro (14-inch PROLED XDR Display) - macOS 27.2 (26B8125)</title>
-      <description>Device: MacBook Pro (14-inch PROLED XDR Display) (Mac17,13)
+      <title>MacBook Pro (14-inch PROLED XDR, M5 Pro) - macOS 27.2 (26B8125)</title>
+      <description>Device: MacBook Pro (14-inch PROLED XDR, M5 Pro) (Mac17,13)
 Platform: macOS
 Version: 27.2
 Build: 26B8125
