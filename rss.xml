@@ -5,7 +5,7 @@
     <link>https://gizlivadinet-creator.github.io/dosyalar/</link>
     <description>Latest official Apple IPSW firmware downloads (iOS, iPadOS, watchOS, tvOS, audioOS, visionOS, macOS) via ipsw.me API</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 19:18:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:07:08 +0000</lastBuildDate>
     <atom:link href="https://gizlivadinet-creator.github.io/dosyalar/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Developer Transition Kit - Firmware 11.2.3 (20D91)</title>
@@ -134,6 +134,38 @@ Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/140-67230/6F3
       <guid isPermaLink="false">AudioAccessory6,1_23L773</guid>
       <pubDate>Mon, 27 Jul 2026 17:37:58 +0000</pubDate>
       <category>audioOS</category>
+    </item>
+    <item>
+      <title>Apple HomeView - Firmware 27.2 (24V526)</title>
+      <description>Device: Apple HomeView (HomeAccessory17,1)
+Platform: Firmware
+Version: 27.2
+Build: 24V526
+Size: 7.92 GB
+SHA1: d8cb13d81c0b1becde143cd396042d4ae9e7f72e
+Signed by Apple: Yes
+Download: https://updates.cdn-apple.com/2026FallFCS/ec218b18-4303-46a2-9bb0-95b159169149/HomeAccessory17,1,HomeAccessory17,2_27.2_24V526_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/ec218b18-4303-46a2-9bb0-95b159169149/HomeAccessory17,1,HomeAccessory17,2_27.2_24V526_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/ec218b18-4303-46a2-9bb0-95b159169149/HomeAccessory17,1,HomeAccessory17,2_27.2_24V526_Restore.ipsw" length="8507344703" type="application/octet-stream"/>
+      <guid isPermaLink="false">HomeAccessory17,1_24V526</guid>
+      <pubDate>Thu, 12 Nov 2026 19:35:56 +0000</pubDate>
+      <category>Firmware</category>
+    </item>
+    <item>
+      <title>Apple HomeView (Wall Mounted) - Firmware 27.2 (24V526)</title>
+      <description>Device: Apple HomeView (Wall Mounted) (HomeAccessory17,2)
+Platform: Firmware
+Version: 27.2
+Build: 24V526
+Size: 7.92 GB
+SHA1: d8cb13d81c0b1becde143cd396042d4ae9e7f72e
+Signed by Apple: Yes
+Download: https://updates.cdn-apple.com/2026FallFCS/ec218b18-4303-46a2-9bb0-95b159169149/HomeAccessory17,1,HomeAccessory17,2_27.2_24V526_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/ec218b18-4303-46a2-9bb0-95b159169149/HomeAccessory17,1,HomeAccessory17,2_27.2_24V526_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/ec218b18-4303-46a2-9bb0-95b159169149/HomeAccessory17,1,HomeAccessory17,2_27.2_24V526_Restore.ipsw" length="8507344703" type="application/octet-stream"/>
+      <guid isPermaLink="false">HomeAccessory17,2_24V526</guid>
+      <pubDate>Thu, 12 Nov 2026 19:35:58 +0000</pubDate>
+      <category>Firmware</category>
     </item>
     <item>
       <title>Mac Studio (M1 Max) - macOS 27.2.1 (26B131)</title>
