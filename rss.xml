@@ -5,7 +5,7 @@
     <link>https://gizlivadinet-creator.github.io/dosyalar/</link>
     <description>Latest official Apple IPSW firmware downloads (iOS, iPadOS, watchOS, tvOS, audioOS, visionOS, macOS) via ipsw.me API</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 18:56:55 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 04:03:45 +0000</lastBuildDate>
     <atom:link href="https://gizlivadinet-creator.github.io/dosyalar/rss.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Developer Transition Kit - Firmware 11.2.3 (20D91)</title>
@@ -88,35 +88,35 @@ Download: https://updates.cdn-apple.com/2026SummerFCS/fullrestores/142-23175/686
       <category>tvOS</category>
     </item>
     <item>
-      <title>HomePod mini 2 - audioOS 27.2 (24K122)</title>
+      <title>HomePod mini 2 - audioOS 27.2.1 (24K157)</title>
       <description>Device: HomePod mini 2 (AudioAccessory11,1)
 Platform: audioOS
-Version: 27.2
-Build: 24K122
+Version: 27.2.1
+Build: 24K157
 Size: 4.14 GB
-SHA1: 7d8b7606d4f121e3ff6bf975e413dc4d026689ad
+SHA1: d538726ad1497900e999049fd4357de5b43eb73b
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/05f045dd-35a4-4b00-8bdc-de83b90d9ff8/AudioAccessory11,1_27.2_24K122_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/05f045dd-35a4-4b00-8bdc-de83b90d9ff8/AudioAccessory11,1_27.2_24K122_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/05f045dd-35a4-4b00-8bdc-de83b90d9ff8/AudioAccessory11,1_27.2_24K122_Restore.ipsw" length="4449988802" type="application/octet-stream"/>
-      <guid isPermaLink="false">AudioAccessory11,1_24K122</guid>
-      <pubDate>Mon, 26 Oct 2026 18:33:07 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/8074eaa3-74fc-4d64-bdda-00e527a80b85/AudioAccessory11,1_27.2.1_24K157_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/8074eaa3-74fc-4d64-bdda-00e527a80b85/AudioAccessory11,1_27.2.1_24K157_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/8074eaa3-74fc-4d64-bdda-00e527a80b85/AudioAccessory11,1_27.2.1_24K157_Restore.ipsw" length="4449997411" type="application/octet-stream"/>
+      <guid isPermaLink="false">AudioAccessory11,1_24K157</guid>
+      <pubDate>Fri, 13 Nov 2026 19:43:05 +0000</pubDate>
       <category>audioOS</category>
     </item>
     <item>
-      <title>HomePod mini - audioOS 27.2 (24K122)</title>
+      <title>HomePod mini - audioOS 27.2.1 (24K157)</title>
       <description>Device: HomePod mini (AudioAccessory5,1)
 Platform: audioOS
-Version: 27.2
-Build: 24K122
+Version: 27.2.1
+Build: 24K157
 Size: 4.07 GB
-SHA1: 2aa5d5d1f074d4093a943415e65f617612e8909f
+SHA1: b1a92edb6318cdab1cc67fce066ab540c3c38496
 Signed by Apple: Yes
-Download: https://updates.cdn-apple.com/2026FallFCS/4ee5d3c9-158b-4ad9-95b4-6cfa9ac0f0d4/AudioAccessory5,1_27.2_24K122_Restore.ipsw</description>
-      <link>https://updates.cdn-apple.com/2026FallFCS/4ee5d3c9-158b-4ad9-95b4-6cfa9ac0f0d4/AudioAccessory5,1_27.2_24K122_Restore.ipsw</link>
-      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/4ee5d3c9-158b-4ad9-95b4-6cfa9ac0f0d4/AudioAccessory5,1_27.2_24K122_Restore.ipsw" length="4372634207" type="application/octet-stream"/>
-      <guid isPermaLink="false">AudioAccessory5,1_24K122</guid>
-      <pubDate>Mon, 26 Oct 2026 18:33:26 +0000</pubDate>
+Download: https://updates.cdn-apple.com/2026FallFCS/f952d664-d8fd-46e3-894e-64dbdc4c01f3/AudioAccessory5,1_27.2.1_24K157_Restore.ipsw</description>
+      <link>https://updates.cdn-apple.com/2026FallFCS/f952d664-d8fd-46e3-894e-64dbdc4c01f3/AudioAccessory5,1_27.2.1_24K157_Restore.ipsw</link>
+      <enclosure url="https://updates.cdn-apple.com/2026FallFCS/f952d664-d8fd-46e3-894e-64dbdc4c01f3/AudioAccessory5,1_27.2.1_24K157_Restore.ipsw" length="4372638799" type="application/octet-stream"/>
+      <guid isPermaLink="false">AudioAccessory5,1_24K157</guid>
+      <pubDate>Fri, 13 Nov 2026 19:43:06 +0000</pubDate>
       <category>audioOS</category>
     </item>
     <item>
